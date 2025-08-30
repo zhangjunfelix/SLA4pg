@@ -1,0 +1,2 @@
+{{ $css := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="https://zhangjunfelix.github.io/SLA4pg/{{ $css.RelPermalink | strings.TrimPrefix "/" }}">

@@ -1,0 +1,35 @@
+/* Increase base font size (body text) */
+.book-page {
+    font-size: 20px; /* Adjust this value as desired */
+}
+
+/* Increase headings font size */
+.book-page h1 {
+    font-size: 3rem; /* default is about 1.875rem */
+}
+
+.book-page h2 {
+    font-size: 2rem;
+}
+
+.book-page h3 {
+    font-size: 1.6rem;
+}
+
+/* Sidebar menu font size */
+.book-menu-content {
+    font-size: 1.4rem;
+}
+
+/* Adjust Table of Contents font size */
+.book-toc-content {
+    font-size: 1rem;
+}
+
+.course-image {
+    width: 70%; /* Adjust as you prefer */
+    max-width: 600px;
+    display: block;
+    margin: 1rem auto; /* center alignment */
+    border-radius: 5px; /* optional */
+  }

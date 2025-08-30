@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="
+  Week 11 — L2 Processing &amp; Experimental Methods
+  #
+
+
+Anchor text: Slabakova (2016), Second Language Acquisition, Chapter 12.
+
+
+  ⭐ Overview (for preview)
+  #
+
+
+A compact toolkit for studying L2 processing: what offline vs. online methods measure and when to use them.
+How to align theoretical claims with diagnostic tasks, dependent variables, and analysis plans.
+Common design pitfalls (speed–accuracy tradeoff, item effects, underpowered samples) and how to avoid them.
+
+
+
+  🎯 Learning goals
+  #
+
+By the end of this week you should be able to:">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="https://zhangjunfelix.github.io/SLA4pg/week11/">
+  <meta property="og:title" content="Week 11 — L2 Processing & Experimental Methods">
+  <meta property="og:description" content="Week 11 — L2 Processing &amp; Experimental Methods # Anchor text: Slabakova (2016), Second Language Acquisition, Chapter 12.
+⭐ Overview (for preview) # A compact toolkit for studying L2 processing: what offline vs. online methods measure and when to use them. How to align theoretical claims with diagnostic tasks, dependent variables, and analysis plans. Common design pitfalls (speed–accuracy tradeoff, item effects, underpowered samples) and how to avoid them. 🎯 Learning goals # By the end of this week you should be able to:">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2025-05-01T08:47:59-04:00">
+    <meta property="article:modified_time" content="2025-05-01T08:47:59-04:00">
+<title>Week 11 — L2 Processing &amp; Experimental Methods | </title>
+<link rel="icon" href="https://zhangjunfelix.github.io/SLA4pg/favicon.png" >
+<link rel="manifest" href="https://zhangjunfelix.github.io/SLA4pg/SLA4pg/manifest.json">
+<link rel="canonical" href="https://zhangjunfelix.github.io/SLA4pg/week11/">
+<link rel="stylesheet" href="https://zhangjunfelix.github.io/SLA4pg/SLA4pg/book.min.6c8b9d2a1fc95075ed7da46ca81060b39add8fff6741ac51259f768929281e2c.css" integrity="sha256-bIudKh/JUHXtfaRsqBBgs5rdj/9nQaxRJZ92iSkoHiw=" crossorigin="anonymous">
+  <script defer src="https://zhangjunfelix.github.io/SLA4pg/fuse.min.js"></script>
+  <script defer src="https://zhangjunfelix.github.io/SLA4pg/SLA4pg/en.search.min.2d75218b6394101e98d18e8fe0107bf8ea4dfdb84773ca0a1f2c7f2ee400757b.js" integrity="sha256-LXUhi2OUEB6Y0Y6P4BB7&#43;OpN/bhHc8oKHyx/LuQAdXs=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="https://zhangjunfelix.github.io/SLA4pg/"><span></span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/syllabus/" class="">Syllabus (Postgraduate)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week1/" class="">Week 1 — Language Architecture &amp; SLA as a Science</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week2/" class="">Week 2 — Language Variation &amp; the Learning Task</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week3/" class="">Week 3 — Processing &amp; the Parser: How L2 is Used in Real Time</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week4/" class="">Week 4 — Age, Input &amp; the Critical Period</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week5/" class="">Week 5 — Comparing Acquisition Contexts: 2L1, Adult L2, Heritage &amp; Attrition</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week6/" class="">Week 6 — Functional Morphology: Where (and Why) L2 Morphology Is Fragile</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week7/" class="">Week 7 — Syntax: Word Order, Movement, and Competing Accounts</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week8/" class="">Week 8 — The Mental Lexicon: Representation, Access, and Argument Structure</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week9/" class="">Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week10/" class="">Week 10 — Syntax–Discourse &amp; Semantics–Pragmatics Interfaces</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week11/" class="active">Week 11 — L2 Processing &amp; Experimental Methods</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week12/" class="">Week 12 — Teaching Implications &amp; the Bottleneck Hypothesis</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="https://zhangjunfelix.github.io/SLA4pg/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Week 11 — L2 Processing &amp; Experimental Methods</h3>
+
+  <label for="toc-control">
+    
+    <img src="https://zhangjunfelix.github.io/SLA4pg/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#week-11--l2-processing--experimental-methods">Week 11 — L2 Processing &amp; Experimental Methods</a>
+      <ul>
+        <li><a href="#-overview-for-preview">⭐ Overview (for preview)</a></li>
+        <li><a href="#-learning-goals">🎯 Learning goals</a></li>
+        <li><a href="#-reading-do-before-session-1">📖 Reading (do before Session 1)</a></li>
+        <li><a href="#-key-terms">🧠 Key terms</a></li>
+        <li><a href="#-core-ideas">🔍 Core ideas</a></li>
+        <li><a href="#-mini-lecture-outline-session-1-45-min">🗂️ Mini-lecture outline (Session 1, 45 min)</a></li>
+        <li><a href="#-methods-micro-lab-session-2-45-min">🧪 Methods micro-lab (Session 2, 45 min)</a></li>
+        <li><a href="#-in-class-application-session-3-45-min">🧩 In-class application (Session 3, 45 min)</a></li>
+        <li><a href="#-self-check-answers-hidden">✅ Self-check (answers hidden)</a></li>
+        <li><a href="#-weekly-analytical-note-due-before-week-12">📝 Weekly analytical note (due before Week 12)</a></li>
+        <li><a href="#-preview-of-week-12">🧭 Preview of Week 12</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><h2 id="week-11--l2-processing--experimental-methods">
+  Week 11 — L2 Processing &amp; Experimental Methods
+  <a class="anchor" href="#week-11--l2-processing--experimental-methods">#</a>
+</h2>
+<blockquote>
+<p><strong>Anchor text</strong>: Slabakova (2016), <em>Second Language Acquisition</em>, <strong>Chapter 12</strong>.</p>
+</blockquote>
+<h3 id="-overview-for-preview">
+  ⭐ Overview (for preview)
+  <a class="anchor" href="#-overview-for-preview">#</a>
+</h3>
+<ul>
+<li>A compact <strong>toolkit</strong> for studying L2 processing: what <strong>offline</strong> vs. <strong>online</strong> methods measure and when to use them.</li>
+<li>How to align <strong>theoretical claims</strong> with <strong>diagnostic tasks</strong>, <strong>dependent variables</strong>, and <strong>analysis plans</strong>.</li>
+<li>Common <strong>design pitfalls</strong> (speed–accuracy tradeoff, item effects, underpowered samples) and how to avoid them.</li>
+</ul>
+<hr>
+<h3 id="-learning-goals">
+  🎯 Learning goals
+  <a class="anchor" href="#-learning-goals">#</a>
+</h3>
+<p>By the end of this week you should be able to:</p>
+<ol>
+<li>Map a <strong>theory claim</strong> to an appropriate <strong>method</strong> (GJT/AJT, SPR, eye-tracking, ERP) and <strong>DV</strong>.</li>
+<li>Define key <strong>online signatures</strong> (e.g., first-pass vs. regression-path times; N400/P600 windows) and what they imply.</li>
+<li>Draft a <strong>minimal, well-controlled design</strong> (counterbalancing, fillers, regions/time-windows, exclusions).</li>
+<li>Specify an <strong>analysis plan</strong> (effect size, mixed-effects modeling basics, power/pre-registration) with a clear <strong>falsifier</strong>.</li>
+</ol>
+<hr>
+<h3 id="-reading-do-before-session-1">
+  📖 Reading (do before Session 1)
+  <a class="anchor" href="#-reading-do-before-session-1">#</a>
+</h3>
+<ul>
+<li><strong>Required</strong>: Slabakova (2016), <strong>Ch. 12</strong> (overview of methods for L2 processing; morphology/syntax effects; individual differences).</li>
+<li><strong>Optional</strong>: Revisit Ch. 3 for processing fundamentals to connect constructs to measures.</li>
+</ul>
+<p><strong>Guiding questions:</strong></p>
+<ul>
+<li>What <strong>new insight</strong> does an <strong>online</strong> method offer beyond offline accuracy?</li>
+<li>For your research interest (e.g., agreement, article semantics, scope), which <strong>task + DV</strong> is most diagnostic and why?</li>
+</ul>
+<hr>
+<h3 id="-key-terms">
+  🧠 Key terms
+  <a class="anchor" href="#-key-terms">#</a>
+</h3>
+<p><em>offline vs. online; (timed) grammaticality/acceptability judgment (GJT/AJT); self-paced reading (SPR); region of interest (ROI); spillover; eye-tracking (first fixation, first-pass/gaze, regression-path, total time, skipping); ERP (baseline, time window, N400, LAN, P600); randomization, counterbalancing, Latin square; fillers; speed–accuracy tradeoff; response bias; mixed-effects models; random intercepts/slopes; effect size; power; preregistration; exclusion criteria.</em></p>
+<hr>
+<h3 id="-core-ideas">
+  🔍 Core ideas
+  <a class="anchor" href="#-core-ideas">#</a>
+</h3>
+<ul>
+<li><strong>Match claim ↔ measure</strong>: Processing claims require <strong>time-course</strong> measures; competence claims require <strong>untimed</strong> judgments/comprehension—ideally use <strong>both</strong>.</li>
+<li><strong>Signature patterns</strong>:
+<ul>
+<li><strong>SPR</strong>: region-locked <strong>slowdowns</strong> at the critical ROI (plus <strong>spillover</strong>).</li>
+<li><strong>Eye-tracking</strong>: early <strong>first-pass</strong> differences vs. later <strong>regression-path/total time</strong>; <strong>skipping</strong> rates reflect predictability.</li>
+<li><strong>ERP</strong>: <strong>N400</strong> (lexical/semantic integration), <strong>P600</strong> (syntactic reanalysis/morpho-syntax), sometimes <strong>LAN</strong> (early morpho-syntax).</li>
+</ul>
+</li>
+<li><strong>Design hygiene</strong>: Control <strong>lexical frequency/length</strong>, avoid <strong>item confounds</strong>, <strong>counterbalance</strong> lists, add <strong>fillers</strong>, and include <strong>comprehension checks</strong> to maintain task engagement.</li>
+<li><strong>Analysis basics</strong>: Report <strong>effect sizes</strong>, use <strong>mixed-effects</strong> models with <strong>participants/items</strong> as random factors, predefine <strong>exclusions</strong> (e.g., &lt;60% comprehension, RT outliers), and consider <strong>power</strong> (planned N).</li>
+</ul>
+<hr>
+<h3 id="-mini-lecture-outline-session-1-45-min">
+  🗂️ Mini-lecture outline (Session 1, 45 min)
+  <a class="anchor" href="#-mini-lecture-outline-session-1-45-min">#</a>
+</h3>
+<h4 id="1-choosing-the-right-method--dv">
+  1) Choosing the right method &amp; DV
+  <a class="anchor" href="#1-choosing-the-right-method--dv">#</a>
+</h4>
+<ul>
+<li><strong>Key notes</strong>:
+<ul>
+<li><strong>Untimed AJT/GJT</strong> → competence judgments; <strong>Timed GJT</strong> → adds processing pressure.</li>
+<li><strong>SPR</strong> → linear text, precise <strong>ROI</strong> comparisons; <strong>Eye-tracking</strong> → natural reading with <strong>multiple measures</strong>; <strong>ERP</strong> → millisecond-level neural signatures.</li>
+<li>Avoid <strong>speed–accuracy tradeoff</strong> and <strong>response bias</strong> (include foils, practice, and comprehension probes).</li>
+</ul>
+</li>
+<li><strong>Class spark</strong>: Given a claim (“L2 readers compute agreement but more slowly”), students pick <strong>one method + one DV</strong> and justify.</li>
+</ul>
+<h4 id="2-online-signatures--interpretation">
+  2) Online signatures &amp; interpretation
+  <a class="anchor" href="#2-online-signatures--interpretation">#</a>
+</h4>
+<ul>
+<li><strong>Key notes</strong>:
+<ul>
+<li><strong>SPR</strong>: establish <strong>pre-critical baseline</strong>, identify <strong>critical</strong> and <strong>spillover</strong> regions.</li>
+<li><strong>Eye-tracking</strong>: what <strong>first-pass</strong>, <strong>regression-path</strong>, <strong>total time</strong>, and <strong>skipping</strong> each index.</li>
+<li><strong>ERP</strong>: define <strong>baseline</strong>, <strong>time-windows</strong> (e.g., 300–500 ms N400; 500–800 ms P600); control <strong>artifacts</strong> and <strong>trial counts</strong>.</li>
+</ul>
+</li>
+<li><strong>Micro-demo</strong>: Annotate a sample sentence with ROIs/time-windows; predict where effects should appear.</li>
+</ul>
+<h4 id="3-design-hygiene--analysis-plan">
+  3) Design hygiene &amp; analysis plan
+  <a class="anchor" href="#3-design-hygiene--analysis-plan">#</a>
+</h4>
+<ul>
+<li><strong>Key notes</strong>:
+<ul>
+<li><strong>Stimuli</strong>: balance lexical properties, avoid unintended cues; <strong>Latin-square</strong> lists to distribute conditions.</li>
+<li><strong>Fillers</strong>: mix structures to reduce strategy.</li>
+<li><strong>Stats</strong>: mixed-effects (participants/items), pre-registered <strong>contrasts</strong>, <strong>effect size</strong>, <strong>power</strong> (pilot or simulation).</li>
+<li><strong>Exclusions</strong>: comprehension accuracy threshold; RT trimming rules; ERP artifact criteria.</li>
+</ul>
+</li>
+<li><strong>Think–pair–share</strong>: Identify <strong>one threat</strong> to validity in a sample design and propose a fix.</li>
+</ul>
+<blockquote>
+<p><strong>Pacing</strong>: ~12 min each mini-topic + ~9 min Q&amp;A fits 45 minutes.</p>
+</blockquote>
+<hr>
+<h3 id="-methods-micro-lab-session-2-45-min">
+  🧪 Methods micro-lab (Session 2, 45 min)
+  <a class="anchor" href="#-methods-micro-lab-session-2-45-min">#</a>
+</h3>
+<p><strong>Goal</strong>: From claim → materials → DV → analysis (compact prereg sheet).</p>
+<p>Choose <strong>ONE</strong> template and fill it in:</p>
+<ul>
+<li>
+<p><strong>A. Agreement attraction (SPR)</strong></p>
+<ul>
+<li><em>Hypothesis</em>: L2 readers represent agreement but suffer <strong>similarity-based interference</strong>.</li>
+<li><em>Materials</em>: Sentences like “The <strong>key</strong> to the <strong>cabinets</strong> … <strong>is/are</strong> …” with <strong>match/mismatch</strong> conditions.</li>
+<li><em>DV</em>: RT at <strong>verb region</strong> (+ spillover).</li>
+<li><em>Analysis</em>: Mixed-effects on logRTs; fixed effects = <strong>Match</strong> × <strong>Grammaticality</strong>, random intercepts/items; define outlier trimming.</li>
+<li><em>Falsifier</em>: No mismatch cost at the verb region despite adequate power.</li>
+</ul>
+</li>
+<li>
+<p><strong>B. Wh-dependency (Eye-tracking)</strong></p>
+<ul>
+<li><em>Hypothesis</em>: L2 readers build <strong>filler–gap</strong> dependencies but incur larger <strong>reanalysis</strong> costs.</li>
+<li><em>Materials</em>: Grammatical vs. <strong>island</strong> violations; gap/disambiguation region marked.</li>
+<li><em>DV</em>: <strong>Regression-path time</strong> at disambiguation; <strong>first-pass</strong> at gap.</li>
+<li><em>Analysis</em>: Mixed-effects per measure; accuracy screen on comprehension Qs.</li>
+<li><em>Falsifier</em>: Equal regression-path times across grammatical vs. island conditions.</li>
+</ul>
+</li>
+<li>
+<p><strong>C. Semantic vs. morpho-syntactic violations (ERP)</strong></p>
+<ul>
+<li><em>Hypothesis</em>: L2 shows <strong>N400</strong> to semantic anomalies, <strong>P600</strong> to morpho-syntactic ones, with possible latency differences.</li>
+<li><em>Materials</em>: Minimal pairs (semantic violation vs. agreement violation vs. control).</li>
+<li><em>DV</em>: Mean amplitude in <strong>300–500 ms</strong> (N400) and <strong>500–800 ms</strong> (P600) windows at preselected electrodes.</li>
+<li><em>Analysis</em>: Repeated-measures/mixed models; artifact rejection rules; minimum trials per condition.</li>
+<li><em>Falsifier</em>: Absence of condition effects with sufficient clean trials and power.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Deliverable</strong>: 5 bullet prereg—<strong>Hypothesis</strong>, <strong>Materials</strong>, <strong>DV(s)</strong>, <strong>Exclusions</strong>, <strong>Model/Contrasts</strong>.</p>
+<hr>
+<h3 id="-in-class-application-session-3-45-min">
+  🧩 In-class application (Session 3, 45 min)
+  <a class="anchor" href="#-in-class-application-session-3-45-min">#</a>
+</h3>
+<p><strong>Case vignette: Two studies, different conclusions</strong></p>
+<ul>
+<li><strong>Study 1 (Timed GJT)</strong>: L2 group patterns with natives on agreement violations.</li>
+<li><strong>Study 2 (SPR)</strong>: Same learners show <strong>slowdowns</strong> at the verb only when a distractor noun competes.</li>
+</ul>
+<p><strong>Discussion prompts</strong>:</p>
+<ol>
+<li>Reconcile the findings: <strong>competence</strong> intact, <strong>processing costs</strong> under time pressure?</li>
+<li>What <strong>design differences</strong> (e.g., ROI placement, spillover, list balancing) could amplify or suppress the effect?</li>
+<li>Redesign one study (change <strong>task</strong> or <strong>DV</strong>) to test the integrated hypothesis.</li>
+<li><strong>Instructional angle</strong>: propose a drill or reading activity that targets the specific processing cost.</li>
+</ol>
+<hr>
+<h3 id="-self-check-answers-hidden">
+  ✅ Self-check (answers hidden)
+  <a class="anchor" href="#-self-check-answers-hidden">#</a>
+</h3>
+<ol>
+<li>One advantage of <strong>SPR</strong> over <strong>timed GJT</strong> for processing claims.</li>
+</ol>
+<!-- Region-level time-course (critical + spillover) reveals *where* difficulty arises, not just end-point accuracy. -->
+<ol start="2">
+<li>Name <strong>two eye-tracking measures</strong> and what they index.</li>
+</ol>
+<!-- First-pass/gaze: early lexical/syntactic processing; Regression-path: reanalysis/integration difficulty; Total time: overall processing including late stages. -->
+<ol start="3">
+<li>Typical <strong>ERP</strong> signatures for semantic vs. morpho-syntactic violations.</li>
+</ol>
+<!-- N400 for semantic integration; P600 for syntactic/morpho-syntactic reanalysis/integration. -->
+<ol start="4">
+<li>One <strong>design practice</strong> that reduces response strategies in AJT/GJT.</li>
+</ol>
+<!-- Include varied fillers and comprehension checks; counterbalance condition order. -->
+<ol start="5">
+<li>Why use <strong>mixed-effects models</strong> for psycholinguistic data?</li>
+</ol>
+<!-- They account for variability by *participants* and *items*, improving generalization beyond a single sample of each. -->
+<hr>
+<h3 id="-weekly-analytical-note-due-before-week-12">
+  📝 Weekly analytical note (due before Week 12)
+  <a class="anchor" href="#-weekly-analytical-note-due-before-week-12">#</a>
+</h3>
+<p>Draft the <strong>Methods &amp; Analysis</strong> section for your final proposal (≈300–400 words). Include: (a) <strong>task + DV(s)</strong> with ROIs/time-windows, (b) <strong>materials</strong> and counterbalancing, (c) <strong>exclusion criteria</strong>, (d) <strong>planned model/contrasts</strong> and <strong>effect size</strong>, and (e) a <strong>power</strong> or <strong>pilot</strong> plan. End with a <strong>falsifier</strong> for your main claim.</p>
+<hr>
+<h3 id="-preview-of-week-12">
+  🧭 Preview of Week 12
+  <a class="anchor" href="#-preview-of-week-12">#</a>
+</h3>
+<p>We close with <strong>teaching implications</strong> and the <strong>Bottleneck Hypothesis</strong>—how theory-driven evidence about morphology, syntax, and processing informs <strong>focus on form</strong> in the classroom.</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#week-11--l2-processing--experimental-methods">Week 11 — L2 Processing &amp; Experimental Methods</a>
+      <ul>
+        <li><a href="#-overview-for-preview">⭐ Overview (for preview)</a></li>
+        <li><a href="#-learning-goals">🎯 Learning goals</a></li>
+        <li><a href="#-reading-do-before-session-1">📖 Reading (do before Session 1)</a></li>
+        <li><a href="#-key-terms">🧠 Key terms</a></li>
+        <li><a href="#-core-ideas">🔍 Core ideas</a></li>
+        <li><a href="#-mini-lecture-outline-session-1-45-min">🗂️ Mini-lecture outline (Session 1, 45 min)</a></li>
+        <li><a href="#-methods-micro-lab-session-2-45-min">🧪 Methods micro-lab (Session 2, 45 min)</a></li>
+        <li><a href="#-in-class-application-session-3-45-min">🧩 In-class application (Session 3, 45 min)</a></li>
+        <li><a href="#-self-check-answers-hidden">✅ Self-check (answers hidden)</a></li>
+        <li><a href="#-weekly-analytical-note-due-before-week-12">📝 Weekly analytical note (due before Week 12)</a></li>
+        <li><a href="#-preview-of-week-12">🧭 Preview of Week 12</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

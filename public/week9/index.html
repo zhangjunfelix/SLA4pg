@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="
+  Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope
+  #
+
+
+Anchor text: Slabakova (2016), Second Language Acquisition, Chapter 10.
+
+
+  ⭐ Overview (for preview)
+  #
+
+
+How syntactic structure and semantic composition interact to yield meanings (event types, definiteness/specificity, scope).
+Why L2 learners struggle with telicity/aspect, article semantics, and quantifier scope—and what this predicts for data patterns.
+Minimal, testable designs for the interface: truth-value judgment, acceptability with controlled contexts, and online measures.
+
+
+
+  🎯 Learning goals
+  #
+
+By the end of this week you should be able to:">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="https://zhangjunfelix.github.io/SLA4pg/week9/">
+  <meta property="og:title" content="Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope">
+  <meta property="og:description" content="Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope # Anchor text: Slabakova (2016), Second Language Acquisition, Chapter 10.
+⭐ Overview (for preview) # How syntactic structure and semantic composition interact to yield meanings (event types, definiteness/specificity, scope). Why L2 learners struggle with telicity/aspect, article semantics, and quantifier scope—and what this predicts for data patterns. Minimal, testable designs for the interface: truth-value judgment, acceptability with controlled contexts, and online measures. 🎯 Learning goals # By the end of this week you should be able to:">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2025-04-21T08:47:59-04:00">
+    <meta property="article:modified_time" content="2025-04-21T08:47:59-04:00">
+<title>Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope | </title>
+<link rel="icon" href="https://zhangjunfelix.github.io/SLA4pg/favicon.png" >
+<link rel="manifest" href="https://zhangjunfelix.github.io/SLA4pg/SLA4pg/manifest.json">
+<link rel="canonical" href="https://zhangjunfelix.github.io/SLA4pg/week9/">
+<link rel="stylesheet" href="https://zhangjunfelix.github.io/SLA4pg/SLA4pg/book.min.6c8b9d2a1fc95075ed7da46ca81060b39add8fff6741ac51259f768929281e2c.css" integrity="sha256-bIudKh/JUHXtfaRsqBBgs5rdj/9nQaxRJZ92iSkoHiw=" crossorigin="anonymous">
+  <script defer src="https://zhangjunfelix.github.io/SLA4pg/fuse.min.js"></script>
+  <script defer src="https://zhangjunfelix.github.io/SLA4pg/SLA4pg/en.search.min.2d75218b6394101e98d18e8fe0107bf8ea4dfdb84773ca0a1f2c7f2ee400757b.js" integrity="sha256-LXUhi2OUEB6Y0Y6P4BB7&#43;OpN/bhHc8oKHyx/LuQAdXs=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="https://zhangjunfelix.github.io/SLA4pg/"><span></span>
+  </a>
+</h2>
+
+
+<div class="book-search hidden">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+<script>document.querySelector(".book-search").classList.remove("hidden")</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/syllabus/" class="">Syllabus (Postgraduate)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week1/" class="">Week 1 — Language Architecture &amp; SLA as a Science</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week2/" class="">Week 2 — Language Variation &amp; the Learning Task</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week3/" class="">Week 3 — Processing &amp; the Parser: How L2 is Used in Real Time</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week4/" class="">Week 4 — Age, Input &amp; the Critical Period</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week5/" class="">Week 5 — Comparing Acquisition Contexts: 2L1, Adult L2, Heritage &amp; Attrition</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week6/" class="">Week 6 — Functional Morphology: Where (and Why) L2 Morphology Is Fragile</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week7/" class="">Week 7 — Syntax: Word Order, Movement, and Competing Accounts</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week8/" class="">Week 8 — The Mental Lexicon: Representation, Access, and Argument Structure</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week9/" class="active">Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week10/" class="">Week 10 — Syntax–Discourse &amp; Semantics–Pragmatics Interfaces</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week11/" class="">Week 11 — L2 Processing &amp; Experimental Methods</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="https://zhangjunfelix.github.io/SLA4pg/week12/" class="">Week 12 — Teaching Implications &amp; the Bottleneck Hypothesis</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="https://zhangjunfelix.github.io/SLA4pg/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope</h3>
+
+  <label for="toc-control">
+    
+    <img src="https://zhangjunfelix.github.io/SLA4pg/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#week-9--syntaxsemantics-interface-meaning-composition-telicity-and-scope">Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope</a>
+      <ul>
+        <li><a href="#-overview-for-preview">⭐ Overview (for preview)</a></li>
+        <li><a href="#-learning-goals">🎯 Learning goals</a></li>
+        <li><a href="#-reading-do-before-session-1">📖 Reading (do before Session 1)</a></li>
+        <li><a href="#-key-terms">🧠 Key terms</a></li>
+        <li><a href="#-core-ideas">🔍 Core ideas</a></li>
+        <li><a href="#-mini-lecture-outline-session-1-45-min">🗂️ Mini-lecture outline (Session 1, 45 min)</a></li>
+        <li><a href="#-methods-micro-lab-session-2-45-min">🧪 Methods micro-lab (Session 2, 45 min)</a></li>
+        <li><a href="#-in-class-application-session-3-45-min">🧩 In-class application (Session 3, 45 min)</a></li>
+        <li><a href="#-self-check-answers-hidden">✅ Self-check (answers hidden)</a></li>
+        <li><a href="#-weekly-analytical-note-due-before-week-10">📝 Weekly analytical note (due before Week 10)</a></li>
+        <li><a href="#-preview-of-week-10">🧭 Preview of Week 10</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown book-article"><h2 id="week-9--syntaxsemantics-interface-meaning-composition-telicity-and-scope">
+  Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope
+  <a class="anchor" href="#week-9--syntaxsemantics-interface-meaning-composition-telicity-and-scope">#</a>
+</h2>
+<blockquote>
+<p><strong>Anchor text</strong>: Slabakova (2016), <em>Second Language Acquisition</em>, <strong>Chapter 10</strong>.</p>
+</blockquote>
+<h3 id="-overview-for-preview">
+  ⭐ Overview (for preview)
+  <a class="anchor" href="#-overview-for-preview">#</a>
+</h3>
+<ul>
+<li>How <strong>syntactic structure</strong> and <strong>semantic composition</strong> interact to yield meanings (event types, definiteness/specificity, scope).</li>
+<li>Why L2 learners struggle with <strong>telicity/aspect</strong>, <strong>article semantics</strong>, and <strong>quantifier scope</strong>—and what this predicts for data patterns.</li>
+<li>Minimal, testable designs for the interface: <strong>truth-value judgment</strong>, <strong>acceptability</strong> with controlled contexts, and <strong>online</strong> measures.</li>
+</ul>
+<hr>
+<h3 id="-learning-goals">
+  🎯 Learning goals
+  <a class="anchor" href="#-learning-goals">#</a>
+</h3>
+<p>By the end of this week you should be able to:</p>
+<ol>
+<li>Explain how <strong>event structure</strong> (state, activity, accomplishment, achievement) and <strong>object quantization</strong> affect <strong>telicity</strong>.</li>
+<li>Distinguish <strong>definiteness vs. specificity</strong> and predict article-use challenges for learners from <strong>article-less L1s</strong>.</li>
+<li>Describe <strong>scope ambiguities</strong> and derive <strong>L1-specific predictions</strong> for inverse scope in L2.</li>
+<li>Propose a compact <strong>experiment</strong> (materials, context, DV) that targets a syntax–semantics interface contrast.</li>
+</ol>
+<hr>
+<h3 id="-reading-do-before-session-1">
+  📖 Reading (do before Session 1)
+  <a class="anchor" href="#-reading-do-before-session-1">#</a>
+</h3>
+<ul>
+<li><strong>Required</strong>: Slabakova (2016), <strong>Ch. 10</strong> (focus on: compositionality; event semantics &amp; telicity; article semantics: definiteness/specificity/genericity; quantifiers &amp; scope).</li>
+<li><strong>Optional</strong>: Revisit Ch. 8 (syntax diagnostics) and Ch. 3 (processing) for links to structure and time-course.</li>
+</ul>
+<p><strong>Guiding questions:</strong></p>
+<ul>
+<li>Why does <em>eat apples</em> pattern differently from <em>eat an apple</em> or <em>eat the apple</em> in aspectual interpretation?</li>
+<li>How can the <strong>same surface sentence</strong> have <strong>two truth conditions</strong> (scope ambiguity), and how would you test which reading a learner has?</li>
+</ul>
+<hr>
+<h3 id="-key-terms">
+  🧠 Key terms
+  <a class="anchor" href="#-key-terms">#</a>
+</h3>
+<p><em>compositionality; event structure (state/activity/accomplishment/achievement); telicity; quantization vs. cumulativity; perfective vs. imperfective; article semantics; definiteness; specificity; genericity; quantifiers; scope; inverse scope; distributive vs. collective; truth-value judgment task (TVJT).</em></p>
+<hr>
+<h3 id="-core-ideas">
+  🔍 Core ideas
+  <a class="anchor" href="#-core-ideas">#</a>
+</h3>
+<ul>
+<li><strong>Event composition &amp; telicity</strong>: VP meaning arises from verb + object; <strong>quantized</strong> objects (e.g., <em>an apple</em>, <em>three apples</em>) tend to yield <strong>telic</strong> interpretations (bounded events), while <strong>mass/plural bare</strong> objects (<em>apples</em>, <em>rice</em>) favor <strong>atelic</strong> readings.</li>
+<li><strong>Articles &amp; DP features</strong>: Languages package <strong>[±definite]</strong>, <strong>[±specific]</strong>, and <strong>generic</strong> readings differently. Learners from <strong>article-less L1s</strong> must map new features to forms; expect <strong>overuse/underuse</strong> of <em>the/a</em> and confusion in <strong>context-dependent</strong> readings.</li>
+<li><strong>Quantification &amp; scope</strong>: Sentences with multiple quantifiers (e.g., <em>A student read every book</em>) can have <strong>surface</strong> (∃ &gt; ∀) and <strong>inverse</strong> (∀ &gt; ∃) readings. L1 grammar and processing preferences shape which readings L2 learners access.</li>
+</ul>
+<hr>
+<h3 id="-mini-lecture-outline-session-1-45-min">
+  🗂️ Mini-lecture outline (Session 1, 45 min)
+  <a class="anchor" href="#-mini-lecture-outline-session-1-45-min">#</a>
+</h3>
+<h4 id="1-event-structure--telicity">
+  1) Event structure &amp; telicity
+  <a class="anchor" href="#1-event-structure--telicity">#</a>
+</h4>
+<ul>
+<li><strong>Key notes</strong>:
+<ul>
+<li><strong>Accomplishments</strong> (bounded events) vs. <strong>activities</strong> (unbounded) depend on the <strong>internal argument</strong>: <em>eat an apple</em> (telic) vs. <em>eat apples</em> (atelic).</li>
+<li>Adding <strong>measure phrases</strong> (<em>drink a glass of water</em>) or <strong>resultative structure</strong> increases boundedness.</li>
+<li>Predictions: Learners may misinterpret aspect when the <strong>object’s quantization</strong> or <strong>measure</strong> is the only cue.</li>
+</ul>
+</li>
+<li><strong>Class spark</strong>: Label a set of VPs (provided) as telic/atelic and justify by object type/measure.</li>
+</ul>
+<h4 id="2-article-semantics-definiteness-specificity-generics">
+  2) Article semantics: definiteness, specificity, generics
+  <a class="anchor" href="#2-article-semantics-definiteness-specificity-generics">#</a>
+</h4>
+<ul>
+<li><strong>Key notes</strong>:
+<ul>
+<li><strong>Definiteness</strong> = unique, familiar referent (<em>the book</em>); <strong>specificity</strong> = speaker intends a particular but not necessarily familiar referent (<em>a certain book</em>).</li>
+<li><strong>Generics</strong>: <em>The tiger/The tigers/Tigers are endangered</em>—form–meaning mapping varies.</li>
+<li>L2 predictions: <strong>Article-less L1s</strong> overuse <em>the</em> for specificity or familiarity, underuse <em>a</em> in novel but non-specific contexts; difficulty with <strong>generic</strong> readings.</li>
+</ul>
+</li>
+<li><strong>Micro-demo</strong>: Two-sentence contexts that force <strong>definite vs. indefinite</strong> vs. <strong>specific</strong> readings; students pick the felicitous article.</li>
+</ul>
+<h4 id="3-quantifier-scope--ambiguity-resolution">
+  3) Quantifier scope &amp; ambiguity resolution
+  <a class="anchor" href="#3-quantifier-scope--ambiguity-resolution">#</a>
+</h4>
+<ul>
+<li><strong>Key notes</strong>:
+<ul>
+<li>Scope options: <em>A student read every book</em> (∃ &gt; ∀ vs. ∀ &gt; ∃).</li>
+<li>Diagnostics: picture verification, <strong>TVJT</strong> with explicit contexts, or continuation tasks.</li>
+<li>L2 predictions: Preference for <strong>surface scope</strong> early; inverse scope access depends on L1, proficiency, and processing load.</li>
+</ul>
+</li>
+<li><strong>Think–pair–share</strong>: Draft one <strong>context sentence</strong> that forces <strong>inverse scope</strong> for <em>A reviewer read every paper</em>, then test with a minimal prompt.</li>
+</ul>
+<blockquote>
+<p><strong>Pacing</strong>: ~12 min per mini-topic + ~9 min discussion.</p>
+</blockquote>
+<hr>
+<h3 id="-methods-micro-lab-session-2-45-min">
+  🧪 Methods micro-lab (Session 2, 45 min)
+  <a class="anchor" href="#-methods-micro-lab-session-2-45-min">#</a>
+</h3>
+<p><strong>Goal</strong>: Build a minimal, diagnostic task for <strong>one</strong> interface domain.</p>
+<p>Choose <strong>ONE</strong> and complete the template:</p>
+<ul>
+<li>
+<p><strong>A. Telicity via object quantization</strong></p>
+<ul>
+<li><em>Materials</em>: Triplets (telic vs. atelic), e.g., <em>eat an apple / eat apples / eat three apples</em>.</li>
+<li><em>Task</em>: <strong>TVJT</strong> with animated clips (bounded/unbounded); or <strong>acceptability</strong> with aspectual adverbs (<em>in an hour</em> vs. <em>for an hour</em>).</li>
+<li><em>Prediction</em>: Learners with article-less/mass-preference L1s will over-accept <strong>atelic + <em>in an hour</em></strong> and under-accept <strong>telic + <em>in an hour</em></strong> early on.</li>
+</ul>
+</li>
+<li>
+<p><strong>B. Article semantics (definite/specific/generic)</strong></p>
+<ul>
+<li><em>Materials</em>: Two-sentence contexts fixing discourse status (unique/familiar, novel-specific, generic).</li>
+<li><em>Task</em>: <strong>Contexted AJT</strong> (choose <em>the/a/∅</em>), plus a short <strong>explanation</strong> prompt.</li>
+<li><em>Prediction</em>: Overuse of <em>the</em> in <strong>novel-specific</strong> contexts; instability in <strong>generic</strong> mappings (<em>Tigers are…</em> vs. <em>The tiger is…</em>).</li>
+</ul>
+</li>
+<li>
+<p><strong>C. Quantifier scope</strong></p>
+<ul>
+<li><em>Materials</em>: Contexts that force <strong>inverse scope</strong>; test sentences with two quantifiers.</li>
+<li><em>Task</em>: <strong>TVJT</strong> with pictures/scenarios; optional <strong>SPR</strong> for online costs at disambiguation.</li>
+<li><em>Prediction</em>: Preference for surface scope; inverse scope improves with proficiency and supportive contexts.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Deliverable</strong>: 3-line prereg—hypothesis, <strong>primary DV</strong> (accuracy/TVJ acceptances, RTs), and <strong>falsifier</strong>.</p>
+<hr>
+<h3 id="-in-class-application-session-3-45-min">
+  🧩 In-class application (Session 3, 45 min)
+  <a class="anchor" href="#-in-class-application-session-3-45-min">#</a>
+</h3>
+<p><strong>Case vignette</strong></p>
+<ul>
+<li><strong>Group A (Mandarin L1 → English)</strong>: unstable <strong>article</strong> choices in novel-specific contexts; overuse of <em>the</em>.</li>
+<li><strong>Group B (Russian L1 → English)</strong>: near-native <strong>telicity</strong> with measure phrases but difficulty with <strong>generic</strong> readings; surface-biased <strong>scope</strong> preferences.</li>
+</ul>
+<p><strong>Questions</strong>:</p>
+<ol>
+<li>Which patterns suggest <strong>feature-mapping</strong> problems (DP) vs. <strong>composition</strong> problems (telicity) vs. <strong>processing</strong> preferences (scope)?</li>
+<li>What <strong>context manipulation</strong> would make the target meaning <strong>diagnostic</strong> for each group?</li>
+<li>Propose one <strong>classroom intervention</strong> (e.g., article choice with discourse cards; telicity training via <em>in/for an hour</em> diagnostics; scope paraphrase/verification drills).</li>
+</ol>
+<hr>
+<h3 id="-self-check-answers-hidden">
+  ✅ Self-check (answers hidden)
+  <a class="anchor" href="#-self-check-answers-hidden">#</a>
+</h3>
+<ol>
+<li>Why does <em>eat an apple</em> tend to be <strong>telic</strong> while <em>eat apples</em> is <strong>atelic</strong>?</li>
+</ol>
+<!-- Because a quantized object provides a natural endpoint (bounded event), whereas bare plurals/mass terms are cumulative and do not bound the event. -->
+<ol start="2">
+<li>Give a context where <em>a</em> is correct but <em>the</em> is infelicitous.</li>
+</ol>
+<!-- First mention of a non-unique, non-familiar referent: “I went to the library. I borrowed **a** book on phonology.” -->
+<ol start="3">
+<li>Provide a sentence with a <strong>scope ambiguity</strong> and name its two readings.</li>
+</ol>
+<!-- “A student read every book”: surface (∃ > ∀) ‘there exists a student who read all the books’ vs. inverse (∀ > ∃) ‘for every book, possibly a different student read it’. -->
+<ol start="4">
+<li>How can <strong>aspectual adverbs</strong> diagnose telicity?</li>
+</ol>
+<!-- Telic VPs fit “in an hour”; atelic VPs fit “for an hour”. Acceptance patterns reveal whether the learner computed telicity compositionally. -->
+<ol start="5">
+<li>What outcome suggests a <strong>processing</strong> (not representational) limitation for scope?</li>
+</ol>
+<!-- Correct acceptance of inverse scope in supportive contexts/offline tasks but slower RTs or failures under time pressure. -->
+<hr>
+<h3 id="-weekly-analytical-note-due-before-week-10">
+  📝 Weekly analytical note (due before Week 10)
+  <a class="anchor" href="#-weekly-analytical-note-due-before-week-10">#</a>
+</h3>
+<p>In ~300 words, choose <strong>one</strong> domain (telicity, articles, or scope). (a) State a claim, (b) derive a <strong>prediction</strong> keyed to a specific context manipulation, (c) select <strong>one task + DV</strong> (TVJT, AJT, SPR), and (d) specify a <strong>falsifier</strong> for your preferred account.</p>
+<hr>
+<h3 id="-preview-of-week-10">
+  🧭 Preview of Week 10
+  <a class="anchor" href="#-preview-of-week-10">#</a>
+</h3>
+<p>We extend to <strong>syntax–discourse &amp; semantics–pragmatics</strong> interfaces (topic/focus, anaphora, implicatures): how discourse structure and pragmatic inferences interact with grammar in L2.</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#week-9--syntaxsemantics-interface-meaning-composition-telicity-and-scope">Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope</a>
+      <ul>
+        <li><a href="#-overview-for-preview">⭐ Overview (for preview)</a></li>
+        <li><a href="#-learning-goals">🎯 Learning goals</a></li>
+        <li><a href="#-reading-do-before-session-1">📖 Reading (do before Session 1)</a></li>
+        <li><a href="#-key-terms">🧠 Key terms</a></li>
+        <li><a href="#-core-ideas">🔍 Core ideas</a></li>
+        <li><a href="#-mini-lecture-outline-session-1-45-min">🗂️ Mini-lecture outline (Session 1, 45 min)</a></li>
+        <li><a href="#-methods-micro-lab-session-2-45-min">🧪 Methods micro-lab (Session 2, 45 min)</a></li>
+        <li><a href="#-in-class-application-session-3-45-min">🧩 In-class application (Session 3, 45 min)</a></li>
+        <li><a href="#-self-check-answers-hidden">✅ Self-check (answers hidden)</a></li>
+        <li><a href="#-weekly-analytical-note-due-before-week-10">📝 Weekly analytical note (due before Week 10)</a></li>
+        <li><a href="#-preview-of-week-10">🧭 Preview of Week 10</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

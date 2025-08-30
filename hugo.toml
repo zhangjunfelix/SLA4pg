@@ -1,0 +1,94 @@
+baseURL = "https://zhangjunfelix.github.io/SLA4pg/"
+publishDir = "public"
+relativeURLs = false
+canonifyURLs = true
+
+[params]
+BookSection = "*"
+BookToC = true
+BookPathBase = ""   # keep empty
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/alex-shpak/hugo-book"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
+# Menus configuration
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+  [[menu.main]]
+    name = "Syllabus"
+    url = "syllabus/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Week 1"
+    url = "week1/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Week 2"
+    url = "week2/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Week 3"
+    url = "week3/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Week 4"
+    url = "week4/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Week 5"
+    url = "week5/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Week 6"
+    url = "week6/"
+    weight = 8
+
+  [[menu.main]]
+    name = "Week 7"
+    url = "week7/"
+    weight = 9
+
+  [[menu.main]]
+    name = "Week 8"
+    url = "week8/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Week 9"
+    url = "week9/"
+    weight = 11
+
+  [[menu.main]]
+    name = "Week 10"
+    url = "week10/"
+    weight = 12
+
+  [[menu.main]]
+    name = "Week 11"
+    url = "week11/"
+    weight = 13
+
+  [[menu.main]]
+    name = "Week 12"
+    url = "week12/"
+    weight = 14
+

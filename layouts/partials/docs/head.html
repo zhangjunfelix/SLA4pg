@@ -1,0 +1,10 @@
+{{- /* Local override to ensure a single, correct absolute CSS URL */ -}}
+{{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink | absURL }}" integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous">
+{{/* Let the rest of the theme head render too */}}
+{{ partial "docs/lang.html" . -}}
+{{ partial "docs/meta.html" . -}}
+{{ partial "docs/favicon.html" . -}}
+{{ partial "docs/manifest.html" . -}}
+{{ partial "docs/opensearch.html" . -}}
+{{ partial "docs/script.html" . -}}
