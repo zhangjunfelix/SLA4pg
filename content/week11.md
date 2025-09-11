@@ -1,5 +1,5 @@
 +++
-title = "Week 11 — L2 Processing & Experimental Methods"
+title = "Week 11"
 date = '2025-05-01T08:47:59-04:00'
 weight = 13
 draft = false
@@ -8,6 +8,21 @@ draft = false
 
 ## Week 11 — L2 Processing & Experimental Methods
 
+
+
+To be published
+
+
+
+
+
+
+
+
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 12**.
 
 ### ⭐ Overview (for preview)
@@ -128,20 +143,24 @@ Choose **ONE** template and fill it in:
 1) One advantage of **SPR** over **timed GJT** for processing claims.  
 <!-- Region-level time-course (critical + spillover) reveals *where* difficulty arises, not just end-point accuracy. -->
 
+<!--
 2) Name **two eye-tracking measures** and what they index.  
 <!-- First-pass/gaze: early lexical/syntactic processing; Regression-path: reanalysis/integration difficulty; Total time: overall processing including late stages. -->
 
+<!--
 3) Typical **ERP** signatures for semantic vs. morpho-syntactic violations.  
 <!-- N400 for semantic integration; P600 for syntactic/morpho-syntactic reanalysis/integration. -->
 
+<!--
 4) One **design practice** that reduces response strategies in AJT/GJT.  
 <!-- Include varied fillers and comprehension checks; counterbalance condition order. -->
 
+<!--
 5) Why use **mixed-effects models** for psycholinguistic data?  
 <!-- They account for variability by *participants* and *items*, improving generalization beyond a single sample of each. -->
 
 ---
-
+<!--
 ### 📝 Weekly analytical note (due before Week 12)
 Draft the **Methods & Analysis** section for your final proposal (≈300–400 words). Include: (a) **task + DV(s)** with ROIs/time-windows, (b) **materials** and counterbalancing, (c) **exclusion criteria**, (d) **planned model/contrasts** and **effect size**, and (e) a **power** or **pilot** plan. End with a **falsifier** for your main claim.
 
@@ -149,3 +168,5 @@ Draft the **Methods & Analysis** section for your final proposal (≈300–400 w
 
 ### 🧭 Preview of Week 12
 We close with **teaching implications** and the **Bottleneck Hypothesis**—how theory-driven evidence about morphology, syntax, and processing informs **focus on form** in the classroom.
+
+-->

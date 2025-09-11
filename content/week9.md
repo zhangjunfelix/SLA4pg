@@ -1,5 +1,5 @@
 +++
-title = "Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope"
+title = "Week 9"
 date = '2025-04-21T08:47:59-04:00'
 weight = 11
 draft = false
@@ -7,6 +7,20 @@ draft = false
 
 ## Week 9 — Syntax–Semantics Interface: Meaning Composition, Telicity, and Scope
 
+
+To be published
+
+
+
+
+
+
+
+
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 10**.
 
 ### ⭐ Overview (for preview)
@@ -115,19 +129,23 @@ Choose **ONE** and complete the template:
 1) Why does *eat an apple* tend to be **telic** while *eat apples* is **atelic**?  
 <!-- Because a quantized object provides a natural endpoint (bounded event), whereas bare plurals/mass terms are cumulative and do not bound the event. -->
 
+<!--
 2) Give a context where *a* is correct but *the* is infelicitous.  
 <!-- First mention of a non-unique, non-familiar referent: “I went to the library. I borrowed **a** book on phonology.” -->
 
+<!--
 3) Provide a sentence with a **scope ambiguity** and name its two readings.  
 <!-- “A student read every book”: surface (∃ > ∀) ‘there exists a student who read all the books’ vs. inverse (∀ > ∃) ‘for every book, possibly a different student read it’. -->
 
+<!--
 4) How can **aspectual adverbs** diagnose telicity?  
 <!-- Telic VPs fit “in an hour”; atelic VPs fit “for an hour”. Acceptance patterns reveal whether the learner computed telicity compositionally. -->
 
+<!--
 5) What outcome suggests a **processing** (not representational) limitation for scope?  
 <!-- Correct acceptance of inverse scope in supportive contexts/offline tasks but slower RTs or failures under time pressure. -->
 
----
+<!--
 
 ### 📝 Weekly analytical note (due before Week 10)
 In ~300 words, choose **one** domain (telicity, articles, or scope). (a) State a claim, (b) derive a **prediction** keyed to a specific context manipulation, (c) select **one task + DV** (TVJT, AJT, SPR), and (d) specify a **falsifier** for your preferred account.
@@ -136,3 +154,4 @@ In ~300 words, choose **one** domain (telicity, articles, or scope). (a) State a
 
 ### 🧭 Preview of Week 10
 We extend to **syntax–discourse & semantics–pragmatics** interfaces (topic/focus, anaphora, implicatures): how discourse structure and pragmatic inferences interact with grammar in L2.
+-->

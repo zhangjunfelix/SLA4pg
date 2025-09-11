@@ -13,7 +13,7 @@ This course is your guided tour through the science of SLA—linking linguistic 
 
 ---
 
-## What this course is about (in 30 seconds)
+## What this course is about
 
 - We explore **how language knowledge is organized** (architecture), **what varies across languages**, and **how the mind processes language in real time**.  
 - We zoom in on **functional morphology**, **syntax**, and the **interfaces** with semantics, discourse, and pragmatics.  
@@ -48,9 +48,9 @@ Some background in linguistics helps, but the course scaffolds everything you ne
 
 - **12 weeks** × **3 sessions** per week (**45 minutes** each).  
 - A steady weekly rhythm:
-  - **Session 1:** Concept mini-lectures + quick demos  
-  - **Session 2:** **Methods micro-lab** (turn claim → prediction → task)  
-  - **Session 3:** Case application + teaching takeaways
+  - Concept mini-lectures + quick demos  
+  - Methods micro-lab (turn claim → prediction → task)  
+  -  Case application + teaching takeaways
 
 Short weekly notes keep you engaged; one methods assignment builds your toolkit; a final **research proposal** caps it off.
 
@@ -71,13 +71,10 @@ We don’t just *talk* about studies—we **build** them. Every week you’ll cr
 
 ## How to get started
 
-- Skim the **Week 1** page to see the course logic and the “theory → prediction → test” workflow.  
+- Skim the **syllabus** page to see the course logic and the “theory → prediction → test” workflow.  
 - Bring one L2 phenomenon you’re curious about (e.g., articles, agreement, word order) — we’ll turn it into a researchable question.
 
 > **Tip:** If you want a head start, think of a concrete learner difficulty you’ve seen. Be ready to say what would **count as evidence** for your explanation.
 
 ---
 
-## Questions?
-
-Drop by office hours or message the instructor. Curious, skeptical, evidence-hungry minds are especially welcome. Let’s build arguments that stand up to data.

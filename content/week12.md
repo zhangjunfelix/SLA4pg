@@ -1,5 +1,5 @@
 +++
-title = "Week 12 — Teaching Implications & the Bottleneck Hypothesis"
+title = "Week 12"
 date = '2025-05-07T08:47:59-04:00'
 weight = 14
 draft = false
@@ -7,6 +7,19 @@ draft = false
 
 ## Week 12 — Teaching Implications & the Bottleneck Hypothesis
 
+
+To be published
+
+
+
+
+
+
+
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 13**.
 
 ### ⭐ Overview (for preview)
@@ -120,25 +133,31 @@ Choose **ONE** target and complete the template.
 
 ---
 
+
+
 ### ✅ Self-check (answers hidden)
 
 1) State the core claim of the **Bottleneck Hypothesis** in one sentence.  
 <!-- Functional morphology—the mapping and realization of grammatical features—is the main locus of L2 difficulty relative to syntax/semantics. -->
 
-2) Give one **instructional prediction** if BH is correct for agreement.  
+<!--
+2) Give one **instructional prediction** if BH is correct for agreement. 
 <!-- Gains should appear first in competence (judgments/comprehension), then in timed production/processing once form–meaning mapping is practiced. -->
 
+<!--
 3) Name a **minimal discriminator** that targets article semantics.  
 <!-- Contexts that contrast unique/familiar vs. novel-specific reference, forcing the choice between *the* and *a*. -->
 
+<!--
 4) What pattern would favor a **processing-only** account over BH?  
 <!-- Native-like competence and feature use in untimed tasks but persistent slowdowns/omissions only under time pressure, with little benefit from representation-focused instruction. -->
 
+<!--
 5) One way to show **generalization** beyond trained tokens.  
 <!-- Test with new lexical items/contexts (far transfer) and look for maintained gains in accuracy and/or reduced online costs. -->
-
 ---
 
+<!--
 ### 📝 Weekly analytical note (final, due with proposal)
 In 300–400 words, write the **Intervention & Evaluation** section of your proposal:  
 (a) **Target & rationale** (why it’s a bottleneck),  
@@ -148,6 +167,7 @@ In 300–400 words, write the **Intervention & Evaluation** section of your prop
 (e) **Falsifier & generalization** plan.
 
 ---
-
 ### 🧭 What’s next
 This is our final instructional week. **Next session(s): proposal consultations and presentations.** Please upload your draft proposal and your Week 12 intervention canvas before the presentation day.
+
+-->

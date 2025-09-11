@@ -1,5 +1,5 @@
 +++
-title = "Week 8 — The Mental Lexicon: Representation, Access, and Argument Structure"
+title = "Week 8"
 date = '2025-04-15T08:47:59-04:00'
 weight = 10
 draft = false
@@ -8,6 +8,14 @@ draft = false
 ## Week 8 — The Mental Lexicon: Representation, Access, and Argument Structure
 
 
+
+
+To be published
+
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 9**.
 
 ### ⭐ Overview (for preview)
@@ -112,19 +120,24 @@ Choose **one** focus and complete the template.
 1) Why do **cognates** often show faster RTs while **interlingual homographs** can slow readers down?  
 <!-- Cognates benefit from converging activation across languages; homographs trigger competition/inhibition due to conflicting meanings. -->
 
+<!--
 2) What evidence suggests **morphological decomposition** in L2 readers?  
 <!-- Priming for stem/affix relations beyond orthographic overlap; faster decisions for transparent derivations/inflections. -->
-
+<!--
 3) Give one example of a **subcategorization** error and the frame it violates.  
 <!-- *Discuss about the issue* violates the frame: *discuss NP* (no preposition). -->
+
+<!--
 
 4) How would you detect **inhibition** in bilingual access?  
 <!-- Include language-switch costs or homograph interference; measure RT/accuracy differences across blocked vs. mixed-language trials. -->
 
+<!--
 5) What pattern would indicate a **lemma-level** (not just form-level) learning effect?  
 <!-- Correct use of verb–complement frames and reduced processing cost at the complement/preposition region, not just recognition of the word form. -->
 
 ---
+<!--
 
 ### 📝 Weekly analytical note (due before Week 9)
 In ~300 words, pick **one** target (cognates/homographs, morphological decomposition, or argument structure). (a) State a claim, (b) derive a **prediction** (who/when/where in the sentence), (c) choose **one task + DV**, and (d) specify a **falsifier**.
@@ -133,3 +146,4 @@ In ~300 words, pick **one** target (cognates/homographs, morphological decomposi
 
 ### 🧭 Preview of Week 9
 We move to the **syntax–semantics interface**: when meaning composition and syntactic structure mismatch, and why certain semantic distinctions are especially hard in L2.
+-->

@@ -1,5 +1,5 @@
 +++
-title = "Week 5 — Comparing Acquisition Contexts: 2L1, Adult L2, Heritage & Attrition"
+title = "Week 5"
 date = '2025-03-26T08:47:59-04:00'
 weight = 7
 draft = false
@@ -7,6 +7,11 @@ draft = false
 
 ## Week 5 — Comparing Acquisition Contexts: 2L1, Adult L2, Heritage & Attrition
 
+To be published
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Ch. 5–6 (selected)**.
 
 ### ⭐ Overview (for preview)
@@ -112,19 +117,25 @@ By the end of this week you should be able to:
 1) Give one **strength** and one **vulnerability** typically associated with Heritage grammars.  
 <!-- Strength: early phonology/lexicon; Vulnerability: functional morphology and discourse-conditioned syntax (e.g., clitics, subject expression). -->
 
+<!--
 2) How would you **distinguish** incomplete acquisition from attrition in study design?  
 <!-- Use input history & dominance profiles; look for prior stabilization (older cohort/longitudinal data); contrast offline accuracy with online timing. -->
 
-3) Name two **covariates** that must be controlled when comparing 2L1 vs. Heritage outcomes.  
+<!--
+1) Name two **covariates** that must be controlled when comparing 2L1 vs. Heritage outcomes.  
 <!-- Current language use/dominance and education/literacy (plus proficiency). -->
 
+<!--
 4) Which domain is most likely to show **group differences** across contexts and why?  
 <!-- Functional morphology and interfaces—because they rely on specific, sometimes sparse, input cues and discourse mapping. -->
 
+<!--
 5) Give one **falsifiable prediction** contrasting Adult L2 vs. 2L1 for **gender agreement**.  
 <!-- Adult L2 will show lower accuracy and/or slower RTs on gender agreement than 2L1, controlling for proficiency and exposure. -->
 
 ---
+<!--
+<!--
 
 ### 📝 Weekly analytical note (due before Week 6)
 In ~300 words, select **one property** and **two groups** (e.g., Heritage vs. Adult L2). (a) State a **theory-based prediction**, (b) specify **one task + primary DV**, (c) list **two covariates** you will control, and (d) say what outcome would imply **incomplete acquisition** vs. **attrition** vs. **processing**.
@@ -133,3 +144,6 @@ In ~300 words, select **one property** and **two groups** (e.g., Heritage vs. Ad
 
 ### 🧭 Preview of Week 6
 We zoom into the **locus of difficulty in functional morphology**—why **inflectional morphology** is often fragile in L2/heritage grammars and how to test **Feature Reassembly** vs. performance accounts.
+
+
+-->

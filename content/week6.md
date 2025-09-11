@@ -1,5 +1,5 @@
 +++
-title = "Week 6 — Functional Morphology: Where (and Why) L2 Morphology Is Fragile"
+title = "Week 6"
 date = '2025-03-30T08:47:59-04:00'
 weight = 8
 draft = false
@@ -8,6 +8,10 @@ draft = false
 
 ## Week 6 — Functional Morphology: Where (and Why) L2 Morphology Is Fragile
 
+To be published
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 7**.
 
 ### ⭐ Overview (for preview)
@@ -114,19 +118,24 @@ By the end of this week you should be able to:
 1) What empirical pattern would **support MSIH** over FRH?  
 <!-- Accurate comprehension of tense/agreement contrasts with persistent production omissions/mis-formations, amplified by time pressure. -->
 
+<!--
 2) Give one prediction unique to **PTH**.  
 <!-- Morphology drops in prosodically weak/word-final positions or improves when stress/position favors overt realization. -->
 
+<!--
 3) What would count as evidence for **Feature Reassembly**?  
 <!-- Selective, feature-specific difficulty (e.g., determiner–adjective–noun gender concord) even when prosody and timing are controlled. -->
 
+<!--
 4) Why include **priming** in morphology studies?  
 <!-- To detect shared feature representations via facilitation when feature values match, even if overt forms vary. -->
 
+<!--
 5) Name one design move that separates **representation** from **realization**.  
 <!-- Compare comprehension (AJT/priming) to production (elicitation) with and without time pressure and with prosody controlled. -->
 
 ---
+<!--
 
 ### 📝 Weekly analytical note (due before Week 7)
 In ~300 words, choose **one** domain (agreement, past tense, gender, or case). (a) State whether you predict **MSIH**, **PTH**, or **FRH** to best explain early variability; (b) give **one prediction** for comprehension vs. production (and/or prosody); (c) propose **one task** and **one falsifier**.
@@ -135,3 +144,5 @@ In ~300 words, choose **one** domain (agreement, past tense, gender, or case). (
 
 ### 🧭 Preview of Week 7
 We move from morphology to **syntax**: word order and movement, and how to diagnose **representational** vs. **processing** explanations in clause-structure phenomena.
+
+-->

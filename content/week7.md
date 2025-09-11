@@ -1,5 +1,5 @@
 +++
-title = "Week 7 — Syntax: Word Order, Movement, and Competing Accounts"
+title = "Week 7"
 date = '2025-04-07T08:47:59-04:00'
 weight = 9
 draft = false
@@ -7,6 +7,11 @@ draft = false
 
 ## Week 7 — Syntax: Word Order, Movement, and Competing Accounts
 
+To be published
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 8**.
 
 ### ⭐ Overview (for preview)
@@ -122,19 +127,24 @@ Pick **ONE** property and complete the template:
 1) Give one **minimal pair** that diagnoses V-to-T in English vs. French.  
 <!-- English disallows finite main verb before Adv: *John eats often sushi* (ungrammatical) vs. French allows V before adverb: *Jean mange souvent des pommes*. -->
 
+<!--
 2) What is an **island**, and why is it useful in L2 testing?  
 <!-- A structural domain that blocks movement (e.g., complex NP, wh-island); if L2 grammars encode constraints, learners should reject island extractions in untimed tasks. -->
 
+<!--
 3) What outcome supports a **processing** (not deficit) account for wh-movement?  
 <!-- Native-like rejection of island violations offline but substantial online slowdowns/regressions at dependency regions. -->
 
+<!--
 4) One prediction for **V2** transfer into L2 English.  
 <!-- L1 German learners may overgenerate inversion in main clauses without auxiliaries or extend inversion to embedded clauses early on. -->
 
+<!--
 5) How do you separate **representation** from **real-time performance** in design?  
 <!-- Pair an untimed AJT (competence) with an online measure (SPR/eye-tracking); look for divergence (accurate judgments but slowed processing). -->
 
 ---
+<!--
 
 ## 📝 Weekly analytical note (due before Week 8)
 In ~300 words, choose **one** property (V-to-T, V2, or wh/islands). (a) State a **deficit** and a **processing** prediction, (b) propose **one task** with a **primary DV**, and (c) specify a **falsifier** for your preferred account.
@@ -143,3 +153,4 @@ In ~300 words, choose **one** property (V-to-T, V2, or wh/islands). (a) State a 
 
 ### 🧭 Preview of Week 8
 Next we turn to the **mental lexicon**—representation, access/inhibition, and how lexical–argument structure mappings are acquired and processed in L2.
+-->

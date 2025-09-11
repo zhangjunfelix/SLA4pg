@@ -1,7 +1,7 @@
-baseURL = "https://zhangjunfelix.github.io/SLA4pg/"
+baseURL = "https://zjpsycholin.github.io/SLA4pg/"
 publishDir = "public"
 relativeURLs = false
-canonifyURLs = true
+canonifyURLs = false
 
 [params]
 BookSection = "*"

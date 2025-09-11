@@ -1,19 +1,19 @@
 +++
 date = '2025-08-28T00:00:00-04:00'
 draft = false
-title = 'Syllabus (Postgraduate)'
+title = 'Syllabus'
 weight = 2
 +++
 
-# Introduction to Second Language Acquisition (Postgraduate)
+## Introduction to Second Language Acquisition (Postgraduate)
 
 **Note**: This syllabus outlines the plan for a 12-week, seminar-style course. Minor adjustments may be made as we progress.
 
-## Course Description
+### Course Description
 
 This graduate seminar is a research-oriented introduction to how adults acquire second and additional languages. We emphasize linguistic architecture, cross-linguistic variation, interfaces, processing, and implications for teaching, using **Slabakova (2016)** as the anchor text. Part I establishes language architecture and variation; Part II situates L2 within broader acquisition contexts and highlights the role of input; Part III surveys adult L2 morphology, syntax, the mental lexicon, interfaces, processing, and classroom implications.
 
-## Learning Objectives
+### Learning Objectives
 
 By the end of the course, students will be able to:
 
@@ -24,11 +24,11 @@ By the end of the course, students will be able to:
 5. Formulate testable research questions and design a feasible study.  
 6. Articulate pedagogical implications (e.g., Bottleneck Hypothesis; focus on form).
 
-## Methods of Instruction
+### Methods of Instruction
 
 Seminar discussions, student-led paper talks, mini-methods workshops, and hands-on data critique. Expect close reading, replication thinking, and constructive debate.
 
-## Instructional Materials
+### Instructional Materials
 
 ### Required Text
 
@@ -37,18 +37,17 @@ Seminar discussions, student-led paper talks, mini-methods workshops, and hands-
 
 ### Recommended (background / triangulation)
 
-- Saville-Troike, M. (2012). _Introducing Second Language Acquisition_ (2nd ed.). Cambridge University Press.  
+- Saville-Troike, M. (2015). _Introducing Second Language Acquisition_ (3rd ed.). Cambridge University Press.  
 - Selected journal articles (posted weekly).
 
 ---
 
-## Assessment & Grading
+### Assessment & Grading
 
 - **Participation & Professionalism (10%)** — consistent, informed contributions; discussants come prepared.  
-- **Weekly Analytical Notes (10%)** — ~300 words synthesizing key claims, predictions, and one critique.  
-- **Methods/Analysis Task (20%)** — short report critiquing or re-analyzing data from a published study.  
-- **Seminar Lead (20%)** — 30-minute critical presentation (theory, design, findings, alternatives).  
-- **Final Research Proposal (40%)** — 8–10 pages: motivation, literature, hypotheses, design, predicted outcomes.
+- **Methods/Analysis Task (20%)** — short report critiquing or analyzing data .  
+- **Reading Journal(20%)** — reading summaries (theory, design, findings, alternatives).  
+- **Final Research Proposal (50%)** — 8–10 pages: motivation, literature, hypotheses, design, predicted outcomes.
 
 _Total = 100%_
 
@@ -56,77 +55,78 @@ _Total = 100%_
 
 ## 12-Week Schedule (Topics • Chapters • Key Issues)
 
-> We read selectively and thematically; not every section of each chapter is assigned. Page-level reading lists will be posted weekly.
+> We read selectively and thematically; not every section of each chapter is assigned. Page-level reading lists will be posted weekly.  
+> **Note:** We will **not** cover Ch. 6 or Ch. 13. Topics are calibrated for first-year MA students with no prior SLA background.
 
 ### Week 1 — Language Architecture & SLA as a Science
-**Chapter**: Slabakova Ch. 1  
-**Topics**: What is “knowledge of language”? Components/modules; linking theory to teachability; the scientific method in SLA (hypothesis → prediction → test).  
-**Key issues**: What counts as evidence in SLA? Property vs. transition theories.
+**Chapter:** Slabakova Ch. 1  
+**Topics:** What counts as “knowledge of language”? Core modules (phonology, morphology, syntax, semantics, pragmatics); interfaces; what makes SLA scientific (theory → prediction → test).  
+**Key issues:** Evidence in SLA; competence vs. performance; why interfaces can be hard.
 
 ### Week 2 — Cross-Linguistic Variation & the Learning Task
-**Chapter**: Ch. 2  
-**Topics**: Principles/parameters, Minimalist perspectives, what varies across languages, why variation matters for L2 learning.  
-**Key issues**: Initial state, transfer, setting/re-setting features; prediction and falsifiability.
+**Chapter:** Ch. 2  
+**Topics:** What varies across languages; features/parameters in plain language; why variation matters for L2 learning.  
+**Key issues:** Initial state and transfer (intuitive examples); falsifiable predictions without heavy formalisms.
 
-### Week 3 — Psychological Reality: Processing & the Parser
-**Chapter**: Ch. 3  
-**Topics**: Processing architectures; evidence from ambiguity resolution, memory constraints, and model comparison.  
-**Key issues**: How (and when) processing interacts with grammatical knowledge; methodological cautions.
+### Week 3 — Psychological Reality: Using Language in Real Time
+**Chapter:** Ch. 3  
+**Topics:** What “processing” means; how the parser uses memory and cues; ambiguity resolution with simple examples.  
+**Key issues:** Distinguishing knowledge vs. processing; gentle intro to common tasks (e.g., acceptability judgments).
 
-### Week 4 — Age, Input & the Critical Period Debate
-**Chapter**: Ch. 4  
-**Topics**: Age effects vs. input quality/quantity; nativelikeness; input dominance and quality.  
-**Key issues**: Operationalizing input; heritage vs. L2 learners; measuring outcomes.
+### Week 4 — Age, Input & the Critical Period
+**Chapter:** Ch. 4  
+**Topics:** Age effects (pronunciation vs. grammar/meaning); what “critical period” claims mean; role of input amount/quality.  
+**Key issues:** Measuring outcomes simply; clear expectations for different subsystems.
 
-### Week 5 — Comparing Acquisition Contexts
-**Chapters**: Ch. 5–6 (selected sections)  
-**Topics**: 2L1 vs. L2; child vs. adult L2; multilingualism; heritage speakers; attrition and restructuring.  
-**Key issues**: What carries over across contexts? How do context differences change predictions?
+### Week 5 — Two First Languages (2L1): What It Teaches Us
+**Chapter:** Ch. 5  
+**Topics:** Growing up with two languages; how 2L1 patterns inform L2 learning; similarities/differences with adult L2.  
+**Key issues:** Transferable insights for L2 classrooms without formal theory overhead.
 
-### Week 6 — The Locus of Difficulty I: Functional Morphology
-**Chapter**: Ch. 7  
-**Topics**: Morpheme studies; Missing Surface Inflection; Prosodic Transfer; Feature Reassembly.  
-**Key issues**: Why inflectional morphology is central; representation vs. performance explanations.
+### Week 6 — Locus of Difficulty I: Functional Morphology
+**Chapter:** Ch. 7  
+**Topics:** Inflectional morphology (tense, agreement) as a common bottleneck; classic findings explained simply (e.g., missing surface inflection, feature reassembly).  
+**Key issues:** Representation vs. performance explanations in plain terms; pedagogical implications.
 
-### Week 7 — The Locus of Difficulty II: Syntax
-**Chapter**: Ch. 8  
-**Topics**: Parameterization, word order, movement; representational deficit vs. full representation accounts.  
-**Key issues**: What “poverty of the stimulus” implies for L2 syntax; diagnostic constructions.
+### Week 7 — Locus of Difficulty II: Syntax (the Basics)
+**Chapter:** Ch. 8  
+**Topics:** Word order basics; movement in everyday terms; how learners “reset” patterns from L1 to L2.  
+**Key issues:** What would count as evidence for/against full acquisition of a structure (no heavy formalism).
 
 ### Week 8 — The Mental Lexicon
-**Chapter**: Ch. 9  
-**Topics**: Bilingual lexicon models; access and inhibition; argument structure and conflation differences.  
-**Key issues**: Learning/“unlearning” mappings; negative evidence and overgeneralization.
+**Chapter:** Ch. 9  
+**Topics:** How words are stored/linked; bilingual lexicon basics; false friends; argument-structure differences via clear examples.  
+**Key issues:** Learning and “unlearning” mappings; why some words are harder than others.
 
-### Week 9 — Syntax–Semantics Interface
-**Chapter**: Ch. 10  
-**Topics**: Meaning types, mismatches, Poverty of the Stimulus in semantics, learning novel constructions.  
-**Key issues**: Where (and why) interface vulnerabilities arise; diagnostics for interface delays.
+### Week 9 — Syntax–Semantics Interface (Meaning that Depends on Structure)
+**Chapter:** Ch. 10  
+**Topics:** Tense/aspect and other meaning contrasts that hinge on structure; common cross-linguistic mismatches students feel.  
+**Key issues:** Why interfaces can be tricky; simple diagnostics to notice interface delays.
 
 ### Week 10 — Syntax–Discourse & Semantics–Pragmatics Interfaces
-**Chapter**: Ch. 11  
-**Topics**: Topic/focus, pronoun reference, intonation; scalar implicatures and interface processing.  
-**Key issues**: Mapping discourse/pragmatics to form; measuring pragmatic inference in L2.
+**Chapter:** Ch. 11  
+**Topics:** Topic/focus, pronouns, information structure; scalar implicatures and polite meaning beyond the literal.  
+**Key issues:** Mapping discourse/pragmatics to form in L2; approachable classroom tasks to probe these mappings.
 
-### Week 11 — L2 Processing & Methods
-**Chapter**: Ch. 12  
-**Topics**: Experimental techniques (GJT, SPR, eye-tracking, ERP); morphology & syntax in processing; individual differences.  
-**Key issues**: From competence to processing predictions; design pitfalls; effect sizes & power.
+### Week 11 — L2 Processing & Gentle Methods Literacy
+**Chapter:** Ch. 12  
+**Topics:** What common tasks look like (GJT, simple reading tasks); how to frame a tiny classroom diagnostic; basics of reliable evidence (controls, sample size at a glance).  
+**Key issues:** Linking competence claims to processing predictions—without statistics overload.
 
-### Week 12 — Teaching Implications & The Bottleneck Hypothesis
-**Chapter**: Ch. 13  
-**Topics**: Morphology as a bottleneck; focus on form; what is hard/easy to acquire; pulling theory into practice.  
-**Key issues**: Translating evidence to pedagogy; designing theoretically motivated interventions.
+### Week 12 — Integration, Applications & Proposal Workshop (No new chapter)
+**Chapters:** Review across Chs. 1–5, 7–12 (no Ch. 6, no Ch. 13)  
+**Topics:** Pulling it together: language architecture → variation → processing → interfaces → morphology/syntax/lexicon; translating insights to practical, defensible teaching choices.  
+**Key issues:** Mini research-proposal pitch (2–3 slides): phenomenon, prediction, a small test (classroom diagnostic acceptable).
 
 ---
 
-## Weekly Workflow (Typical)
+### Weekly Workflow (Typical)
 
-- **Before class**: Read assigned chapters; post Analytical Note (by 18:00 the day before).  
-- **In class**: 30–40 min student-led seminar; 30 min methods/data critique; 20 min synthesis.  
+- **Before class**: Read assigned chapters<!--; post Analytical Note (by 18:00 the day before).  -->
+- **In class**: mini-lectures; student-led seminar; methods/data critique; discussion; synthesis.  
 - **After class**: Update proposal or methods task with new insights.
 
-## Policies (Highlights)
+### Policies (Highlights)
 
 - **Attendance & participation** are essential to seminar learning.  
 - **Academic integrity** applies to all submissions (cite properly; no AI-generated text without disclosure and permission).  

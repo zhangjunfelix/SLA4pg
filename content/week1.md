@@ -1,11 +1,144 @@
 +++
-title = "Week 1 — Language Architecture & SLA as a Science"
+title = "Week 1"
 date = '2025-03-11T14:08:52-04:00'
 weight = 3
 draft = false
 +++
 
+## Week 1 — Language Architecture & SLA as a Science
 
+
+ **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 1: Language architecture**.      
+[Link to  Chapter 1](/SLA4pg/pdfs/C1_Languagearchitecture.pdf)
+
+### ⭐ Overview
+- What it means to **“know a language”** and how that knowledge is organized into parts that work together.  
+- How SLA uses the **scientific method** (observe → generalize → hypothesize → test → revise) to make **falsifiable** predictions.  
+- Why theory-to-evidence links matter (e.g., richer agreement systems may correlate with **null subjects**) and how this connects to **teaching relevance**.
+
+---
+
+### 🎯 Learning goals
+By the end of Week 1 you should be able to:
+1. Describe, in your own words, what “knowledge of language” is.  
+2. Name the main parts (sound, word pieces, structure, meaning, use) and say what each does.  
+3. Explain the basic steps of SLA research (observe → hypothesize → test → revise) and why predictions matter.  
+4. Give one simple **learning/teaching implication** that follows from these ideas.
+
+---
+
+### 📖 Reading (do before class)
+- **Required**: Slabakova (2016), **Chapter 1** (focus on the big picture of §§1.1–1.4).  
+
+**Guiding questions while you read**
+- What would count as *evidence* for/against a claim about L2 knowledge?  
+- Where in the architecture would you locate difficulties with **agreement** vs. **word order**?
+
+---
+
+### 🧠 Key terms
+*knowledge of language; competence vs. performance; lexicon; phonology; morphology; syntax; semantics; pragmatics; interface; hypothesis; prediction; falsifiability; transfer; null subject*
+
+---
+
+### 🧩 Core content
+
+#### 1) What does it mean to “know a language”?
+- We each carry an internal system that lets us **understand and create** new sentences.  
+- **Competence** = what you know; **Performance** = how it comes out in real life (with slips/hesitations).  
+- **Try it:** Think of a sentence you’ve never heard before but still understand—proof your mind can build new meanings from pieces.
+
+#### 2) The building blocks (“modules”)
+- **Phonology**: how a language uses sounds (mental categories/patterns).  
+- **Morphology**: meaningful pieces inside words (*walk-ed*, *cat-s*).  
+- **Syntax**: how words combine and move (word order, questions, negatives).  
+- **Semantics**: literal, compositional meaning.  
+- **Pragmatics**: meaning from **context** (implicature, politeness, what’s implied).  
+- **Try it:** Take any short sentence. Label what is sound-related, word-piece related, structure-related, literal meaning, and context-based.
+
+#### 3) Interfaces: when parts meet
+- Real communication requires **coordination** between parts (e.g., structure + meaning).  
+- Some cross-language differences live at these **interfaces**, which can feel tricky in an L2.  
+- **Mini example:** English *red car* vs. a language where the adjective follows the noun. Differences like this can ripple through usage and comprehension.
+
+#### 4) SLA as a science (gentle view)
+- **Steps**: observe → suggest an explanation → make a **prediction** → check whether the prediction holds → adjust if needed.  
+- **Why “falsifiable”?** Explanations should be clear enough that **evidence could show them wrong** if they’re wrong.  
+- **Simple illustration (from Chapter 1 themes):** If a learner’s L1 often leaves subjects unspoken (**null subjects**), we might **predict** more subject omission in their early L2 English—something we can check in beginner data.
+
+#### 5) Why this matters for learning/teaching
+- Different parts can be **hard for different reasons** (sound patterns vs. small endings vs. word order vs. meaning-in-context).  
+- Knowing the parts helps you **notice patterns**, **set goals**, and **choose strategies** (e.g., targeted listening for sound contrasts; focused reading for small endings; chunking for word order).
+
+---
+
+### ✅ Tasks
+
+#### Before class (preview)
+- Read Chapter 1 **for the big picture**; don’t worry about technical detail.  
+- Skim “Teaching relevance” notes.  
+- Jot down one L2 feature that puzzles you (e.g., articles, agreement, word order, polite meaning).
+
+#### During class (light activities)
+- **Spot-the-part:** Label 3–4 sentences for sound, word pieces, structure, literal meaning, and context.  
+- **Prediction postcard:**  
+  - Write: “If X is true in L1, then beginners might Y in L2.”  
+  - Keep it concrete and short (one sentence).
+
+### Practice (micro-lab you can try)
+**Prompt (approachable):** “If L1 allows **null subjects** but L2 does not, beginners may **omit subjects** in early L2 English.”  
+- **Prediction:** beginners from a **null-subject L1** omit subjects **more often** than those from a non-null-subject L1.  
+- **Simple check:** look at a handful of beginner sentences (text or short speech) and note presence/absence of subjects.  
+- **What would falsify it?** No difference across L1 groups, or consistent subjects even at the start.
+
+#### After class (review)
+1. **Short reflection:**  
+   - One idea from Ch. 1, in your own words.  
+   - One prediction it suggests for L2 learners.  
+   - One easy way to check that prediction (e.g., a tiny noticing task in readings this week).
+2. **Self-check:**  
+   (1) Define **falsifiability** and explain why it matters in SLA.      
+      <!-- A claim is falsifiable if evidence could in principle prove it wrong. SLA theories must be falsifiable to be scientific. -->    
+
+   (2) Give one **predicted correlation** between morphology and syntax.      
+   <!-- Languages with rich verbal agreement often allow null subjects. -->   
+
+   (3) Why are **“Teaching relevance”** boxes included?      
+   <!-- To show how theoretical insights apply to pedagogy (e.g., phonology harder post-childhood, so focus may shift to morphosyntax in teaching). -->     
+
+   (4) List the steps of the **scientific method** in SLA.      
+   <!-- Observe → Generalize → Hypothesize → Test → Revise. -->     
+
+   (5) Where in the architecture would you locate difficulty with **verb movement** vs. **agreement endings**?     
+   <!-- Verb movement: syntax. Agreement endings: morphology. -->   
+
+---
+<!--
+### 📖 Additional resources
+To be accounced
+
+---
+-->
+
+
+### 🧭 Preview of Week 2
+Next we look at **language variation** (how languages differ) and why that shapes the **SLA learning task**—including which features may transfer from L1 and which need new learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+Deleted on 02/09/2025
 ## Week 1 — Language Architecture & SLA as a Science
 
 
@@ -91,22 +224,7 @@ By the end of Week 1 you should be able to:
 
 ---
 
-### ✅ Self-check (answers hidden)
 
-1. Define **falsifiability** and explain why it matters in SLA.  
-<!-- A claim is falsifiable if evidence could in principle prove it wrong. SLA theories must be falsifiable to be scientific. -->
-
-2. Give one **predicted correlation** between morphology and syntax.  
-<!-- Languages with rich verbal agreement often allow null subjects. -->
-
-3. Why are **“Teaching relevance”** boxes included?  
-<!-- To show how theoretical insights apply to pedagogy (e.g., phonology harder post-childhood, so focus may shift to morphosyntax in teaching). -->
-
-4. List the steps of the **scientific method** in SLA.  
-<!-- Observe → Generalize → Hypothesize → Test → Revise. -->
-
-5. Where in the architecture would you locate difficulty with **verb movement** vs. **agreement endings**?  
-<!-- Verb movement: syntax. Agreement endings: morphology. -->
 
 ---
 
@@ -117,3 +235,8 @@ In ~300 words, (a) restate one claim from Ch. 1, (b) derive a **specific predict
 
 ### 🧭 Preview of Week 2
 We move from language architecture to **language variation & parameters**, examining how learners re-set features across languages and why this defines the SLA learning task.
+
+-->
+
+
+

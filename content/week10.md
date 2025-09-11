@@ -1,5 +1,5 @@
 +++
-title = "Week 10 — Syntax–Discourse & Semantics–Pragmatics Interfaces"
+title = "Week 10"
 date = '2025-04-28T08:47:59-04:00'
 weight = 12
 draft = false
@@ -7,6 +7,19 @@ draft = false
 
 ## Week 10 — Syntax–Discourse & Semantics–Pragmatics Interfaces
 
+
+
+To be published
+
+
+
+
+
+
+
+
+<!--
+Deleted on 02/09/2025
 > **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 11**.
 
 ### ⭐ Overview (for preview)
@@ -116,20 +129,24 @@ Choose **ONE** and complete the template.
 1) Define **topic** vs. **focus** and give one encoding strategy for each.  
 <!-- Topic: what the sentence is about; can be marked by word order or prosodic deaccenting. Focus: new/contrastive info; marked by prosodic accent, clefting, or focus particles. -->
 
+<!--
 2) In a pro-drop language, when is an **overt** subject pronoun preferred?  
 <!-- Often with topic shift, emphasis/contrast, or when the antecedent is not the most prominent discourse topic. -->
 
+<!--
 3) What is a **scalar implicature** for *some* and how can it be cancelled?  
 <!-- Inference 'not all'; cancelled by explicit continuation (e.g., “Some — in fact, all — passed”). -->
 
+<!--
 4) Give one **L1-transfer** prediction for topic/focus realization.  
 <!-- L1s that rely on syntax (clefts/fronting) may underuse prosodic focus in English and judge clefts as more acceptable than natives do in neutral contexts. -->
 
+<!--
 5) Name one **online** method for **pronoun resolution** and its diagnostic measure.  
 <!-- Visual-world eye-tracking; measure time to fixate the intended antecedent after pronoun onset. -->
 
 ---
-
+<!--
 ### 📝 Weekly analytical note (due before Week 11)
 In ~300 words, pick **one** domain (topic/focus, pronoun interpretation, or scalar implicature). (a) State a claim with an L1-based prediction, (b) design **one contexted task** with a clear **DV**, and (c) specify a **result** that would falsify your preferred account (e.g., native-like choices offline but delayed online).
 
@@ -137,3 +154,4 @@ In ~300 words, pick **one** domain (topic/focus, pronoun interpretation, or scal
 
 ### 🧭 Preview of Week 11
 Next: **L2 processing & methods** — a toolkit for grammaticality judgments, self-paced reading, eye-tracking, and ERP, with design pitfalls and effect-size/power considerations.
+-->
