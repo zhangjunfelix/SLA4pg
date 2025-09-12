@@ -8,9 +8,6 @@ draft = false
 ## Week 1 — Language Architecture & SLA as a Science
 
 
-
-
-
  **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 1: Language architecture**.      
 [Link to  Chapter 1](/SLA4pg/pdfs/C1_Languagearchitecture.pdf)
 
