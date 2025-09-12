@@ -8,7 +8,9 @@ draft = false
 ## Week 3 — Processing & the Parser: How L2 is Used in Real Time
 
 
-> **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 3: The psychological reality of language in use**.
+ **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 3: The psychological reality of language in use**.    
+ [Link to Chapter 3](/SLA4pg/pdfs/C3_Psychologicalreality.pdf)
+
 
 ### ⭐ Overview
 - What “processing” means: how the mind **builds meaning in real time** during listening/reading and plans **forms** during speaking.  

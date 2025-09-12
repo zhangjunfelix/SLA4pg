@@ -7,11 +7,15 @@ draft = false
 
 
 
-
-
 ## Week 4 — Age, Input & the Critical Period
 
-> **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 4: The Critical Period Hypothesis**.
+**Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 4: The Critical Period Hypothesis**.    
+ [Link to Chapter 4](/SLA4pg/pdfs/C4_CPH.pdf)
+
+
+
+
+
 
 ### ⭐ Overview
 - What the **Critical Period Hypothesis (CPH)** claims and why age might matter for language learning.  
