@@ -9,6 +9,8 @@ weight = 2
 
 **Note**: This syllabus outlines the plan for a 12-week, seminar-style course. Minor adjustments may be made as we progress.
 
+Instructor email: jzhang3@ahu.edu.cn 
+
 ### Course Description
 
 This graduate seminar is a research-oriented introduction to how adults acquire second and additional languages. We emphasize linguistic architecture, cross-linguistic variation, interfaces, processing, and implications for teaching, using **Slabakova (2016)** as the anchor text. Part I establishes language architecture and variation; Part II situates L2 within broader acquisition contexts and highlights the role of input; Part III surveys adult L2 morphology, syntax, the mental lexicon, interfaces, processing, and classroom implications.
@@ -45,8 +47,12 @@ Seminar discussions, student-led paper talks, mini-methods workshops, and hands-
 ### Assessment & Grading
 
 - **Participation & Professionalism (10%)** — consistent, informed contributions; discussants come prepared.  
-- **Methods/Analysis Task (20%)** — short report critiquing or analyzing data .  
-- **Reading Journal(20%)** — reading summaries (theory, design, findings, alternatives).  
+- **Quizzes (20%, 5% * 4)** — short quizzes on key concepts and theories.
+    - Quiz #1: Chapter 1, 2, & 3
+    - Quiz #2: Chapter 4 & 5
+    - Quiz #3: Chapter 7 & 8  
+    - Quiz #4: Chapter 9, 10, & 11 
+- **Reading Journal(20%, 10% * 2)** — reading summaries (theory, design, findings, alternatives).  
 - **Final Research Proposal (50%)** — 8–10 pages: motivation, literature, hypotheses, design, predicted outcomes.
 
 _Total = 100%_

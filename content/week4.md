@@ -1,5 +1,5 @@
 +++
-title = "Week 4"
+title = "Week 4 - Ch.4: THE CRITICAL PERIOD HYPOTHESIS (CPH)"
 date = '2025-03-23T15:57:59-04:00'
 weight = 6
 draft = false
@@ -7,14 +7,14 @@ draft = false
 
 
 
-## Week 4 — Age, Input & the Critical Period
+## Week 4 — THE CRITICAL PERIOD HYPOTHESIS (CPH)
 
 **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 4: The Critical Period Hypothesis**.    
  [Link to Chapter 4](/SLA4pg/pdfs/C4_CPH.pdf)
 
 
-
-
+To be published ...
+<!--
 
 
 ### ⭐ Overview
@@ -49,6 +49,186 @@ By the end of Week 4 you should be able to:
 
 ---
 
+
+## CHAPTER 4: THE CRITICAL PERIOD HYPOTHESIS (CPH)  
+**Core Goal**: Understand if there’s a "critical age" for second language (L2) acquisition—and why some learners achieve nativelike skills while others don’t.  
+
+
+### 4.1 The Biological Roots of CPH  
+CPH originates from biology: many skills (e.g., vision) have a "critical period"—early life window when development is optimal, after which it’s irreversible.  
+
+- **Key Example**: Hubel & Wiesel (1970) deprived kittens of one eye’s use early in life—they never developed binocular vision.  
+- **Language Link**: Lenneberg (1967) argued language has a critical period (ages 2–puberty) tied to brain lateralization (language functions localizing to one brain hemisphere). After puberty:  
+  - Lexicon (vocabulary) can still be learned.  
+  - Nativelike grammar mastery is impossible.  
+- **Evidence**: Cases like Genie (isolated until age 13) – she never fully acquired English grammar, even with later input.  
+
+- **Update**: Modern neuroscience shows **brain plasticity** (ability to change) persists into adulthood—so researchers now talk of "sensitive periods" (optimal, not irreversible) instead of strict critical periods.  
+
+
+### 4.2 Two Sides of the L2 CPH Debate  
+Lenneberg’s CPH was for first language (L1) acquisition. For L2, researchers disagree:  
+
+| "Critical/Sensitive Period" Proponents (Long, DeKeyser, Hyltenstam) | "Nuanced Attainment" Proponents (Birdsong, Montrul, Slabakova) |
+|---------------------------------------------------------------------|----------------------------------------------------------------|
+| Adults/teens can’t reach full nativelike L2 grammar (phonology, syntax, processing). | Nativelike skills are possible for some learners—depends on input quality/quantity, proficiency, and which grammar module (e.g., morphosyntax vs. phonology) is tested. |
+| Early L2 learners (before 12) rarely reach nativelike levels either (contrary to old assumptions). | "Sensitive periods" exist for *some* grammar parts (e.g., pronunciation) but not all (e.g., semantics). |
+
+- **Common Ground**: Both now use "sensitive period" (flexible) instead of "critical period" (strict).  
+
+
+### 4.3 Global Nativelikeness vs. Module-Specific Sensitive Periods  
+Is full nativelike L2 mastery impossible after puberty? Studies show a mixed picture:  
+
+#### 1. Evidence for Sensitive Periods (Global Nativelikeness)  
+- **Johnson & Newport (1989)**: Tested 46 Korean/Chinese L2 English learners.  
+  - Strong negative correlation: Younger arrival age (AoA 3–15) = better grammar scores (r=-.87).  
+  - After AoA 15: No correlation (scores depended on individual traits, not age).  
+- **Abrahamsson & Hyltenstam (2009)**: 195 Spanish L2 Swedish learners.  
+  - Only 5% of learners who started after 12 were perceived as native.  
+  - None of the teen/adult learners scored nativelike on *all* tests (phonetics, grammar, semantics).  
+- **Abrahamsson (2012)**: Similar to above—younger AoA (before 15) = better grammar/VOT (sound distinction) scores; adults had big variability.  
+
+#### 2. Evidence for Module-Specific Success (Against Strict CPH)  
+Some learners reach nativelike skills in *specific grammar areas*:  
+- **Donaldson (2011)**: Near-native French learners used "Left Dislocation" (e.g., *Marie, elle vient* = "Mary, she is coming") nativelike—coordinating syntax and discourse (rarely taught explicitly).  
+- **Montrul & Slabakova (2003)**: Advanced English L2 Spanish learners mastered subtle tense-aspect meanings (e.g., *se comía-IMPF* = "one ate" vs. *se comió-PRET* = "we ate")—a "Poverty of the Stimulus" case (not teachable via input alone).  
+
+- **Takeaway**: Full global nativelikeness is rare after puberty—but nativelike skills in morphosyntax/semantics are possible.  
+
+
+### 4.4 L1-L2 Interaction: Communicating Vessels  
+L1 and L2 influence each other—like liquid in "communicating vessels" (more L1 = less L2, or vice versa):  
+
+- **Flege’s Speech Learning Model**: L1 and L2 sounds share a "phonological space"—they mutually interfere.  
+  - Example: Yeni-Komshian et al. (2000): Korean L2 English learners who arrived before 12 had a negative correlation (better L2 pronunciation = worse L1 pronunciation).  
+- **Counterevidence**: Bylund et al. (2012): Spanish L2 Swedish learners who scored well in L1 also scored well in L2 (no interference).  
+
+- **Why the Difference?** Interference is stronger for *pronunciation* (phonology) than for grammar/semantics.  
+
+
+### 4.5 Bilingualism: Not "Two Monolinguals in One Mind"  
+Bilinguals’ brains process L1 and L2 differently than monolinguals:  
+- **Key Trait**: L1 and L2 are *constantly activated* (even when using one language)—bilinguals need to "select" the right language.  
+  - Example: Spanish-English bilinguals use more English passives after hearing Spanish passives (Hartsuiker et al. 2004).  
+- **Brain Overlap**: Bilinguals use mostly the same brain areas for L1 and L2—L2 can even change L1 (e.g., Welsh-English bilinguals unconsciously access Welsh word order when reading English).  
+
+- **Implications**: Comparing bilinguals to monolinguals is unfair—bilinguals’ competence is "different, not deficient."  
+
+
+### 4.6 Input Quality/Quantity Trumps Age  
+Age of acquisition (AoA) isn’t the only factor—input (exposure to L2) is equally critical:  
+
+- **Quantity Matters**:  
+  - Simultaneous bilinguals (L1+L2 from birth) with unequal input have stronger skills in their "dominant" language (Thordardottir 2015).  
+  - Heritage speakers (L1 = home language, L2 = majority language) lose L1 proficiency if input decreases (e.g., less home L1 use after starting school)—their L1 skills can match adult L2 learners (Montrul 2009).  
+
+- **Quality Matters**:  
+  - High-quality input = diverse (home/school/professional registers), communicatively relevant, and comprehensible.  
+  - Example: Jia & Aronson (2003): Young Mandarin-English learners (5–9) had richer peer interaction = faster L2 dominance vs. teens (12–16).  
+
+- **Muñoz (2014)**: For L2 English learners in Spain, input (hours of lessons, time abroad) predicted oral performance better than AoA.  
+
+
+### 4.7 Input’s Importance: Even for Monolinguals  
+Input affects L1 acquisition too—showing input, not just age, drives mastery:  
+- **Miller & Schmitt (2010)**: Mexican Spanish (clear plural markers) vs. Chilean Spanish (unreliable plural markers). Mexican kids learned plurals faster.  
+- **Meisel et al. (2011)**: French adults struggle with formal interrogatives (e.g., *Quand arrive le train?*)—they rarely heard them as kids (only learned at school, like an L2).  
+
+
+### 4.8 Conclusions  
+1. **Sensitive, Not Critical**: Language has "sensitive periods"—optimal for phonology (pronunciation) early, but morphosyntax/semantics can be mastered later.  
+2. **Input Is Key**: Quantity/quality of L2 input can override age effects (e.g., heritage speakers with strong input maintain L1 skills).  
+3. **Bilinguals Are Different**: Their L1/L2 interaction means nativelike = "matching native bilinguals," not monolinguals.  
+4. **Teaching Takeaway**: Adults can achieve nativelike skills in grammar/semantics—focus on high-quality input, not just "early start."  
+
+
+### Key Terms  
+- Critical Period: Early irreversible window for development (old term).  
+- Sensitive Period: Flexible, optimal window (modern term).  
+- Brain Plasticity: Brain’s ability to change with experience.  
+- Heritage Speaker: Learner with L1 = home language, L2 = majority language.  
+- Poverty of the Stimulus: Learning a grammar feature that can’t be deduced from input alone.  
+
+
+### Preview/Review Questions  
+#### Preview  
+1. What’s the difference between a "critical period" and a "sensitive period"?  
+2. Why do researchers debate CPH for L2 (but not L1)?  
+
+#### Review  
+1. What evidence supports a sensitive period for L2 pronunciation?  
+2. How does input quality/quantity affect nativelike L2 attainment?  
+3. Why is comparing bilinguals to monolinguals unfair?
+
+
+---
+
+### ✅ Tasks
+
+#### Before class (preview)
+- Read Ch. 4 for the **big picture** (don’t stress about statistics).  
+- Note one **result** you found persuasive and one you found **questionable**, and why.
+
+#### In class (light activities)
+- **Curve sketching (pairs, 8–10 min):** Draw three possible AoA→attainment curves (step, linear decline, steep-then-flat). Label which subsystem each curve might reflect.  
+- **Confound detective (small groups, 10 min):** Given a short study description, list at least **three confounds** to control (e.g., LoR, input quality, literacy).
+
+#### Practice (micro-lab you can try)
+**Prompt:** “AoA predicts accent strength more strongly than morphosyntax outcomes.”  
+- **Plan:** Collect (or imagine) small samples for **accent ratings** and a **morphosyntax judgment** score, each paired with **AoA**.  
+- **Prediction:** AoA correlates **more tightly** with accent than with morphosyntax.  
+- **Falsifier:** Comparable (or stronger) AoA correlation for morphosyntax after controlling LoR and input.
+
+#### After class (review)
+1. **Mini reflection (≈150–200 words):**  
+   - State one **if–then** prediction about AoA and an outcome you care about.  
+   - Name **two confounds** you would control and **one** way to measure success.  
+2. **Self-check (answers hidden):**  
+   1) What’s the difference between **critical** and **sensitive** period claims?  
+
+
+   2) Why is **phonology** often more age-sensitive than **morphosyntax**?  
+  
+
+   3) Give **two confounds** that can mimic age effects.  
+  
+
+   4) What would **falsify** a hard CPH?  
+ 
+   5) State one **falsifiable prediction** of a strong CPH for L2.  
+   
+
+   6) Give an example where **measure choice** changes the age conclusion.  
+
+
+   7) Define **input quality** and give a diagnostic example.  
+
+
+   8) Name **two covariates** that must be controlled in AoA studies.  
+
+   9) What result would favor a **sensitive-period** over a strict CPH?  
+ 
+
+---
+
+### 📖 Additional resources (short articles/chapters)
+- Johnson, J. S., & Newport, E. L. (1989). **Critical period effects in second language learning.** *Cognitive Psychology, 21*(1), 60–99.  
+- Birdsong, D., & Molis, M. (2001). **On the evidence for maturational constraints in SLA.** *Journal of Memory and Language, 44*(2), 235–249.  
+- DeKeyser, R. M. (2000). **The robustness of critical period effects in second language acquisition.** *Studies in Second Language Acquisition, 22*(4), 499–533.  
+- Flege, J. E., Yeni-Komshian, G., & Liu, S. (1999). **Age constraints on second-language acquisition.** *Journal of Memory and Language, 41*(1), 78–104.  
+- Long, M. H. (1990). **Maturational constraints on language development.** *Studies in Second Language Acquisition, 12*(3), 251–285.
+
+---
+
+### 🧭 Preview of Week 5
+Next we compare **acquisition contexts**: two first languages (2L1), child L2, multilingual and heritage learners—and what these profiles teach us about mechanisms of L2 development.
+
+
+-->
+
+
+<!--
 ### 🧩 Core content (gentle, big-picture)
 
 #### 1) What the CPH says (and softer variants)
@@ -85,70 +265,8 @@ By the end of Week 4 you should be able to:
 - **Supports CPH**: a **monotonic AoA effect** remains after controlling input/use/education; late starters cluster **below** native range on demanding measures.  
 - **Challenges CPH**: **documented late near-natives** meeting **strict performance criteria**; AoA slope weakens or disappears once **confounds** are rigorously controlled.  
 - **Falsifier (hard CPH)**: many late starters consistently within **native distribution** on multiple **independent** measures.
+-->
 
----
-
-### ✅ Tasks
-
-#### Before class (preview)
-- Read Ch. 4 for the **big picture** (don’t stress about statistics).  
-- Note one **result** you found persuasive and one you found **questionable**, and why.
-
-#### In class (light activities)
-- **Curve sketching (pairs, 8–10 min):** Draw three possible AoA→attainment curves (step, linear decline, steep-then-flat). Label which subsystem each curve might reflect.  
-- **Confound detective (small groups, 10 min):** Given a short study description, list at least **three confounds** to control (e.g., LoR, input quality, literacy).
-
-#### Practice (micro-lab you can try)
-**Prompt:** “AoA predicts accent strength more strongly than morphosyntax outcomes.”  
-- **Plan:** Collect (or imagine) small samples for **accent ratings** and a **morphosyntax judgment** score, each paired with **AoA**.  
-- **Prediction:** AoA correlates **more tightly** with accent than with morphosyntax.  
-- **Falsifier:** Comparable (or stronger) AoA correlation for morphosyntax after controlling LoR and input.
-
-#### After class (review)
-1. **Mini reflection (≈150–200 words):**  
-   - State one **if–then** prediction about AoA and an outcome you care about.  
-   - Name **two confounds** you would control and **one** way to measure success.  
-2. **Self-check (answers hidden):**  
-   1) What’s the difference between **critical** and **sensitive** period claims?  
-   <!-- Critical = sharp boundary with discontinuous drop; Sensitive = gradual change in learnability/outcomes with AoA. -->
-
-   2) Why is **phonology** often more age-sensitive than **morphosyntax**?  
-   <!-- Early-tuned perception/motor patterns vs. rules that are explicitly teachable, practice-supported, and literacy-boosted. -->
-
-   3) Give **two confounds** that can mimic age effects.  
-   <!-- Input quality/quantity; education/literacy; length of residence; current L2 use/dominance; SES; motivation; aptitude (any two). -->
-
-   4) What would **falsify** a hard CPH?  
-   <!-- Many late starters performing within native distributions on multiple independent measures under strict controls. -->
-
-   5) State one **falsifiable prediction** of a strong CPH for L2.  
-   <!-- A sharp AoA boundary (e.g., ≤7 vs. ≥15) yields a discontinuous drop in ultimate attainment even when input/use are matched. -->
-
-   6) Give an example where **measure choice** changes the age conclusion.  
-   <!-- Strong age effect for accent, but weak/mixed for inflectional morphology or article semantics when input is rich and diagnostics are clear. -->
-
-   7) Define **input quality** and give a diagnostic example.  
-   <!-- Quality = informativeness/diagnosticity of the evidence; e.g., obligatory expletive “it” in English gives unambiguous subject requirements. -->
-
-   8) Name **two covariates** that must be controlled in AoA studies.  
-   <!-- Length of residence (LoR); current L2 use/dominance; education/literacy; SES; motivation; aptitude (any two). -->
-
-   9) What result would favor a **sensitive-period** over a strict CPH?  
-   <!-- A continuous negative slope of attainment with AoA (no clear breakpoint) after controlling for input/use. -->
-
----
-
-### 📖 Additional resources (short articles/chapters)
-- Johnson, J. S., & Newport, E. L. (1989). **Critical period effects in second language learning.** *Cognitive Psychology, 21*(1), 60–99.  
-- Birdsong, D., & Molis, M. (2001). **On the evidence for maturational constraints in SLA.** *Journal of Memory and Language, 44*(2), 235–249.  
-- DeKeyser, R. M. (2000). **The robustness of critical period effects in second language acquisition.** *Studies in Second Language Acquisition, 22*(4), 499–533.  
-- Flege, J. E., Yeni-Komshian, G., & Liu, S. (1999). **Age constraints on second-language acquisition.** *Journal of Memory and Language, 41*(1), 78–104.  
-- Long, M. H. (1990). **Maturational constraints on language development.** *Studies in Second Language Acquisition, 12*(3), 251–285.
-
----
-
-### 🧭 Preview of Week 5
-Next we compare **acquisition contexts**: two first languages (2L1), child L2, multilingual and heritage learners—and what these profiles teach us about mechanisms of L2 development.
 
 
 

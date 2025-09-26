@@ -1,16 +1,171 @@
 +++
-title = "Week 8"
-date = '2025-04-15T08:47:59-04:00'
-weight = 10
+title = "Week 9 - Ch.9: ACQUISITION OF THE MENTAL LEXICON"
+date = '2025-04-27T17:00:00-04:00'
+weight = 11
 draft = false
 +++
 
-## Week 8 — The Mental Lexicon: Representation, Access, and Argument Structure
+## Week 9 — ACQUISITION OF THE MENTAL LEXICON
+
+
+To be published ...
+<!--
+
+
+**Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 9: Acquisition of the Mental Lexicon**.    
+ [Link to Chapter 9](/SLA4pg/pdfs/C9_mentallexicon.pdf)
+
+
+### ⭐ Overview
+- How the **bilingual mental lexicon** is structured: integrated (not separate L1/L2 stores) and accessed in a language-independent way .  
+- The challenge of **inhibiting one language** to use another—why switch costs (e.g., L2→L1) are higher for dominant languages .  
+- How L2 learners process **polymorphemic words**: from whole-word storage (beginner) to morphological decomposition (advanced) .  
+- Key lexical semantics challenges: **argument structure alternations** (e.g., dative-double object) and **transfer of reference** (metonymy/figurative language) .  
+
+
+### 🎯 Learning goals
+By the end of Week 9 you should be able to:
+1. Explain why the bilingual mental lexicon is "integrated" (not separate L1/L2 stores) and how this leads to language-nonspecific access .  
+2. Describe the **Inhibitory Control Model** and why switching from L2 to L1 has higher costs than L1→L2 .  
+3. Compare how beginners vs. advanced L2 learners process polymorphemic words (whole-word vs. decomposition) using Ullman’s Declarative/Procedural model .  
+4. Apply the "Poverty of the Stimulus" to argument structure alternations (e.g., English dative) and explain why L2 learners struggle with overgeneralization .  
+
+---
+
+### 📖 Reading (do before class)
+- **Required**: Slabakova (2016), **Chapter 9** (focus on Sections 9.1–9.5; prioritize mental lexicon structure and argument structure over technical exercises).  
+- As you read, note:  
+  - How L1 transfer affects L2 lexical semantics (e.g., Chinese learners of English struggling with *The book disappointed Mary*) .  
+  - Why metonymy (e.g., *The ham sandwich wants coffee*) is harder to acquire than literal word meanings .  
+
+**Guiding questions while you read**
+1. What experimental evidence (e.g., interlingual homographs, cognates) supports language-nonspecific access to the mental lexicon?  
+2. Why do advanced L2 learners of Russian decompose inflected verbs (e.g., *rabot-aj-u* = work-suffix-inflection) but beginners store them whole?  
+3. How do typological differences (verb-framed vs. satellite-framed languages) affect L2 motion verb acquisition?  
+
+---
+
+### 🧠 Key terms
+*mental lexicon (bilingual); integrated lexicon; language-nonspecific access; Inhibitory Control Model; switch costs; morphological decomposition; Declarative/Procedural model; argument structure; causative-inchoative alternation; dative alternation; unaccusativity; transfer of reference; metonymy; verb-framed/satellite-framed languages*
+
+---
+
+
+## CHAPTER 9: ACQUISITION OF THE MENTAL LEXICON  
+**Core Goal**: Understand how bilinguals store, access, and process L2 words—from basic lexical items to complex semantic mappings (e.g., argument structure, figurative language).  
+
+
+### 9.1 Structure & Access of the Bilingual Mental Lexicon  
+The bilingual mental lexicon is not two separate stores—it is an integrated system with shared conceptual roots:  
+
+#### 1. Key Properties of the Integrated Lexicon  
+- **Cross-Language Integration**: L1 and L2 words are stored together, organized by phonological/orthographic/semantic similarity (not language). For example:  
+  - Dutch-English bilinguals activate *blut* (Dutch = "disaster") when reading English *ramp* (homograph) .  
+  - Brain imaging (fMRI) shows overlapping activation in L1/L2 lexical access for proficient bilinguals .  
+- **Language-Nonspecific Access**: When processing one language, all available lexicons are activated. Evidence includes:  
+  - **Neighborhood Effect**: L1 words with L2 "neighbors" (e.g., English *blue* → Dutch *blut*) take longer to recognize .  
+  - **Visual World Paradigm**: Spanish-English bilinguals look at a *spoon* (Spanish *cuchara*) when hearing English words starting with /k/ (e.g., *cup*) .  
+
+#### 2. Models of Lexicon Representation  
+| Model | Core Idea | Key Prediction |
+|-------|-----------|----------------|
+| Revised Hierarchical Model (Kroll & Stewart 1984) | L1 words have stronger links to shared concepts than L2 words; L2 access relies on L1 translations initially . | Beginners use L1→L2 translation; advanced learners access L2 meanings directly . |
+| BIA+ Model (Dijkstra & van Heuven 2002) | Three levels: conceptual (lemma), lexical, and ortho-phonological; no dedicated "language node" (language is a task/decision component) . | Language interference persists even for advanced bilinguals (e.g., homograph conflict) . |  
+
+#### 3. Factors Affecting Access Speed  
+- **Frequency**: More frequent words (e.g., L1 *cat* vs. L2 *gato*) are accessed faster .  
+- **Proficiency**: Low-proficiency L2 users activate wider brain areas (e.g., right inferior frontal gyrus) to compensate for slower access .  
+
+
+### 9.2 Inhibiting One Language to Use Another  
+Parallel activation of L1/L2 means bilinguals must constantly suppress the non-target language—regulated by executive control:  
+
+#### 1. Inhibitory Control Model (Green 1998)  
+- **Claim**: Lexical selection involves competition between L1/L2 candidates; the non-target language is inhibited to prioritize the target .  
+- **Switch Costs**: Switching from L2→L1 is harder than L1→L2. Example: Bilinguals naming numerals take longer to switch to L1 after L2—because L1 was strongly inhibited to use L2 .  
+
+#### 2. Neural Correlates  
+- **ERP Evidence**: The N2 component (300ms post-stimulus) is larger for language switches—indexing conflict resolution .  
+- **Brain Structure Changes**: Bilinguals have enhanced activity in the **anterior cingulate cortex (ACC)** (executive control), leading to cognitive advantages (e.g., better task switching) .  
+
+
+### 9.3 Morphological Decomposition in the Lexicon  
+Do L2 learners store polymorphemic words (e.g., *worked*, *walker*) as whole units or decompose them into stem + affix?  
+
+#### 1. Declarative/Procedural Model (Ullman 2001)  
+- **Declarative Memory**: Stores whole words (e.g., irregular past tense *ate*); used more by beginners .  
+- **Procedural Memory**: Decomposes regular forms (e.g., *worked* = *work* + *-ed*); used more by advanced learners .  
+
+#### 2. Experimental Evidence  
+- **Beginners**: Neubauer & Clahsen (2009) found Polish learners of German store regular participles (e.g., *gearbeitet*) whole—frequency affects access speed .  
+- **Advanced Learners**: Gor & Jackson (2013) found advanced Russian L2 learners decompose inflected verbs (e.g., *rabot-aj-u* = work-suffix-inflection)—stem priming speeds access .  
+- **Key Factor**: Language richness—highly inflected languages (e.g., Russian) force decomposition earlier (storing all inflections whole is impractical) .  
+
+
+### 9.4 Acquisition of Argument Structure  
+Argument structure (verbs + their required arguments) is a major L2 challenge due to cross-linguistic differences and Poverty of the Stimulus:  
+
+#### 1. Key Alternations  
+- **Causative-Inchoative**:  
+  - English: *John broke the vase* (causative) / *The vase broke* (inchoative) (same verb form) .  
+  - Spanish: *El enemigo hundió el barco* (causative) / *El barco se hundió* (inchoative) (reflexive *se* marks inchoative) .  
+  - **Finding**: Learners of morphologically marked languages (e.g., Spanish) master alternations faster than those with unmarked L1 (e.g., English) .  
+
+- **Dative-Double Object**:  
+  - English: *Mary sent John the package* (double object, requires Goal possession) vs. *Mary sent the package to Chicago* (dative, no possession) .  
+  - **Challenge**: Learners overgeneralize (e.g., *Sam pushed Molly the package*)—no negative input to correct this .  
+
+#### 2. Cross-Linguistic Conflation Differences  
+- **Psychological Verbs**: English allows Theme subjects (*The book disappointed Mary*), but Chinese does not (*\*That book disappointed Zhang San*) .  
+- **Finding**: Chinese learners of English master this structure by advanced proficiency—evidence of successful lexical restructuring .  
+
+#### 3. Unaccusativity  
+- **Distinction**: Unaccusative verbs (Theme subject: *The vase broke*) vs. unergative verbs (Agent subject: *John danced*) .  
+- **L2 Evidence**: Hirakawa (1999) found Chinese/English learners of Japanese distinguish the two classes—e.g., *takusan tui-ta* ("a lot arrived") modifies subjects (unaccusative) but *takusan ason-da* ("a lot played") modifies the action (unergative) .  
+
+
+### 9.5 Transfer of Reference (Metonymy & Figurative Language)  
+Metonymy (e.g., *The ham sandwich wants coffee* = "the person who ordered the ham sandwich") is a universal process but hard for L2 learners:  
+
+#### 1. Types of Metonymy  
+- **Regular**: Lexicalized (e.g., *Bordeaux* = wine from Bordeaux; *Beijing* = Chinese government) .  
+- **Novel**: Context-dependent (e.g., *Seat 19 wants to swap* = "the person in Seat 19") .  
+
+#### 2. L2 Acquisition Challenges  
+- **Developmental Delay**: L1 children master metonymy by age 12; L2 learners take longer .  
+- **L1 Transfer**: Spanish/Korean learners of English are influenced by L1 metonymic patterns but overcome them by advanced levels .  
+- **Processing Cost**: Unfamiliar metonyms (e.g., *read Needham*) cause slower comprehension unless context clarifies the meaning .  
+
+
+### 9.6 Conclusions  
+1. **Integrated Lexicon**: Bilinguals do not have separate L1/L2 stores—language interference is inevitable but manageable with executive control .  
+2. **Decomposition Develops**: L2 learners move from whole-word storage to morphological decomposition as proficiency increases .  
+3. **Argument Structure Is Learnable**: Despite Poverty of the Stimulus, advanced learners master cross-linguistic alternations .  
+4. **Figurative Language Needs Explicit Focus**: Metonymy and metaphor require targeted input—classrooms often overlook this critical lexical skill .  
+
+
+### Preview/Review Questions  
+#### Preview  
+1. What is the difference between "language-specific" and "language-nonspecific" access to the mental lexicon?  
+2. Why is morphological decomposition more important for learners of Russian than English?  
+
+#### Review  
+1. How does the BIA+ Model explain homograph interference (e.g., English *ramp* vs. Dutch *ramp*)?  
+2. Why do L2 learners overgeneralize the English double-object construction (e.g., *\*Sam pushed Molly the package*)?  
+3. What evidence shows advanced L2 learners can master novel metonymy?
+-->
 
 
 
 
-To be published
+
+
+
+
+
+
+
+
 
 
 

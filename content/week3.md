@@ -1,11 +1,11 @@
 +++
-title = "Week 3"
+title = "Week 3 - Ch.3: THE PSYCHOLOGICAL REALITY OF LANGUAGE IN USE"
 date = '2025-03-18T15:31:40-04:00'
 weight = 5
 draft = false
 +++
 
-## Week 3 — Processing & the Parser: How L2 is Used in Real Time
+## Week 3 — THE PSYCHOLOGICAL REALITY OF LANGUAGE IN USE
 
 
  **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 3: The psychological reality of language in use**.    
@@ -44,6 +44,119 @@ By the end of Week 3 you should be able to:
 
 ---
 
+## CHAPTER 3: THE PSYCHOLOGICAL REALITY OF LANGUAGE IN USE  
+**Core Goal**: Understand how the brain processes language (speech/reading) and links linguistic structure to psychology—critical for language learning.  
+
+
+### 3.1 Sentence Comprehension: Basic Process  
+A fast, 5-step sequence (not just "hearing words"):  
+1. Store incoming sounds in short-term memory.  
+2. Split continuous speech into words (no "gaps" in speech).  
+3. Retrieve word meaning/grammar from the **mental lexicon** (internal "dictionary").  
+4. Build grammatical structure (parsing) to organize words.  
+5. Use context/world knowledge to clarify meaning.  
+
+> Note: Speech is language’s primary medium (children learn it first; most languages lack writing).
+
+
+### 3.2 Phonological Perception & Lexical Recognition  
+#### 1. Speech Challenges  
+- **No word boundaries**: Unlike writing, speech has no pauses between words (see textbook Figure 3.1).  
+- **Coarticulation**: Sounds blend (e.g., French *avec vous* → /aveg vu/; *k* becomes *g* before voiced *v*).  
+
+#### 2. Pre-Lexical Cues (Segmenting Speech)  
+- Rhythm (stressed/unstressed syllables) and tone (Mandarin/Thai) help split the sound stream.  
+
+#### 3. Lexical Recognition Models  
+Adult English speakers store 50,000–100,000 words; recognition is competitive:  
+
+| Model         | How It Works                                                                 | Example: Recognizing "February" |
+|---------------|-----------------------------------------------------------------------------|---------------------------------|
+| Cohort Model  | 1. Activate words matching first 1–2 sounds ("cohort"). <br> 2. Filter mismatches as more sounds arrive. | 1. /fe/ → *fence, phenomenon, February* <br> 2. /b/ → only *February* remains |
+| TRACE Model   | Words activate on a scale (more match = higher activation); no strict cohort. | /fe/ boosts *fence*; /b/ shifts activation to *February* |
+
+**Consensus**: Multiple words activate in parallel; competition narrows to the best match.  
+
+
+### 3.3 Morphology: Whole Words or Morphemes?  
+Morphemes = smallest meaningful units (e.g., *book-s* = *book* [lexical] + *-s* [plural, functional]).  
+
+#### 1. Key Morphology Types  
+| Type               | Role                                                                 | Example |
+|--------------------|----------------------------------------------------------------------|---------|
+| Lexical Morphemes  | Core meaning (free)                                                  | *walk*, *happy* |
+| Functional Morphemes | Grammatical meaning (bound/free)                                     | *-ed*, *the* |
+| Inflectional       | Add grammar (no category change)                                     | *walk-ed* (still verb) |
+| Derivational       | Change meaning/category                                              | *happy-ness* (Adj→N) |
+
+#### 2. Great Past Tense Debate  
+- **Words & Rules**: Irregulars (*ate*) = whole words; Regulars (*walked*) = built by rule (*verb + -ed*).  
+- **Connectionist**: Both = whole words; activation depends on use frequency.  
+- **Consensus**: High-frequency words (*happiness*) = whole units; low-frequency (*disenchantment*) = decomposed.  
+
+
+### 3.4 The Syntactic Parser  
+Builds grammatical structure (phrase trees) to understand "who did what."  
+
+#### 1. Structure = Interpretation  
+Example: *Mary ate the cake in the dining room*  
+- Interpretation 1: Cake was in the dining room (NP-attachment: *the cake [in the dining room]*).  
+- Interpretation 2: Eating was in the dining room (VP-attachment: *ate [the cake in the dining room]*).  
+
+#### 2. Garden Path Sentences  
+Temporary ambiguity tricks the parser (needs reanalysis):  
+- Example: *The tomcat curled up on the cushion seemed friendly*  
+  - 1st wrong analysis: *The tomcat curled up…* (complete sentence).  
+  - Trigger: *seemed* (reveals *curled up* = reduced relative clause).  
+
+
+### 3.5 Models of Syntactic Processing  
+Debate: When do we use syntax vs. semantics/context?  
+
+| Model Type          | Core Idea                                                                 | Example: *The defendant/evidence examined by the lawyer…* |
+|---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| Modular (Garden Path) | 2-stage: Syntax first, then semantics. Heuristics: Late Closure/Minimal Attachment. | No difference between *defendant* (animate) and *evidence* (inanimate). |
+| Interactive (Constraint-Based) | 1-stage: Use all info (syntax/semantics) at once. Parallel structure activation. | *Defendant* (animate = likely Agent) is harder; *evidence* (inanimate) is easier. |
+| Dependency Locality Theory | Focuses on complexity: Storage (hold words) + Integration (connect distant words) costs. | Object relatives (*The reporter who the senator attacked*) are harder than subject relatives. |
+
+
+### 3.6 Working Memory  
+Active workspace for language (short-term, different from long-term memory).  
+
+| Measure               | Task                                                                 | Tests |
+|-----------------------|----------------------------------------------------------------------|-------|
+| Phonological Short-Term | Memorize digits/words.                                                | Pure storage |
+| Reading Span          | Read sentences + remember last words.                                 | Storage + processing |
+
+**Debate Outcome**: More support for **dedicated resources**—parsing (automatic) uses separate memory from conscious tasks.  
+
+
+### 3.7 Why This Matters  
+- Grammar = "resting engine"; Parsing = "engine running" (Juffs & Rodriguez 2015)—they’re the same system.  
+- Processing shapes theory: *Multiple Spell-Out* (split sentences into chunks) reduces memory load.  
+- Learner difficulty: Complex structures (e.g., object relatives) tax processing, not just grammar knowledge.  
+
+
+### Key Terms  
+- Mental Lexicon: Internal word storage.  
+- Coarticulation: Sound blending across words.  
+- Syntactic Parser: Builds grammatical structure.  
+- Garden Path Sentence: Temporarily ambiguous.  
+- Working Memory: Active language processing storage.  
+
+
+### Preview/Review Questions  
+#### Preview  
+1. Why is speech harder to segment than writing?  
+2. What is a "garden path sentence"?  
+
+#### Review  
+1. How do Cohort and TRACE models differ?  
+2. Why are object relative clauses harder to process?  
+3. What’s the evidence for dedicated working memory resources?
+
+
+<!--
 ### 🧩 Core content (gentle, big-picture)
 
 #### 1) What “processing” is (and isn’t)
@@ -91,7 +204,7 @@ You don’t need formulas—just the **intuition**: bigger signal or slower time
 - **Control pace** (shorter sentences first; chunking; guided pauses) to allow **structure** to “catch up.”  
 - **Repeat exposure** to the **same form–meaning** mapping across varied but simple contexts.  
 - **Minimal pair noticing** (e.g., *He run* vs. *He runs*) with quick meaning checks to tie form → interpretation.
-
+-->
 ---
 
 ### ✅ Tasks

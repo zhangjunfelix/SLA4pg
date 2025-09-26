@@ -1,5 +1,5 @@
 +++
-title = "Week 2"
+title = "Week 2 — Ch.2: Language Variation"
 date = '2025-03-16T14:08:52-04:00'
 weight = 4
 draft = false
@@ -43,8 +43,86 @@ By the end of Week 2 you should be able to:
 
 ---
 
-### 🧩 Core content (gentle, big-picture)
+## CHAPTER 2: LANGUAGE VARIATION  
+**Preview Focus**: This chapter explains why languages differ systematically and how these differences affect second language learning. By the end, you’ll understand:  
+- How languages vary in structure (and why these variations aren’t random)  
+- Key theoretical frameworks for explaining variation  
+- Why some aspects of second language acquisition are harder than others  
 
+
+### 2.1 How Do Languages Differ?  
+Languages vary in three main ways, but syntactic (sentence structure) differences are the most systematic:  
+
+#### 1. Surface-Level Differences  
+- **Lexicon**: Different words for the same thing (e.g., English "table" = Bulgarian "masa"). These must be learned individually.  
+- **Phonotactics**: Rules for combining sounds (e.g., English forbids words starting with "tl-", but Bulgarian allows it: *tlăst* = "fat").  
+
+#### 2. Syntactic Variation: Word Order Patterns  
+Syntactic differences follow **harmony**—languages are consistent in how they arrange "heads" (key words) and their "complements" (supporting information):  
+- **Head-initial**: Head comes before complement (e.g., English: "to the store" [Preposition + NP]; "eat food" [Verb + NP]).  
+- **Head-final**: Head comes after complement (e.g., Japanese: "kōen ni" [NP + Postposition]; "ringo o taberu" [NP + Verb]).  
+
+**Major Word Order Types** (from 1377 languages studied):  
+- 41% SOV (e.g., Japanese: *Taro Hanako-ni hon-o ageta* = "Taro gave Hanako a book")  
+- 35.4% SVO (e.g., English: "Taro gave Hanako a book")  
+- 7% VSO (e.g., Irish: "Chonaic mé an cat" = "Saw I the cat")  
+
+#### 3. Exceptional Cases: Polysynthetic Languages  
+Languages like Mohawk use:  
+- **Free word order**: Meaning doesn’t depend on word position  
+- **Noun incorporation**: Nouns are built into verbs (e.g., *wa-sh-ako-hsir-u* = "he-her-blanket-gave")  
+- **Morphology for meaning**: Verb endings signal "who did what to whom" (not word order).  
+
+
+### 2.2 Principles and Parameters (P&P) Theory  
+This framework explains *why* languages vary systematically:  
+
+#### Key Concepts  
+- **Principles**: Universal rules shared by all languages (e.g., Every sentence must have a subject).  
+- **Parameters**: "Switches" that create differences between languages. Setting one parameter explains multiple related features.  
+
+#### Examples of Parameters  
+1. **Head Directionality Parameter**: Explains head-initial (English) vs. head-final (Japanese) structures.  
+2. **Null Subject Parameter (NSP)**:  
+   - *On* (e.g., Spanish/Italian): Allows missing subjects (*Habla español* = "He speaks Spanish") and has rich verb agreement.  
+   - *Off* (e.g., English): Requires explicit subjects ("He speaks Spanish") and has limited verb agreement.  
+3. **Compounding Parameter**: Determines if a language allows noun-noun compounds (*spider box* in English) and verb-particle phrases (*eat up*).  
+
+
+### 2.3 The Minimalist Program  
+A newer framework that simplifies P&P:  
+- **Universal Syntax**: All languages use the same basic operation (*Merge*) to build sentences.  
+- **Sources of Variation**: Differences come from:  
+  1. **Functional morphology**: Tense/agreement markers (e.g., Spanish *-a* vs. English *-s* for 3rd person singular).  
+  2. **Phonetic Form (PF)**: Which part of a moved phrase is pronounced (e.g., English moves "what" in questions; Mandarin leaves it in place).  
+  3. **Logical Form (LF)**: How meaning depends on context (e.g., Mandarin uses context, not articles, to signal definiteness).  
+
+
+### 2.4 What Do Second Language Learners Need to Learn?  
+- **Initial State**: Learners start with their first language (L1) grammar and transfer its rules/parameters to the second language (L2).  
+- **Challenges**:  
+  - Resetting parameters when L1 and L2 differ (e.g., a Spanish speaker learning English must learn to use explicit subjects).  
+  - Mastering **functional morphology** (tense, agreement, articles)—this is the "bottleneck" of acquisition.  
+- **Predictions**:  
+  - Easy: Features shared by L1 and L2 (e.g., SVO word order for English learners of French).  
+  - Hard: Feature mismatches (e.g., English past tense vs. Spanish imperfect) and context-dependent meaning (e.g., Mandarin definiteness).  
+
+
+### Key Terms to Know  
+- **Head vs. Complement**: Key word vs. supporting information in a phrase  
+- **Harmony**: Consistency in head-complement order across phrases  
+- **Parameter**: A "switch" explaining cross-linguistic differences  
+- **Functional morphology**: Grammatical markers (tense, agreement)  
+- **Bottleneck Hypothesis**: Functional morphology is the hardest part of L2 acquisition  
+
+
+### Preview Questions  
+1. How does the Head Directionality Parameter explain differences between English and Japanese?  
+2. Why do Spanish learners of English often omit subjects (e.g., *Speaks Spanish*)?  
+3. What makes functional morphology harder to learn than word order?  
+
+
+<!--
 #### 1) From "big switches" to **features in the functional lexicon**
 - Early accounts treated parameters like global on/off **switches** (e.g., a single "Null Subject" setting predicting a whole cluster of properties). That idea was useful but often **too coarse** for the cross-linguistic facts.
 - A modern, learner-friendly view: many differences live in the **features** of functional items (determiners, tense/aspect heads, complementizers, etc.). Learning an L2 means **learning which features exist** and **how they are expressed** in that language.
@@ -99,8 +177,9 @@ By the end of Week 2 you should be able to:
 - You can **name** a cross-language difference and **locate** it as a **feature mapping** (not just "grammar is different").
 - You can write a clear **if-then prediction** from that difference.
 - You can propose a **tiny check** (sorting, cloze, judgments, or a short production prompt) that would **confirm or challenge** your prediction.
-
+-->
 ---
+
 
 ### ✅ Tasks
 
@@ -108,13 +187,13 @@ By the end of Week 2 you should be able to:
 - Read Ch. 2 **for the main ideas** (don't get lost in technical terms).  
 - Bring one **L1 ↔ L2 difference** you've noticed (word order? subject expression? compounding?). We'll use it to make a prediction.
 
-#### In class (light activities)
-- **Feature hunt (pairs, 8–10 min):** Pick one L1↔L2 contrast and say *which feature(s)* might be different and *how they surface*.  
-- **If-then postcards (small groups, 10 min):**  
+#### In class
+- **Feature hunt:** Pick one L1↔L2 contrast and say *which feature(s)* might be different and *how they surface*.  
+- **"If-then" hypothesis:**  
   - Write **one sentence**: "If L1 has **X**, then beginners may **Y** in L2."  
   - Keep it observable (Y should be something you can count or notice).
 
-#### Practice (micro-lab you can try)
+#### Practice
 **Prompt (approachable):** "If a learner's L1 freely drops subjects but the L2 does not, early L2 **subject omission** should be higher for that learner group."  
 - **Design idea:** Compare a few beginner sentences (two L1 groups). Count **subject present/absent**.  
 - **What would falsify it?** No group difference; or consistent subjects from the start.  
@@ -138,12 +217,6 @@ By the end of Week 2 you should be able to:
    (4) State one area often predicted to be **harder** than narrow syntax.  
    <!-- Functional morphology (and related syntactic/semantic effects). -->   
 
----
-
-### 📖 Additional resources (short articles/chapters)
-- White, L. (1985). **The "pro-drop" parameter in adult second language acquisition.** *Language Learning, 35*(1), 47–61.  
-- Snyder, W. (2001). **On the nature of syntactic variation: Evidence from complex predicates and complex word-formation.** *Language, 77*(2), 324–342.  
-- Biberauer, T. (2008). **Introducing parameters.** In *The Bantu-Romance Connection*. 
 
 ---
 

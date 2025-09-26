@@ -1,5 +1,5 @@
 +++
-title = "Week 1"
+title = "Week 1 - Ch.1: Language architecture"
 date = '2025-03-11T14:08:52-04:00'
 weight = 3
 draft = false
@@ -74,6 +74,143 @@ By the end of Week 1 you should be able to:
 
 ---
 
+## Activity 1: Error Detective: Grammar Investigation Practice
+
+
+## 🔍 Your Mission
+
+Work with a partner to find and fix common English errors. Think like a detective - spot what's wrong, correct it, and explain why it needs fixing!
+
+
+## 🕵️‍♂️ Investigation Time
+
+### Part 1: Spot the Errors
+Read these 16 sentences. Put a checkmark (✓) next to any that sound unnatural or incorrect.
+
+> 1. Ø Rains a lot here. **[L1: Spanish]**  
+> 2. Car red is new. **[L1: French]**  
+> 3. Yesterday he go to school. **[L1: Mandarin]**  
+> 4. Cat is on table. **[L1: Russian]**  
+> 5. She eat breakfast every day. **[L1: Arabic]**  
+> 6. Always he is late. **[L1: Turkish]**  
+> 7. Teacher give book to student yesterday. **[L1: Mandarin]**  
+> 8. People is friendly here. **[L1: Portuguese]**  
+> 9. It raining now. **[L1: Korean]**  
+> 10. I bought three book. **[L1: Thai]**  
+> 11. Very the movie I liked. **[L1: German]**  
+> 12. He not understands. **[L1: Italian]**  
+> 13. On the table is a cup my. **[L1: Japanese]**  
+> 14. She is in the home. **[L1: Arabic]**  
+> 15. I saw big very dog. **[L1: Korean]**  
+> 16. Yesterday was cold, Ø didn’t wear jacket. **[L1: Spanish]**
+
+### Part 2: Fix the Errors
+For each one:
+
+- **Underline** the problem area
+- **Rewrite** the sentence correctly
+- **Explain** the fix in simple terms
+
+**Example:**
+- **Original**: *Rains a lot here.*
+- **Fixed**: *It rains a lot here.*
+- **Explanation**: *Needs subject "it" for weather*
+
+### Helpful Explanation Labels:
+- Missing subject (need *it*)
+- Wrong word order
+- Wrong tense (past/present)
+- Missing *a/the*
+- Missing *-s* ending
+- Wrong verb form
+- Missing helper verb (*do/does*)
+- Possessive error
+- Wrong preposition
+
+### Part 3: Explain what causes these errors.
+
+
+### 🎯 Quick Practice
+
+Let's try two examples together:
+
+**Sentence 3:** *Yesterday he go to school.*
+- **Problem**: _________________
+- **Fix**: _____________________
+- **Reason**: __________________
+
+**Sentence 10:** *I bought three book.*
+- **Problem**: _________________
+- **Fix**: _____________________
+- **Reason**: __________________
+
+
+## 💡 Helpful Notes
+### Common Error Patterns:
+- **Spanish speakers**: Often miss subject pronouns ("Rains" → "It rains")
+- **French speakers**: May put adjectives after nouns ("car red" → "red car")
+- **Mandarin speakers**: Might forget past tense ("go" → "went") and articles ("the teacher")
+- **Arabic speakers**: May forget the -s ending ("eat" → "eats")
+- **Korean speakers**: Might struggle with word order ("big very" → "very big")
+
+### Discussion Questions:
+1. Which errors were easiest to spot? Why?
+2. Which were hardest to correct? Why?
+3. Did you notice any patterns in the errors?
+4. How might knowing a student's first language help you teach English?
+
+---
+
+
+
+## Activity 2 — Mini H→P→T Lab (Hypothesis → Prediction → Test)
+
+### 🎯 Your Mission
+Become a language researcher for a day! Design a tiny experiment to test how people learn English grammar patterns. You'll follow the same scientific process that real researchers use.
+
+
+
+**Starter prompts**
+- **Null-subject correlation:** If L1 licenses null subjects but L2 does not, early L2 English shows **subject omission** in production/acceptability.  
+- **Aspect packaging difference:** If L1 distributes aspect with particles/auxiliaries but L2 ties aspect to verb morphology, beginners **under-mark** or **mis-map** aspect in narratives.
+
+### Procedure
+1) **Hypothesis** — 1–2 sentences tied to **architecture** (point out module/interface & features).  
+2) **Prediction** — Specify **group** (L1), **behavior** (what measure), and **locus** (where in structure).  
+3) **Micro-test** — Pick **one** task:  
+   - **Tiny Grammaticality Judgement Task** (8–10 items; 4 critical + 4 controls; binary/4-point scale), or  
+   - **Picture-elicited production** (4 pictures; target one structure), or  
+   - **Mini reading** (4 sentences with 1 Q each targeting the property).  
+   Define **metric** (e.g., % omissions; % “acceptable”; % correct choice) and a **falsifier**.  
+4) **Peer critique** — Swap designs; check **confounds** (length, vocabulary, context, uncontrolled L1 mix).  
+5) **Wrap** — present; you trace each step to **Observe → Hypothesize → Test → Revise**.
+
+
+## 🎓 Examples for Inspiration
+
+### Example Study 1: The "It" Problem
+- **Hypothesis**: Spanish speakers omit "it" in weather sentences
+- **Prediction**: 60% omission rate in fill-in-blank tasks
+- **Test**: 8 sentence completion items
+- **Metric**: % of missing "it" in required contexts
+- **Falsifier**: If omission rate < 20%
+
+### Example Study 2: The "-ed" Problem  
+- **Hypothesis**: Mandarin speakers forget past tense endings
+- **Prediction**: 50% error rate in picture description
+- **Test**: 4 past event pictures
+- **Metric**: Number of missing "-ed" endings
+- **Falsifier**: If error rate < 10%
+
+
+
+
+
+
+
+
+---
+
 ### ✅ Tasks
 
 #### Before class (preview)
@@ -113,6 +250,12 @@ By the end of Week 1 you should be able to:
 
    (5) Where in the architecture would you locate difficulty with **verb movement** vs. **agreement endings**?     
    <!-- Verb movement: syntax. Agreement endings: morphology. -->   
+
+
+
+
+
+
 
 ---
 <!--
