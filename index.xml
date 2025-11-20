@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on</title><link>https://zjpsycholin.github.io/SLA4pg/</link><description>Recent content in Home on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 28 Aug 2025 00:00:00 -0400</lastBuildDate><atom:link href="https://zjpsycholin.github.io/SLA4pg/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://zjpsycholin.github.io/SLA4pg/syllabus/</link><pubDate>Thu, 28 Aug 2025 00:00:00 -0400</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/syllabus/</guid><description>&lt;h2 id="introduction-to-second-language-acquisition-postgraduate"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on</title><link>https://zjpsycholin.github.io/SLA4pg/</link><description>Recent content in Home on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Sep 2025 15:00:00 +0800</lastBuildDate><atom:link href="https://zjpsycholin.github.io/SLA4pg/index.xml" rel="self" type="application/rss+xml"/><item><title>Syllabus</title><link>https://zjpsycholin.github.io/SLA4pg/syllabus/</link><pubDate>Thu, 28 Aug 2025 00:00:00 -0400</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/syllabus/</guid><description>&lt;h2 id="introduction-to-second-language-acquisition-postgraduate"&gt;
  Introduction to Second Language Acquisition (Postgraduate)
  &lt;a class="anchor" href="#introduction-to-second-language-acquisition-postgraduate"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
@@ -151,554 +151,47 @@
  Chapter 10 — ACQUISITION OF THE SYNTAX–SEMANTICS INTERFACE
  &lt;a class="anchor" href="#chapter-10--acquisition-of-the-syntaxsemantics-interface"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;
-&lt;!--
-**Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 10: Acquisition of the Syntax–Semantics Interface**. 
- [Link to Chapter 10](/SLA4pg/pdfs/C10_syntaxsemantics.pdf)
-
-
-### ⭐ Overview
-- The five key types of meaning in language: **lexical**, **phrasal (sentential) semantic**, **grammatical**, **discourse-related**, and **pragmatic**—and how they interact with syntax . 
-- **Syntax–semantics mismatches**: When universal meanings (e.g., ongoing/habitual events) are encoded by different forms across languages (e.g., English past progressive vs. Spanish Imperfect) . 
-- **Poverty of the Stimulus (POS) in semantics**: How L2 learners acquire meanings not attested in input (e.g., missing interpretations of impersonal *se* in Spanish preterit) . 
-- Special learning challenges: **novel constructions** (e.g., French discontinuous interrogatives) and **morphologically unmarked meanings** (e.g., English articles for Russian/Korean learners) . 
-
-
-### 🎯 Learning goals
-By the end of Week 10 you should be able to:
-1. Distinguish the five types of meaning (lexical to pragmatic) and explain how syntax shapes their computation (e.g., word order affecting topic meaning) . 
-2. Identify a **syntax–semantics mismatch** using examples (e.g., English vs. Spanish aspectual tenses) and predict L2 acquisition challenges . 
-3. Explain why semantic POS situations (e.g., quantifier scope in Japanese) require UG access—since negative evidence is absent . 
-4. Apply the **Article Choice Parameter** to explain why Russian/Korean learners of English fluctuate between definiteness and specificity when using articles . 
-
----
-
-### 📖 Reading (do before class)
-- **Required**: Slabakova (2016), **Chapter 10** (focus on Sections 10.1–10.6; prioritize mismatches and POS over technical exercises). 
-- As you read, note: 
- - How L1 transfer affects syntax–semantics mappings (e.g., Bulgarian learners of English acquiring bare verb perfectivity) . 
- - Why pragmatic meaning (e.g., scalar implicatures) is computed *after* semantic meaning ("semantics proposes, pragmatics disposes") . 
-
-**Guiding questions while you read**
-1. Why do English *The tigers eat meat* and Spanish *Los tigres comen carne* have different meanings (specific only vs. generic/specific)? 
-2. How do advanced L2 learners acquire the missing interpretation of Spanish impersonal *se* (no generic reading in preterit) without negative input? 
-3. Why do Russian learners of English sometimes use *the* with indefinite specific NPs (e.g., "I want to sell the beautiful necklace")? 
-
----
-
-### 🧠 Key terms
-*syntax–semantics interface; lexical meaning; phrasal semantics; grammatical meaning; discourse-related meaning; pragmatic meaning; scalar implicatures; syntax–semantics mismatch; Poverty of the Stimulus (POS); Article Choice Parameter; definiteness; specificity; discontinuous interrogatives; impersonal se*
-
----
-
-
-## CHAPTER 10: ACQUISITION OF THE SYNTAX–SEMANTICS INTERFACE 
-**Core Goal**: Understand how L2 learners map syntactic forms to semantic meanings—especially when L1 and L2 differ in form–meaning pairings, and when input is insufficient for learning. 
-
-
-### 10.1 Types of Meaning in Language 
-Meaning is not a single construct—it arises from five interacting layers, all shaped by syntax: 
-
-| Type of Meaning | Definition | Example |
-|------------------|------------|---------|
-| **Lexical** | Literal, idiosyncratic meaning of words (stored in the mental lexicon) | English *cat* = "small furry animal"; Italian *gatto* = same denotation . |
-| **Phrasal (Sentential) Semantic** | Compositional meaning (combines word meanings + syntax/word order) | English *Cats were exterminated* = 2 meanings ("some cats" or "all cats"); Italian *Gatti sono stati sterminati* = only "some cats" . |
-| **Grammatical** | Meaning encoded in inflectional morphology (tense, aspect, agreement) | *eats* = present tense + habitual; *ate* = past tense (completed/habitual) . |
-| **Discourse-Related** | Meaning dependent on prior context (e.g., topic/focus) | English topicalization: *Sushi, she eats* = "we’re talking about sushi" . |
-| **Pragmatic** | Implied meaning (not overtly encoded) | *Bonnie ate some strawberries* = implicates "not all strawberries" (Scalar Implicature) . |
-
-- **Key Principle**: Semantics is computed first (context-free), then pragmatics adjusts meaning (context-dependent)—"semantics proposes, pragmatics disposes" . 
-
-
-### 10.2 Syntax–Semantics Mismatches 
-All languages convey the same universal meanings, but they use different forms to encode them. These mismatches are L2 acquisition hotspots: 
-
-#### 1. Example 1: Aspectual Tenses (English vs. Spanish) 
-- **English**: 
- - Past progressive (*was robbing*) = only ongoing events . 
- - Simple past (*robbed*) = completed OR habitual events . 
-- **Spanish**: 
- - Imperfect (*robaba*) = ongoing OR habitual events . 
- - Preterit (*robó*) = only completed events . 
-- **Mismatch**: The same "habitual" meaning is encoded by simple past (English) vs. Imperfect (Spanish); "ongoing" = past progressive (English) vs. Imperfect (Spanish) . 
-
-#### 2. Example 2: Generic NPs (English vs. Spanish) 
-- **English**: Bare plurals (*Tigers eat meat*) = generic; definite plurals (*The tigers eat meat*) = specific . 
-- **Spanish**: Definite plurals (*Los tigres comen carne*) = generic OR specific; bare plurals (*Tigres comen carne*) = ungrammatical . 
-- **Mismatch**: Generic meaning uses bare plurals (English) vs. definite plurals (Spanish) . 
-
-#### 3. Acquisition Pattern 
-- Learners initially transfer L1 form–meaning mappings (e.g., Spanish learners of English overuse simple past for habitual events) . 
-- Advanced learners restructure to L2 mappings (e.g., Bulgarian learners of English master that bare verbs = completed events: *I saw Mary cross* ≠ *I saw Mary crossing* ) . 
-
-
-### 10.3 Poverty of the Stimulus (POS) in Semantics 
-POS occurs when learners acquire knowledge not present in input (no negative evidence for missing meanings). UG constrains hypotheses to solve this: 
-
-#### 1. Example 1: Spanish Impersonal *se* 
-- **Spanish Imperfect (*se comía*)**: *se* = generic ("one eats") OR specific ("we ate") . 
-- **Spanish Preterit (*se comió*)**: *se* = only specific ("we ate") (no generic reading) . 
-- **POS Challenge**: Learners never hear *se comió* used to mean "one ate"—they must infer this meaning is impossible . 
-- **Finding**: Advanced learners reject the generic reading of preterit *se* 85% accurately . 
-
-#### 2. Example 2: Japanese Quantifier Scope 
-- **Japanese SOV (*Dareka-ga dono hon-mo yonda*)**: Only 1 meaning ("someone read every book") . 
-- **Japanese OSV (scrambled: *Dono hon-mo dareka-ga yonda*)**: 2 meanings ("someone read every book" OR "for each book, someone read it") . 
-- **POS Challenge**: Learners never hear SOV sentences with the second meaning—they must infer it is missing . 
-- **Finding**: Half of advanced English learners of Japanese correctly reject the missing meaning, proving UG access . 
-
-
-### 10.4 Novel Constructions 
-When L2 has a syntactic construction absent in L1, learners acquire its syntax first—semantics follows automatically via universal computation: 
-
-#### Example: French Discontinuous Interrogatives 
-- **Continuous**: *Qui de célèbre fumait?* ("Which famous person smoked?") = 2 meanings (past OR present celebrity) . 
-- **Discontinuous**: *Qui fumait de célèbre?* ("Which famous person smoked?") = only 1 meaning (past celebrity) . 
-- **Acquisition**: 
- - Learners first master that French allows discontinuous *wh*-phrases (syntax) . 
- - Semantics follows: They automatically infer the missing present-celebrity meaning (no input needed) . 
-- **Finding**: Even intermediate learners (3 semesters of French) distinguish the two constructions’ meanings . 
-
-
-### 10.5 Acquiring Morphologically Unmarked Meanings: English Articles 
-Languages without articles (Russian, Korean) force learners to map abstract semantic features (definiteness/specificity) to new morphology: 
-
-#### The Article Choice Parameter (Ionin et al. 2004) 
-- **Parameter Settings**: 
- - **Definiteness (English)**: *the* = definite, *a* = indefinite . 
- - **Specificity (Samoan)**: Articles distinguish specific vs. nonspecific (regardless of definiteness) . 
-- **Learner Behavior**: 
- - Russian/Korean learners fluctuate between settings: Overuse *the* with indefinite specific NPs (e.g., "I want to sell the necklace") and *a* with definite nonspecific NPs . 
- - Advanced learners fix to the target (definiteness) with sufficient input . 
-
-#### Key Challenge 
-- Definiteness/specificity are universal concepts, but their morphological expression is new. Learners need input to "choose" which feature English articles encode . 
-
-
-### 10.6 Conclusions 
-1. **Meaning Layers Interact**: Syntax shapes all meaning types—mismatches between L1/L2 form–meaning pairs cause the most difficulty . 
-2. **UG Solves POS**: Semantic knowledge (e.g., missing interpretations) cannot come from input alone—UG constrains hypotheses . 
-3. **Syntax Precedes Semantics**: For novel constructions, acquiring syntax first triggers automatic semantic computation (no need to teach semantics) . 
-4. **Abstract Features Are Hard**: Morphologically unmarked meanings (e.g., articles) require mapping abstract features to form—take time but are learnable . 
-
-
-### Preview/Review Questions 
-#### Preview 
-1. What is the difference between "semantic" and "pragmatic" meaning? Use scalar implicatures to illustrate. 
-2. Why is Spanish *Los tigres comen carne* (definite plurals) a syntax–semantics mismatch for English learners? 
-
-#### Review 
-1. How do Bulgarian learners of English acquire that bare verbs (*I saw Mary cross*) = completed events—when Bulgarian has no equivalent form? 
-2. Why do Japanese learners of English struggle with the progressive (*The plane is arriving*) vs. perfective (*The plane arrived*) meanings? 
-3. How does the Article Choice Parameter explain Russian learners’ overuse of *the* with indefinite specific NPs?
---&gt;
-&lt;!--
-Deleted on 02/09/2025
-&gt; **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 10**.
-
-### ⭐ Overview (for preview)
-- How **syntactic structure** and **semantic composition** interact to yield meanings (event types, definiteness/specificity, scope).
-- Why L2 learners struggle with **telicity/aspect**, **article semantics**, and **quantifier scope**—and what this predicts for data patterns.
-- Minimal, testable designs for the interface: **truth-value judgment**, **acceptability** with controlled contexts, and **online** measures.
-
----
-
-### 🎯 Learning goals
-By the end of this week you should be able to:
-1. Explain how **event structure** (state, activity, accomplishment, achievement) and **object quantization** affect **telicity**.
-2. Distinguish **definiteness vs. specificity** and predict article-use challenges for learners from **article-less L1s**.
-3. Describe **scope ambiguities** and derive **L1-specific predictions** for inverse scope in L2.
-4. Propose a compact **experiment** (materials, context, DV) that targets a syntax–semantics interface contrast.
-
----
-
-### 📖 Reading (do before Session 1)
-- **Required**: Slabakova (2016), **Ch. 10** (focus on: compositionality; event semantics &amp; telicity; article semantics: definiteness/specificity/genericity; quantifiers &amp; scope).
-- **Optional**: Revisit Ch. 8 (syntax diagnostics) and Ch. 3 (processing) for links to structure and time-course.
-
-**Guiding questions:**
-- Why does *eat apples* pattern differently from *eat an apple* or *eat the apple* in aspectual interpretation?
-- How can the **same surface sentence** have **two truth conditions** (scope ambiguity), and how would you test which reading a learner has?
-
----
-
-### 🧠 Key terms
-*compositionality; event structure (state/activity/accomplishment/achievement); telicity; quantization vs. cumulativity; perfective vs. imperfective; article semantics; definiteness; specificity; genericity; quantifiers; scope; inverse scope; distributive vs. collective; truth-value judgment task (TVJT).*
-
----
-
-### 🔍 Core ideas
-- **Event composition &amp; telicity**: VP meaning arises from verb + object; **quantized** objects (e.g., *an apple*, *three apples*) tend to yield **telic** interpretations (bounded events), while **mass/plural bare** objects (*apples*, *rice*) favor **atelic** readings.
-- **Articles &amp; DP features**: Languages package **[±definite]**, **[±specific]**, and **generic** readings differently. Learners from **article-less L1s** must map new features to forms; expect **overuse/underuse** of *the/a* and confusion in **context-dependent** readings.
-- **Quantification &amp; scope**: Sentences with multiple quantifiers (e.g., *A student read every book*) can have **surface** (∃ &gt; ∀) and **inverse** (∀ &gt; ∃) readings. L1 grammar and processing preferences shape which readings L2 learners access.
-
----
-
-### 🗂️ Mini-lecture outline (Session 1, 45 min)
-
-#### 1) Event structure &amp; telicity
-- **Key notes**: 
- - **Accomplishments** (bounded events) vs. **activities** (unbounded) depend on the **internal argument**: *eat an apple* (telic) vs. *eat apples* (atelic). 
- - Adding **measure phrases** (*drink a glass of water*) or **resultative structure** increases boundedness. 
- - Predictions: Learners may misinterpret aspect when the **object’s quantization** or **measure** is the only cue.
-- **Class spark**: Label a set of VPs (provided) as telic/atelic and justify by object type/measure.
-
-#### 2) Article semantics: definiteness, specificity, generics
-- **Key notes**: 
- - **Definiteness** = unique, familiar referent (*the book*); **specificity** = speaker intends a particular but not necessarily familiar referent (*a certain book*). 
- - **Generics**: *The tiger/The tigers/Tigers are endangered*—form–meaning mapping varies. 
- - L2 predictions: **Article-less L1s** overuse *the* for specificity or familiarity, underuse *a* in novel but non-specific contexts; difficulty with **generic** readings.
-- **Micro-demo**: Two-sentence contexts that force **definite vs. indefinite** vs. **specific** readings; students pick the felicitous article.
-
-#### 3) Quantifier scope &amp; ambiguity resolution
-- **Key notes**: 
- - Scope options: *A student read every book* (∃ &gt; ∀ vs. ∀ &gt; ∃). 
- - Diagnostics: picture verification, **TVJT** with explicit contexts, or continuation tasks. 
- - L2 predictions: Preference for **surface scope** early; inverse scope access depends on L1, proficiency, and processing load.
-- **Think–pair–share**: Draft one **context sentence** that forces **inverse scope** for *A reviewer read every paper*, then test with a minimal prompt.
-
-&gt; **Pacing**: ~12 min per mini-topic + ~9 min discussion.
-
----
-
-### 🧪 Methods micro-lab (Session 2, 45 min)
-**Goal**: Build a minimal, diagnostic task for **one** interface domain.
-
-Choose **ONE** and complete the template:
-
-- **A. Telicity via object quantization** 
- - *Materials*: Triplets (telic vs. atelic), e.g., *eat an apple / eat apples / eat three apples*. 
- - *Task*: **TVJT** with animated clips (bounded/unbounded); or **acceptability** with aspectual adverbs (*in an hour* vs. *for an hour*). 
- - *Prediction*: Learners with article-less/mass-preference L1s will over-accept **atelic + *in an hour*** and under-accept **telic + *in an hour*** early on.
-
-- **B. Article semantics (definite/specific/generic)** 
- - *Materials*: Two-sentence contexts fixing discourse status (unique/familiar, novel-specific, generic). 
- - *Task*: **Contexted AJT** (choose *the/a/∅*), plus a short **explanation** prompt. 
- - *Prediction*: Overuse of *the* in **novel-specific** contexts; instability in **generic** mappings (*Tigers are…* vs. *The tiger is…*).
-
-- **C. Quantifier scope** 
- - *Materials*: Contexts that force **inverse scope**; test sentences with two quantifiers. 
- - *Task*: **TVJT** with pictures/scenarios; optional **SPR** for online costs at disambiguation. 
- - *Prediction*: Preference for surface scope; inverse scope improves with proficiency and supportive contexts.
-
-**Deliverable**: 3-line prereg—hypothesis, **primary DV** (accuracy/TVJ acceptances, RTs), and **falsifier**.
-
----
-
-### 🧩 In-class application (Session 3, 45 min)
-**Case vignette**
-- **Group A (Mandarin L1 → English)**: unstable **article** choices in novel-specific contexts; overuse of *the*. 
-- **Group B (Russian L1 → English)**: near-native **telicity** with measure phrases but difficulty with **generic** readings; surface-biased **scope** preferences.
-
-**Questions**:
-1) Which patterns suggest **feature-mapping** problems (DP) vs. **composition** problems (telicity) vs. **processing** preferences (scope)? 
-2) What **context manipulation** would make the target meaning **diagnostic** for each group? 
-3) Propose one **classroom intervention** (e.g., article choice with discourse cards; telicity training via *in/for an hour* diagnostics; scope paraphrase/verification drills).
-
----
-
-### ✅ Self-check (answers hidden)
-
-1) Why does *eat an apple* tend to be **telic** while *eat apples* is **atelic**? 
-&lt;!-- Because a quantized object provides a natural endpoint (bounded event), whereas bare plurals/mass terms are cumulative and do not bound the event. --&gt;
-&lt;!--
-2) Give a context where *a* is correct but *the* is infelicitous. 
-&lt;!-- First mention of a non-unique, non-familiar referent: “I went to the library. I borrowed **a** book on phonology.” --&gt;
-&lt;!--
-3) Provide a sentence with a **scope ambiguity** and name its two readings. 
-&lt;!-- “A student read every book”: surface (∃ &gt; ∀) ‘there exists a student who read all the books’ vs. inverse (∀ &gt; ∃) ‘for every book, possibly a different student read it’. --&gt;
-&lt;!--
-4) How can **aspectual adverbs** diagnose telicity? 
-&lt;!-- Telic VPs fit “in an hour”; atelic VPs fit “for an hour”. Acceptance patterns reveal whether the learner computed telicity compositionally. --&gt;
-&lt;!--
-5) What outcome suggests a **processing** (not representational) limitation for scope? 
-&lt;!-- Correct acceptance of inverse scope in supportive contexts/offline tasks but slower RTs or failures under time pressure. --&gt;
-&lt;!--
-
-### 📝 Weekly analytical note (due before Week 10)
-In ~300 words, choose **one** domain (telicity, articles, or scope). (a) State a claim, (b) derive a **prediction** keyed to a specific context manipulation, (c) select **one task + DV** (TVJT, AJT, SPR), and (d) specify a **falsifier** for your preferred account.
-
----
-
-### 🧭 Preview of Week 10
-We extend to **syntax–discourse &amp; semantics–pragmatics** interfaces (topic/focus, anaphora, implicatures): how discourse structure and pragmatic inferences interact with grammar in L2.
---&gt;</description></item><item><title>Ch.11: ACQUISITION OF THE SYNTAX–DISCOURSE &amp; SEMANTICS–PRAGMATICS INTERFACES</title><link>https://zjpsycholin.github.io/SLA4pg/chapter11/</link><pubDate>Sun, 11 May 2025 17:30:00 -0400</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/chapter11/</guid><description>&lt;h2 id="chapter-11--acquisition-of-the-syntaxdiscourse--semanticspragmatics-interfaces"&gt;
+&lt;p&gt;&lt;strong&gt;Anchor text&lt;/strong&gt;: Slabakova, R. (2016). &lt;em&gt;Second Language Acquisition&lt;/em&gt;. &lt;strong&gt;Chapter 10: Acquisition of the Syntax–Semantics Interface&lt;/strong&gt;. &lt;br&gt;
+&lt;a href="https://zjpsycholin.github.io/SLA4pg/pdfs/C10_syntaxsemantics.pdf"&gt;Link to Chapter 10&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="-overview"&gt;
+ ⭐ Overview
+ &lt;a class="anchor" href="#-overview"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The five key types of meaning in language: &lt;strong&gt;lexical&lt;/strong&gt;, &lt;strong&gt;phrasal (sentential) semantic&lt;/strong&gt;, &lt;strong&gt;grammatical&lt;/strong&gt;, &lt;strong&gt;discourse-related&lt;/strong&gt;, and &lt;strong&gt;pragmatic&lt;/strong&gt;—and how they interact with syntax .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Syntax–semantics mismatches&lt;/strong&gt;: When universal meanings (e.g., ongoing/habitual events) are encoded by different forms across languages (e.g., English past progressive vs. Spanish Imperfect) .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Poverty of the Stimulus (POS) in semantics&lt;/strong&gt;: How L2 learners acquire meanings not attested in input (e.g., missing interpretations of impersonal &lt;em&gt;se&lt;/em&gt; in Spanish preterit) .&lt;/li&gt;
+&lt;li&gt;Special learning challenges: &lt;strong&gt;novel constructions&lt;/strong&gt; (e.g., French discontinuous interrogatives) and &lt;strong&gt;morphologically unmarked meanings&lt;/strong&gt; (e.g., English articles for Russian/Korean learners) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-learning-goals"&gt;
+ 🎯 Learning goals
+ &lt;a class="anchor" href="#-learning-goals"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;By the end of Week 10 you should be able to:&lt;/p&gt;</description></item><item><title>Ch.11: ACQUISITION OF THE SYNTAX–DISCOURSE &amp; SEMANTICS–PRAGMATICS INTERFACES</title><link>https://zjpsycholin.github.io/SLA4pg/chapter11/</link><pubDate>Sun, 11 May 2025 17:30:00 -0400</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/chapter11/</guid><description>&lt;h2 id="chapter-11--acquisition-of-the-syntaxdiscourse--semanticspragmatics-interfaces"&gt;
  Chapter 11 — ACQUISITION OF THE SYNTAX–DISCOURSE &amp;amp; SEMANTICS–PRAGMATICS INTERFACES
  &lt;a class="anchor" href="#chapter-11--acquisition-of-the-syntaxdiscourse--semanticspragmatics-interfaces"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;To be published &amp;hellip;&lt;/p&gt;
-&lt;!--
-**Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 11: Acquisition of the Syntax–Discourse and Semantics–Pragmatics Interfaces**. 
- [Link to Chapter 11](/SLA4pg/pdfs/C11_syntax-disc_sem-prag.pdf)
-
-
-### ⭐ Overview
-- The two key external interfaces: 
- 1. **Syntax–Discourse Interface**: How syntax encodes discourse information (e.g., Topic/Focus via word order, clitics) . 
- 2. **Semantics–Pragmatics Interface**: How context and universal pragmatic principles (e.g., Gricean maxims) adjust literal meaning (e.g., scalar implicatures) . 
-- Why interface properties are often harder to acquire: They require integrating linguistic (syntax/semantics) and extralinguistic (context/culture) information—taxing working memory . 
-- Key phenomena: **Topic/Focus marking** (clitic doubling, word order), **pronoun reference** (null/overt pronoun division of labor), **intonation as discourse cue**, and **scalar implicatures** . 
-
-
-### 🎯 Learning goals
-By the end of Week 11 you should be able to:
-1. Distinguish the **syntax–discourse interface** (e.g., clitic doubling for Topic) from the **semantics–pragmatics interface** (e.g., scalar implicatures) and explain why both rely on context . 
-2. Describe how languages mark Topic/Focus (e.g., English topicalization vs. Spanish clitic left dislocation) and predict L2 acquisition challenges . 
-3. Apply the **Interface Hypothesis** to explain why near-native learners struggle with pronoun reference (e.g., Italian overt pronouns for Topic shift) . 
-4. Explain why scalar implicatures (e.g., *some* = "not all") are universal but may still be processed differently in L2—especially under cognitive load . 
-
----
-
-### 📖 Reading (do before class)
-- **Required**: Slabakova (2016), **Chapter 11** (focus on Sections 11.1–11.6; prioritize interface definitions and key phenomena over technical exercises). 
-- As you read, note: 
- - How L1 transfer affects interface acquisition (e.g., Turkish learners of Dutch transferring null pronoun reference rules) . 
- - Why frequency of interface constructions (e.g., English topicalization is rare) impacts learning success . 
-
-**Guiding questions while you read**
-1. Why do Spanish learners of English struggle with topicalization (*The wine she didn’t drink* vs. *The wine she didn’t drink it*)? 
-2. How do Italian native speakers use null vs. overt pronouns to signal Topic maintenance vs. Topic shift? 
-3. Why do adult L2 learners compute scalar implicatures more accurately than L1 children but less consistently than L1 adults? 
-
----
-
-### 🧠 Key terms
-*syntax–discourse interface; semantics–pragmatics interface; Topic; Focus (presentational/contrastive); clitic doubling; topicalization; Interface Hypothesis; pronoun reference (division of labor); intonation (nuclear stress); scalar implicatures; Gricean maxims (Quantity Maxim); deaccenting*
-
----
-
-
-## CHAPTER 11: ACQUISITION OF THE SYNTAX–DISCOURSE &amp; SEMANTICS–PRAGMATICS INTERFACES 
-**Core Goal**: Understand how L2 learners integrate syntax/semantics with discourse context and pragmatic principles—and why these interfaces are uniquely challenging. 
-
-
-### 11.1 Defining the Interfaces 
-External interfaces connect core grammar to context—unlike internal interfaces (e.g., syntax–semantics) which are language-internal: 
-
-| Interface | Core Function | Key Phenomena |
-|-----------|---------------|---------------|
-| **Syntax–Discourse** | Encodes discourse status (Topic = old info; Focus = new info) via syntax | Clitic doubling, topicalization, VS word order, pronoun reference |
-| **Semantics–Pragmatics** | Adjusts literal (semantic) meaning via context/world knowledge | Scalar implicatures, deixis (*this/that*), anaphoric deaccenting |
-
-- **Key Distinction**: Syntax–discourse relies on *prior discourse* (e.g., "The wine" = Topic because it was mentioned earlier); semantics–pragmatics relies on *universal principles* (e.g., Grice’s Quantity Maxim) . 
-
-
-### 11.2 Marking Topic &amp; Focus Across Languages 
-Languages use different syntactic strategies to signal Topic (old info) and Focus (new info)—mismatches between L1 and L2 create acquisition challenges: 
-
-#### 1. Clitic Doubling for Topic 
-- **Spanish/Bulgarian**: Topicalized objects require a clitic pronoun (doubling) to signal old info. Example: 
- - Spanish: *A Pedro, no lo saludó* ("Pedro, I didn’t greet him") → *lo* = clitic doubling Topic *Pedro* . 
- - Bulgarian: *Vinoto tja ne *(go) pi* ("The wine she didn’t drink it") → *go* = mandatory clitic for Topic *vinoto* . 
-- **English**: Topicalized objects *forbid* resumptive pronouns: *The wine she didn’t drink (*it)* . 
-- **Acquisition Findings**: 
- - Advanced English learners of Bulgarian master clitic doubling for Topic (Ivanov 2009) . 
- - Spanish learners of English struggle to omit resumptive pronouns in topicalization (Slabakova &amp; García Mayo 2015)—due to English topicalization’s rarity in input . 
-
-#### 2. Word Order for Focus 
-- **Spanish (null-subject language)**: VS word order signals presentational Focus (new info): 
- - Q: *¿Quién gritó?* ("Who shouted?") → A: *Gritó una mujer* ("Shouted a woman") . 
- - Neutral context (out of blue): VS preferred for unaccusative verbs (*Vino la policía* = "Arrived the police") but not unergative verbs (*Una mujer gritó* = "A woman shouted") . 
-- **English**: Fixed SV order; Focus marked via intonation (e.g., *A WOMAN shouted*) . 
-- **Acquisition Findings**: 
- - English learners of Spanish master SV/VS distinction for unaccusative/unergative verbs but fail to link VS to Focus (Lozano 2006)—supports the **Interface Hypothesis** (discourse integration is taxing) . 
-
-
-### 11.3 Pronoun Reference at the Syntax–Discourse Interface 
-Null and overt pronouns have a "division of labor" in discourse—this is a classic interface property: 
-
-#### 1. Romance Languages (Spanish/Italian) 
-- **Null Pronouns**: Signal **Topic maintenance** (embedded subject = main clause subject). Example: 
- - Italian: *La vecchietta saluta la ragazza quando attraversa la strada* ("The old lady greets the girl when [she] crosses the street") → *attraversa* = null pronoun = old Topic (la vecchietta) . 
-- **Overt Pronouns**: Signal **Topic shift** (embedded subject = new referent). Example: 
- - Italian: *La vecchietta saluta la ragazza quando lei attraversa la strada* ("The old lady greets the girl when she crosses the street") → *lei* = overt pronoun = new referent (la ragazza) . 
-
-#### 2. L2 Acquisition Challenges 
-- **Near-Native Learners**: Less sensitive to Topic shift—30% of Italian near-natives interpret overt pronouns as Topic maintenance (vs. 5% of natives) (Belletti et al. 2007) . 
-- **Heritage Speakers**: May never acquire the division of labor (Shin &amp; Cairns 2009)—exposed to English before age 7 (when Topic shift sensitivity emerges in L1) . 
-- **Chinese Learners of English**: Master null object reference (e.g., *Xiao Zhang says Lao Wang likes ø*) by advanced proficiency—showing interface success is possible with clear input . 
-
-
-### 11.4 Intonation as a Discourse Cue 
-Intonation (nuclear stress, deaccenting) signals Focus/Topic—but L1 prosodic rules transfer and complicate L2 learning: 
-
-#### 1. English vs. Spanish Prosody 
-- **English**: Nuclear Stress (NS) is flexible—marks Focus on any constituent. Example: 
- - Q: *Who broke his leg?* → A: *A BOY broke his leg* (NS on Focus *boy*) . 
- - **Anaphoric Deaccenting**: Old info loses stress (e.g., Q: *Why buy that stamp?* → A: *Because I COLLECT stamps*—NS shifts to *collect* because *stamps* is old info) . 
-- **Spanish**: NS is fixed (last constituent) — Focus marked via word order (not intonation) . 
-
-#### 2. Acquisition Findings 
-- Spanish learners of English acquire **deaccenting** (new rule) before restructuring **NS** (L1 transfer) (Nava &amp; Zubizarreta 2009) . 
-- Advanced learners still struggle with NS flexibility—prefer L1-like fixed stress (Zubizarreta &amp; Nava 2011) . 
-
-
-### 11.5 Scalar Implicatures at the Semantics–Pragmatics Interface 
-Scalar implicatures (e.g., *some* = "not all") are universal but require cognitive effort—explaining L2 processing differences: 
-
-#### 1. How Implicatures Work 
-- **Logical Meaning**: *Some professors are smart* = "some and possibly all" . 
-- **Pragmatic Meaning**: *Some professors are smart* = "not all professors are smart" (via Grice’s Quantity Maxim: "Be as informative as required") . 
-
-#### 2. L2 Acquisition Findings 
-- **Universal Mechanisms**: Korean learners of English compute implicatures at 60% (vs. natives’ 40%) in L2—better than L1 children (Slabakova 2010) . 
-- **Processing Load**: Learners struggle with *indirect implicatures* (e.g., *Max didn’t read all the books* = "Max read some")—more cognitively demanding than direct implicatures (Lieberman 2009) . 
-- **Bilingual Advantage**: Bilingual children outperform monolinguals on Gricean maxims (relevance, politeness) but not on scalar implicatures—suggests different processing demands (Siegal et al. 2009) . 
-
-
-### 11.6 The Interface Hypothesis &amp; Key Conclusions 
-- **Interface Hypothesis (Sorace 2011)**: External interfaces (syntax–discourse, semantics–pragmatics) are more vulnerable than internal interfaces—due to working memory strain from integrating linguistic/contextual info . 
-- **Nuance**: Interface difficulty is not universal—frequency of constructions matters: 
- - Spanish clitic left dislocation (common) is acquired easily; English topicalization (rare) is not (Slabakova 2015) . 
-- **Final Takeaways**: 
- 1. Syntax–discourse properties require matching L2 syntax to discourse context—challenged by L1 transfer and input rarity . 
- 2. Semantics–pragmatics properties (implicatures) are universal but taxed by L2 processing load . 
- 3. Near-native learners may show residual optionality at interfaces—but success is possible with sufficient input . 
-
-
-### Preview/Review Questions 
-#### Preview 
-1. What is the difference between "Topic maintenance" and "Topic shift"? How do pronouns signal this? 
-2. Why is anaphoric deaccenting (English) harder for Spanish learners than deaccenting (Spanish)? 
-
-#### Review 
-1. How does the Interface Hypothesis explain why near-native Italian learners misinterpret overt pronouns? 
-2. Why do English learners of Spanish master VS word order for unaccusative verbs but not for Focus? 
-3. What evidence shows scalar implicatures are universal but cognitively demanding in L2?
-
---&gt;
-&lt;!--
-Deleted on 02/09/2025
-&gt; **Anchor text**: Slabakova (2016), *Second Language Acquisition*, **Chapter 11**.
-
-### ⭐ Overview (for preview)
-- How **information structure** (topic/focus) and **prosody/word order** interact, and why mappings differ across languages.
-- Why **pronoun interpretation** (null vs. overt, topic continuity/shift) and **anaphora resolution** are challenging external-interface phenomena.
-- How **pragmatic inferences** (e.g., **scalar implicatures**) arise and why they can be delayed or optional in L2 processing.
-
----
-
-### 🎯 Learning goals
-By the end of this week you should be able to:
-1. Define **topic**, **focus**, and **givenness**, and explain how languages encode them (prosody, particles, word order, clefts).
-2. Describe how **subject expression** and **pronoun resolution** depend on **syntactic** and **discourse** cues, and derive L1-specific predictions.
-3. Explain **scalar implicature** computation (e.g., *some* → *not all*) and state conditions that favor or suppress it.
-4. Design a compact **contexted task** that elicits interface-sensitive judgments or online processing signatures.
-
----
-
-### 📖 Reading (do before Session 1)
-- **Required**: Slabakova (2016), **Ch. 11** (focus: topic/focus &amp; prosody/word order; overt vs. null pronouns and discourse; scalar implicatures and other pragmatic inferences).
-- **Optional**: Review Ch. 3 (processing) for methods used in online pragmatics, and Ch. 8–10 for connections to syntax and semantics.
-
-**Guiding questions:**
-- When does a language mark **focus** with prosody alone vs. with **syntax** (word order/clefts) or **particles** (e.g., *only/even*)?
-- In null-subject languages, when is an **overt** pronoun preferred, and what does that mean for L2 learners’ choices?
-- What contexts trigger a **scalar implicature**, and how can we encourage/expose it experimentally?
-
----
-
-### 🧠 Key terms
-*information structure; topic; focus; givenness; contrastive focus; clefting; focus particles; prosody/intonation; subject expression; null vs. overt pronoun; anaphora resolution; discourse prominence; scalar implicature; implicature cancellation; contexted acceptability; discourse completion; TVJT; visual-world eye-tracking.*
-
----
-
-### 🔍 Core ideas
-- **External interfaces are fragile**: Mappings between grammar and discourse/pragmatics (topic continuity, focus interpretation, implicatures) show **optional** or **delayed** behavior in L2, even when core syntax/semantics are in place.
-- **Encoding focus/topic varies by language**: English often relies on **prosody** and **clefts**; many languages also use **word order** or **particles**. L2 learners must learn **which cue** does the heavy lifting.
-- **Subject expression &amp; pronouns**: In null-subject languages, **null** often signals **topic continuity**; **overt** can mark **topic shift/emphasis**. L2 learners may overuse overt pronouns or omit required overt subjects depending on L1.
-- **Scalar implicatures (SIs)**: Inferences like *some* → *not all* are **context-sensitive** and can be **resource-demanding**; L2ers often compute SIs **less** or **later** unless context licenses them strongly.
-
----
-
-### 🗂️ Mini-lecture outline (Session 1, 45 min)
-
-#### 1) Information structure: topic, focus, and encoding strategies
-- **Key notes**: 
- - **Topic** = what the sentence is about; **focus** = new/contrastive information. 
- - Languages differ: **prosodic focus** (pitch accent) vs. **syntactic** (clefts, fronting) vs. **particles** (*only/even*). 
- - Prediction: L2ers transfer L1-preferred cue (prosody/syntax/particle) → early mis-matches in L2.
-- **Class spark**: Provide 4 short contexts; students pick among plain SVO, cleft (*It is X that…*), or focus particle (*only X*) for best fit.
-
-#### 2) Pronoun interpretation &amp; subject expression at the discourse interface
-- **Key notes**: 
- - **Null vs. overt** subject pronoun choice tracks **topic continuity vs. shift** in many pro-drop languages. 
- - L2 predictions: From a pro-drop L1 → English: **omission** errors; From a non-pro-drop L1 → Spanish/Italian: **overuse of overt** pronouns in topic-continuity contexts.
-- **Micro-demo**: Two-sentence mini-discourses that force **continuity** vs. **shift**; learners choose null/overt (or pronoun vs. name) and justify.
-
-#### 3) Scalar implicatures and pragmatic computation
-- **Key notes**: 
- - SIs arise when a **stronger alternative** exists (*all* &gt; *some*); speakers choose the weaker term to implicate the stronger is false. 
- - Triggered by **context** and **task**; can be cancelled (*Some, maybe all*). 
- - Prediction: L2ers accept **literal** readings more; SI rates go up with supportive contexts and time.
-- **Think–pair–share**: Craft a one-line context that **forces** an SI for *some*; then write an explicit **cancellation** continuation.
-
-&gt; **Pacing**: ~12 minutes per subtopic + ~9 minutes guided discussion.
-
----
-
-### 🧪 Methods micro-lab (Session 2, 45 min)
-**Goal**: Build a **contexted** test for one interface phenomenon.
-
-Choose **ONE** and complete the template.
-
-- **A. Topic/focus mapping** 
- - *Materials*: Contexts that require **contrastive focus** vs. **broad focus**. 
- - *Task*: **Contexted acceptability** comparing plain SVO vs. **cleft** vs. **focus particle**; optional **prosody track** (audio with/without focal accent). 
- - *Prediction*: L2ers overuse the L1-preferred device and show lower acceptability when the L2-preferred cue is missing.
-
-- **B. Pronoun resolution / subject expression** 
- - *Materials*: Two-sentence discourses manipulating **topic continuity** vs. **shift**. 
- - *Task*: **Discourse completion** (choose form: null/overt/name) + **visual-world eye-tracking** (pronoun resolution to antecedent). 
- - *Prediction*: From non-pro-drop L1 → pro-drop L2: overuse **overt** subjects in continuity; eye-tracking shows delayed fixation to discourse-topical referent for null pronouns.
-
-- **C. Scalar implicature** 
- - *Materials*: Contexts biasing **not-all** vs. allowing literal truth. 
- - *Task*: **TVJT** (true/false/“infelicitous”) + optional **self-paced reading** at the implicature trigger and continuation. 
- - *Prediction*: Lower SI endorsement overall; increased SI with supportive contexts or slower tasks.
-
-**Deliverable**: 3-line prereg—hypothesis, **primary DV** (acceptability, choice, RTs/fixations), and **falsifier**.
-
----
-
-### 🧩 In-class application (Session 3, 45 min)
-**Case vignette**
-- **Group A (English L1 → Spanish L2)**: frequent **overt** subjects in topic-continuity contexts; near-native case marking elsewhere. 
-- **Group B (Mandarin L1 → English L2)**: prefers **clefts** or **focus particles** over prosodic focus; literal bias on *some*. 
-
-**Questions**:
-1) Which patterns indicate **interface mapping** issues vs. **processing** preferences? 
-2) What **context manipulation** would make the target interpretation **diagnostic** (e.g., add explicit contrast/topic tracking)? 
-3) Propose one **instructional task** per group (e.g., discourse cards guiding pronoun choice; prosody training with minimal pairs; SI drills using alternatives lists).
-
----
-
-### ✅ Self-check (answers hidden)
-
-1) Define **topic** vs. **focus** and give one encoding strategy for each. 
-&lt;!-- Topic: what the sentence is about; can be marked by word order or prosodic deaccenting. Focus: new/contrastive info; marked by prosodic accent, clefting, or focus particles. --&gt;
-&lt;!--
-2) In a pro-drop language, when is an **overt** subject pronoun preferred? 
-&lt;!-- Often with topic shift, emphasis/contrast, or when the antecedent is not the most prominent discourse topic. --&gt;
-&lt;!--
-3) What is a **scalar implicature** for *some* and how can it be cancelled? 
-&lt;!-- Inference 'not all'; cancelled by explicit continuation (e.g., “Some — in fact, all — passed”). --&gt;
-&lt;!--
-4) Give one **L1-transfer** prediction for topic/focus realization. 
-&lt;!-- L1s that rely on syntax (clefts/fronting) may underuse prosodic focus in English and judge clefts as more acceptable than natives do in neutral contexts. --&gt;
-&lt;!--
-5) Name one **online** method for **pronoun resolution** and its diagnostic measure. 
-&lt;!-- Visual-world eye-tracking; measure time to fixate the intended antecedent after pronoun onset. --&gt;
-&lt;hr&gt;
-&lt;!--
-### 📝 Weekly analytical note (due before Week 11)
-In ~300 words, pick **one** domain (topic/focus, pronoun interpretation, or scalar implicature). (a) State a claim with an L1-based prediction, (b) design **one contexted task** with a clear **DV**, and (c) specify a **result** that would falsify your preferred account (e.g., native-like choices offline but delayed online).
-
----
-
-### 🧭 Preview of Week 11
-Next: **L2 processing &amp; methods** — a toolkit for grammaticality judgments, self-paced reading, eye-tracking, and ERP, with design pitfalls and effect-size/power considerations.
---&gt;</description></item><item><title>Reivew</title><link>https://zjpsycholin.github.io/SLA4pg/chapter12/</link><pubDate>Sun, 11 May 2025 17:30:00 -0400</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/chapter12/</guid><description>&lt;h2 id="review"&gt;
+&lt;p&gt;&lt;strong&gt;Anchor text&lt;/strong&gt;: Slabakova, R. (2016). &lt;em&gt;Second Language Acquisition&lt;/em&gt;. &lt;strong&gt;Chapter 11: Acquisition of the Syntax–Discourse and Semantics–Pragmatics Interfaces&lt;/strong&gt;. &lt;br&gt;
+&lt;a href="https://zjpsycholin.github.io/SLA4pg/pdfs/C11_syntax-disc_sem-prag.pdf"&gt;Link to Chapter 11&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id="-overview"&gt;
+ ⭐ Overview
+ &lt;a class="anchor" href="#-overview"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The two key external interfaces:
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Syntax–Discourse Interface&lt;/strong&gt;: How syntax encodes discourse information (e.g., Topic/Focus via word order, clitics) .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Semantics–Pragmatics Interface&lt;/strong&gt;: How context and universal pragmatic principles (e.g., Gricean maxims) adjust literal meaning (e.g., scalar implicatures) .&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Why interface properties are often harder to acquire: They require integrating linguistic (syntax/semantics) and extralinguistic (context/culture) information—taxing working memory .&lt;/li&gt;
+&lt;li&gt;Key phenomena: &lt;strong&gt;Topic/Focus marking&lt;/strong&gt; (clitic doubling, word order), &lt;strong&gt;pronoun reference&lt;/strong&gt; (null/overt pronoun division of labor), &lt;strong&gt;intonation as discourse cue&lt;/strong&gt;, and &lt;strong&gt;scalar implicatures&lt;/strong&gt; .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="-learning-goals"&gt;
+ 🎯 Learning goals
+ &lt;a class="anchor" href="#-learning-goals"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;By the end of Week 11 you should be able to:&lt;/p&gt;</description></item><item><title>Reivew</title><link>https://zjpsycholin.github.io/SLA4pg/chapter12/</link><pubDate>Sun, 11 May 2025 17:30:00 -0400</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/chapter12/</guid><description>&lt;h2 id="review"&gt;
  Review
  &lt;a class="anchor" href="#review"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
@@ -984,5 +477,147 @@ Draft the **Methods &amp; Analysis** section for your final proposal (≈300–4
 
 ### 🧭 Preview of Week 12
 We close with **teaching implications** and the **Bottleneck Hypothesis**—how theory-driven evidence about morphology, syntax, and processing informs **focus on form** in the classroom.
+
+--&gt;</description></item><item><title>Term Research Proposal Guidelines: Generative Second Language Acquisition (SLA)</title><link>https://zjpsycholin.github.io/SLA4pg/termproposal/</link><pubDate>Sat, 20 Sep 2025 15:00:00 +0800</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/termproposal/</guid><description>&lt;!--
+# Term Research Proposal Guidelines: Generative Second Language Acquisition (SLA)
+## Overview
+This assignment requires postgraduate students to design a small-scale original research study grounded in **generative linguistic perspectives on SLA**. Your proposal must address a specific research gap in generative SLA, pose clear research questions tied to course themes, and outline a methodologically rigorous design justified by scholarly literature. The goal is to demonstrate your mastery of generative SLA theory, critical engagement with existing research, and ability to translate theoretical questions into empirical inquiry.
+
+## Core Principles for Generative SLA Research
+Your proposal must align with the core tenets of generative SLA, which focuses on:
+- Accessibility of Universal Grammar (UG) in adult L2 learning
+- Acquisition of syntactic/semantic features, parameters, and functional categories
+- Form-meaning mappings and feature reassembly (not just surface-level performance)
+- Representational vs. processing accounts of L2 development
+- Cross-linguistic influence (CLI) in the context of UG constraints
+
+## Mandatory Structure &amp; Detailed Guidelines
+Follow the structure below, with each section addressing the specific requirements outlined. All content must reflect a generative linguistic framework—avoid sociocultural, behavioral, or purely pedagogical approaches unless they explicitly interface with generative theory.
+
+### 1. Topic of Your Term Paper
+- **Concise Statement**: Provide a 1–2 sentence overview of your research topic, clearly identifying the generative construct(s) and L2 phenomenon under investigation.
+- **Generative Focus**: Explicitly name the core generative concept(s) your study addresses (e.g., UG accessibility, parameter setting, feature reassembly, NPI licensing, agreement morphology, relative clause acquisition, scalar implicatures).
+- **Example**: "An investigation of Universal Grammar access in L2 acquisition of English relative clause parameters by Korean L1 learners, focusing on feature reassembly of [+wh-movement]."
+- **Do Not**: Present a topic without clear generative anchors (e.g., avoid "Improving L2 English writing accuracy"—this lacks generative theoretical focus).
+
+### 2. Introduction
+#### 2.1 General Problem (Generative Context)
+- Define the **theoretical problem** in generative SLA that your study addresses. This should not be a practical pedagogical problem but a question about L2 linguistic representation/development.
+- Ground the problem in core generative debates (e.g., UG accessibility vs. representational deficits; parameter resetting vs. L1 transfer; feature reassembly vs. feature learning).
+- Explain why this problem matters for generative SLA theory (e.g., "The debate over whether adult L2 learners can reset UG parameters to L2-specific values remains unresolved, with conflicting evidence from feature-based vs. processing-based studies").
+- **Example**: "Within generative SLA, the acquisition of functional categories (e.g., Tense, Agreement) by L1s lacking overt morphological realization (e.g., Mandarin) raises critical questions about UG accessibility. If UG is accessible, learners should represent these categories despite L1 absence; if not, they will show permanent representational deficits (Hawkins &amp; Chan, 1997). This debate has implications for theories of L2 syntactic development and the nature of UG in adulthood."
+
+#### 2.2 Study Purpose
+- Explain how your research will address the theoretical problem identified above.
+- Specify the **generative construct(s)** you will investigate (e.g., "This study aims to test the Feature Reassembly Hypothesis (Slabakova, 2009) by examining how Mandarin L1 learners map universal [tense] features to English overt morphological markers (-ed, will)").
+- Clarify the **cross-linguistic context** (e.g., L1-L2 pair) and why it is relevant for testing your generative question (e.g., "Mandarin L1 lacks overt tense morphology, making it an ideal test case for distinguishing between representational deficits (RDH) and feature reassembly (FRH)").
+- **Do Not**: Frame the purpose as "improving L2 teaching"—focus on theoretical advancement, with practical implications (if any) reserved for later sections.
+
+### 3. Literature Review
+#### 3.1 Previous Scholarly Literature on the Problem
+- **Theoretical Frameworks**: Review key generative theories relevant to your topic (e.g., Minimalist Program, Principles and Parameters, Feature Reassembly Hypothesis, Failed Functional Features Hypothesis, Missing Surface Inflection Hypothesis).
+ - Explain how each framework conceptualizes your target phenomenon (e.g., "Slabakova’s (2009) FRH posits that L2 learners do not acquire new features but reassemble universal features into L2-specific bundles, while Hawkins &amp; Chan’s (1997) RDH argues that uninterpretable features are unacquirable if L1 lacks overt realization").
+- **Empirical Findings**: Summarize key generative SLA studies that have investigated your topic or related constructs.
+ - Focus on studies with similar L1-L2 pairs, target features, or methodologies (e.g., "Ionin et al.’s (2004) study of English article acquisition by Russian/Korean L1 learners found evidence of parameter fluctuation, supporting UG accessibility; however, Liu’s (2016) study of Mandarin L1 learners reported persistent errors, aligning with RDH").
+ - Highlight consistent and conflicting findings (e.g., "While some studies (Slabakova, 2003) report nativelike feature reassembly in advanced learners, others (Hawkins, 2001) find permanent deficits—this discrepancy underscores the need for further research").
+- **Methodological Approaches**: Review the methods used in previous generative studies (e.g., grammaticality judgment tasks, self-paced reading, eye-tracking, elicited production) and their strengths/limitations for testing your target construct.
+
+#### 3.2 Theoretical or Methodological Gaps
+- **Theoretical Gaps**: Identify unresolved questions in generative SLA theory that your study addresses (e.g., "No study has tested FRH for [+aspect] features in L2 Spanish acquisition by Mandarin L1 learners, leaving unclear whether universal aspectual features can be reassembled to Spanish’s Imperfect/Preterit contrast").
+- **Methodological Gaps**: Highlight limitations in previous empirical work (e.g., "Prior studies rely solely on offline tasks (GJTs) that cannot distinguish between representational knowledge and processing constraints; online measures (e.g., self-paced reading) are needed to triangulate results").
+- **Cross-Linguistic Gaps**: Note understudied L1-L2 pairs or typological contexts (e.g., "Most research on parameter setting focuses on Indo-European L1s; little is known about how learners from isolating languages (e.g., Vietnamese) acquire head-initial vs. head-final parameters in L2 English").
+- **Justify the Gap**: Explain why these gaps matter for generative SLA theory (e.g., "Resolving this gap will clarify whether UG-driven feature reassembly is possible for aspectual features, informing debates about the scope of UG in adult L2 learning").
+
+#### 3.3 How Your Study Differs
+- Explicitly connect your study to the identified gaps (e.g., "Unlike previous offline-only studies, this research uses a mixed-methods design (GJT + self-paced reading) to distinguish between representational and processing accounts of L2 [+aspect] acquisition").
+- Explain how your study advances generative SLA theory (e.g., "By testing FRH in a new L1-L2 pair (Mandarin → Spanish), this study provides novel evidence for the universality of feature reassembly, addressing the cross-linguistic gap in existing research").
+- Clarify how your research question(s) directly target the gap (e.g., "This study’s research question—‘Do Mandarin L1 learners of Spanish reassemble universal [+perfective] features to Spanish Preterit morphology?’—directly addresses the theoretical gap in FRH research on aspectual acquisition").
+
+### 4. Research Question
+- **Primary Research Question**: Pose 1 specific, answerable research question that tests a generative hypothesis (e.g., "Do advanced Mandarin L1 learners of Spanish show evidence of successful feature reassembly of [+perfective] and [-perfective] features to Spanish Preterit and Imperfect morphology, as measured by grammaticality judgments and online processing?").
+- **Generative Alignment**: Ensure the question focuses on linguistic representation (features, parameters, UG principles) rather than surface-level performance (e.g., avoid "How often do learners use Preterit vs. Imperfect?"—instead ask "Do learners map [+perfective] meaning to Preterit morphology, consistent with UG-driven feature reassembly?").
+- **Secondary Questions (Optional)**: Add 1–2 sub-questions to explore related generative constructs (e.g., "Do intermediate learners show evidence of partial feature reassembly, and does proficiency correlate with successful reassembly?").
+- **Gap Connection**: Explicitly state how the research question(s) fill the gaps identified in Section 3.2 (e.g., "This research question fills the theoretical gap in FRH research on aspectual acquisition by testing feature reassembly in a previously unstudied L1-L2 pair").
+
+### 5. Methodology
+Your methodology must be **generatively informed**—each choice (participants, tasks, analysis) should be justified by how it tests your generative research question (e.g., GJTs to measure representational knowledge; self-paced reading to measure online processing of syntactic/semantic features).
+
+#### 5.1 Research Method
+- **Methodological Foundation**: Specify your overall approach (e.g., quantitative, qualitative, mixed-methods) and its grounding in generative SLA methodology.
+ - Cite previous generative studies that use this method (e.g., "This study adopts a mixed-methods cross-sectional design, following Slabakova’s (2016) protocol for testing feature reassembly, which combines offline grammaticality judgments (to measure representation) and online self-paced reading (to measure processing)").
+- **Key Constructs &amp; Operationalized Definitions**:
+ - Define all core generative constructs precisely (e.g., "[+perfective] feature: A universal aspectual feature encoding event completion, operationalized as sensitivity to the contrast between Spanish Preterit (encoded [+perfective]) and Imperfect (encoded [-perfective])").
+ - Operationalize how you will measure these constructs (e.g., "Successful feature reassembly is operationalized as (1) ≥80% accuracy on GJTs distinguishing Preterit (completion) from Imperfect (non-completion) contexts; (2) significantly longer reading times for ungrammatical aspectual mismatches (e.g., Preterit + ongoing context) in self-paced reading").
+ - Avoid vague definitions (e.g., "‘Nativelike performance’ is not acceptable—instead define as ‘performance not significantly different from native controls on target feature measures’").
+
+#### 5.2 Data Collection
+- **Participants**:
+ - Specify the L1-L2 pair (e.g., "Mandarin L1 learners of L2 Spanish") and justify why this pair is relevant for your generative question (e.g., "Mandarin lacks overt aspectual morphology, so L2 Spanish aspectual acquisition requires feature reassembly rather than L1 transfer").
+ - Define proficiency criteria using a generatively relevant measure (e.g., CEFR levels, standardized tests, or a custom grammar test targeting related functional categories) and justify the choice (e.g., "Intermediate (B1) and advanced (C1) learners are included to track feature reassembly across development, as FRH predicts gradual improvement with proficiency").
+ - Sample size: Justify the number of participants (e.g., "30 learners (15 intermediate, 15 advanced) + 10 native controls—sufficient for statistical power in mixed-effects models, following Ionin et al.’s (2004) sample size for generative SLA studies").
+ - Inclusion/exclusion criteria: Specify (e.g., "No prior exposure to Indo-European languages; no residence in Spanish-speaking countries &gt;3 months; no formal instruction on Spanish aspectual rules").
+- **Data Type**:
+ - Specify the data you will collect (e.g., GJT responses, self-paced reading reaction times, elicited production transcripts) and explain how each data type tests your generative construct (e.g., "GJT data will measure explicit representational knowledge of aspectual feature-morphology mappings; self-paced reading data will measure implicit online processing of these mappings").
+- **Collection Procedures**:
+ - Detail step-by-step how you will collect data (e.g., "1) Proficiency screening via DELE test; 2) GJT administered via Qualtrics (30 minutes); 3) self-paced reading task via E-Prime (45 minutes); 4) post-task questionnaire to confirm no explicit instruction").
+ - For each task, provide specific design details (e.g., GJT: 40 items, 20 critical aspectual pairs, 20 distractors; self-paced reading: 30 critical sentences, 30 fillers, segment length matched across conditions).
+- **Ethical Considerations**:
+ - Outline steps to ensure ethical research (e.g., informed consent, anonymization of data, voluntary participation, confidentiality of records, debriefing).
+ - Align with academic ethical standards (e.g., "Participants will sign a consent form outlining the study’s purpose, data usage, and right to withdraw at any time without penalty; all data will be labeled with participant IDs, and personal information will be stored separately in a password-protected server").
+
+#### 5.3 Data Analysis
+- **Step-by-Step Protocol**: Outline a detailed, generatively informed analysis plan that directly addresses your research question.
+ - For quantitative data (e.g., GJT scores, RTs):
+ - Specify statistical tests and justify their use (e.g., "Repeated-measures ANOVA to compare GJT accuracy across aspectual contexts (completion vs. non-completion); linear mixed-effects models (LMMs) for self-paced reading RTs, with ‘aspectual congruence’ (fixed factor) and ‘participant’ (random factor) to account for individual variation").
+ - Define dependent/independent variables (e.g., Dependent variable: GJT accuracy; Independent variables: proficiency group, aspectual context).
+ - For qualitative data (e.g., production errors):
+ - Specify coding schemes grounded in generative theory (e.g., "Errors coded as feature misassembly (e.g., Preterit + ongoing context = [+perfective] misassigned) vs. retrieval failures (e.g., Preterit morphology omitted in completion context)").
+ - Triangulation: Explain how you will integrate different data types (e.g., "GJT accuracy will be correlated with RT differences in self-paced reading to test whether representational knowledge predicts online processing, as predicted by UG-driven accounts").
+- **Generative Interpretation**: Clarify how different results would map to generative hypotheses (e.g., "If advanced learners show nativelike GJT accuracy and RT differences, this supports FRH; if they show low accuracy across all tasks, this supports RDH").
+
+### 6. Results and Discussions (Optional)
+- **Expected Results**: Hypothesize plausible results based on generative theory and previous research (e.g., "Advanced learners will show ≥85% GJT accuracy on aspectual contrasts and significantly longer RTs for ungrammatical mismatches, while intermediates will show 65–75% accuracy and marginal RT differences").
+- **Generative Discussion**: Interpret how expected results would advance generative SLA theory (e.g., "Nativelike performance in advanced learners would confirm that universal aspectual features can be reassembled to L2-specific morphology, supporting UG accessibility and FRH").
+- **Alternative Results**: Address potential alternative outcomes (e.g., "If advanced learners show persistent errors, this would suggest a representational deficit for [+perfective] features, aligning with RDH").
+- **Limitations**: Acknowledge methodological or theoretical limitations (e.g., "Small sample size limits generalizability; future studies could include a longitudinal design to track feature reassembly over time").
+
+### 7. Conclusion (Optional)
+- **Summary of Purpose**: Restate the core generative question and purpose of your study.
+- **Theoretical Contributions**: Emphasize how your study advances generative SLA theory (e.g., "This study provides novel evidence for UG-driven feature reassembly in aspectual acquisition, resolving conflicting findings in previous research and extending FRH to a new L1-L2 pair").
+- **Future Directions**: Suggest follow-up research (e.g., "Future studies could investigate feature reassembly of [+modality] features or test the effect of explicit instruction on reassembly, addressing remaining gaps in generative SLA").
+- **Practical Implications (Optional)**: If relevant, briefly note implications for L2 teaching grounded in generative theory (e.g., "Teaching should focus on form-meaning mappings (e.g., Preterit = completion) rather than explicit feature rules, as learners already have access to universal aspectual features via UG").
+
+### 8. References
+- Include a comprehensive list of scholarly sources (minimum 15) focused on generative SLA theory and empirical research.
+- Prioritize peer-reviewed journal articles, book chapters, and monographs (e.g., Chomsky, Slabakova, White, Hawkins, Ionin).
+- Follow a consistent citation style (APA 7th edition, MLA 9th edition, or Chicago) and ensure all in-text citations correspond to the reference list.
+
+## Evaluation Criteria
+Your proposal will be evaluated based on:
+1. **Generative Alignment**: Clarity of generative theoretical focus and alignment with core generative SLA principles.
+2. **Literature Engagement**: Critical synthesis of relevant generative theory and empirical research, with clear identification of gaps.
+3. **Research Question**: Specificity, generative relevance, and direct connection to identified gaps.
+4. **Methodological Rigor**: Appropriateness of methods for testing generative constructs, clear operationalization, and justified analysis plan.
+5. **Coherence**: Logical flow between sections, with each component building toward answering the research question.
+6. **Scholarly Writing**: Precision in theoretical and methodological description, adherence to academic conventions, and proper citation.
+
+## Suggested Generative SLA Topics (For Inspiration)
+You may choose any topic aligned with generative SLA—below are examples to guide you:
+- UG accessibility in L2 acquisition of syntactic features (e.g., [person], [number], [tense], [aspect])
+- Parameter setting in L2 acquisition (e.g., head direction, wh-movement, NPI licensing parameters)
+- Feature reassembly in L2 functional morphology (e.g., agreement, tense-aspect, articles)
+- L2 acquisition of semantic-pragmatic interfaces (e.g., scalar implicatures, presuppositions, genericity)
+- Cross-linguistic influence (CLI) in UG-constrained L2 development (e.g., L1 feature transfer vs. UG resetting)
+- Representational vs. processing accounts of L2 errors (e.g., missing surface inflection vs. feature deficits)
+- L2 acquisition of complex syntactic structures (e.g., relative clauses, passives, wh-interrogatives)
+- Poverty of the Stimulus (POS) in L2 semantic/syntactic acquisition (e.g., unavailable meanings, parameter setting without input)
+
+## Formatting Requirements
+- Length: 3,000–4,000 words (excluding references)
+- Font: 12-point Times New Roman, double-spaced
+- Margins: 1-inch (2.54 cm) on all sides
+- Citations: Consistent academic style (APA 7th, MLA 9th, or Chicago)
+- File Format: PDF or Word document, named as "Last Name_First Name_Generative SLA Proposal"
+
 
 --&gt;</description></item></channel></rss>
