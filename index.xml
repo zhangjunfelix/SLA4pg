@@ -478,146 +478,16 @@ Draft the **Methods &amp; Analysis** section for your final proposal (≈300–4
 ### 🧭 Preview of Week 12
 We close with **teaching implications** and the **Bottleneck Hypothesis**—how theory-driven evidence about morphology, syntax, and processing informs **focus on form** in the classroom.
 
---&gt;</description></item><item><title>Term Research Proposal Guidelines: Generative Second Language Acquisition (SLA)</title><link>https://zjpsycholin.github.io/SLA4pg/termproposal/</link><pubDate>Sat, 20 Sep 2025 15:00:00 +0800</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/termproposal/</guid><description>&lt;!--
-# Term Research Proposal Guidelines: Generative Second Language Acquisition (SLA)
-## Overview
-This assignment requires postgraduate students to design a small-scale original research study grounded in **generative linguistic perspectives on SLA**. Your proposal must address a specific research gap in generative SLA, pose clear research questions tied to course themes, and outline a methodologically rigorous design justified by scholarly literature. The goal is to demonstrate your mastery of generative SLA theory, critical engagement with existing research, and ability to translate theoretical questions into empirical inquiry.
-
-## Core Principles for Generative SLA Research
-Your proposal must align with the core tenets of generative SLA, which focuses on:
-- Accessibility of Universal Grammar (UG) in adult L2 learning
-- Acquisition of syntactic/semantic features, parameters, and functional categories
-- Form-meaning mappings and feature reassembly (not just surface-level performance)
-- Representational vs. processing accounts of L2 development
-- Cross-linguistic influence (CLI) in the context of UG constraints
-
-## Mandatory Structure &amp; Detailed Guidelines
-Follow the structure below, with each section addressing the specific requirements outlined. All content must reflect a generative linguistic framework—avoid sociocultural, behavioral, or purely pedagogical approaches unless they explicitly interface with generative theory.
-
-### 1. Topic of Your Term Paper
-- **Concise Statement**: Provide a 1–2 sentence overview of your research topic, clearly identifying the generative construct(s) and L2 phenomenon under investigation.
-- **Generative Focus**: Explicitly name the core generative concept(s) your study addresses (e.g., UG accessibility, parameter setting, feature reassembly, NPI licensing, agreement morphology, relative clause acquisition, scalar implicatures).
-- **Example**: "An investigation of Universal Grammar access in L2 acquisition of English relative clause parameters by Korean L1 learners, focusing on feature reassembly of [+wh-movement]."
-- **Do Not**: Present a topic without clear generative anchors (e.g., avoid "Improving L2 English writing accuracy"—this lacks generative theoretical focus).
-
-### 2. Introduction
-#### 2.1 General Problem (Generative Context)
-- Define the **theoretical problem** in generative SLA that your study addresses. This should not be a practical pedagogical problem but a question about L2 linguistic representation/development.
-- Ground the problem in core generative debates (e.g., UG accessibility vs. representational deficits; parameter resetting vs. L1 transfer; feature reassembly vs. feature learning).
-- Explain why this problem matters for generative SLA theory (e.g., "The debate over whether adult L2 learners can reset UG parameters to L2-specific values remains unresolved, with conflicting evidence from feature-based vs. processing-based studies").
-- **Example**: "Within generative SLA, the acquisition of functional categories (e.g., Tense, Agreement) by L1s lacking overt morphological realization (e.g., Mandarin) raises critical questions about UG accessibility. If UG is accessible, learners should represent these categories despite L1 absence; if not, they will show permanent representational deficits (Hawkins &amp; Chan, 1997). This debate has implications for theories of L2 syntactic development and the nature of UG in adulthood."
-
-#### 2.2 Study Purpose
-- Explain how your research will address the theoretical problem identified above.
-- Specify the **generative construct(s)** you will investigate (e.g., "This study aims to test the Feature Reassembly Hypothesis (Slabakova, 2009) by examining how Mandarin L1 learners map universal [tense] features to English overt morphological markers (-ed, will)").
-- Clarify the **cross-linguistic context** (e.g., L1-L2 pair) and why it is relevant for testing your generative question (e.g., "Mandarin L1 lacks overt tense morphology, making it an ideal test case for distinguishing between representational deficits (RDH) and feature reassembly (FRH)").
-- **Do Not**: Frame the purpose as "improving L2 teaching"—focus on theoretical advancement, with practical implications (if any) reserved for later sections.
-
-### 3. Literature Review
-#### 3.1 Previous Scholarly Literature on the Problem
-- **Theoretical Frameworks**: Review key generative theories relevant to your topic (e.g., Minimalist Program, Principles and Parameters, Feature Reassembly Hypothesis, Failed Functional Features Hypothesis, Missing Surface Inflection Hypothesis).
- - Explain how each framework conceptualizes your target phenomenon (e.g., "Slabakova’s (2009) FRH posits that L2 learners do not acquire new features but reassemble universal features into L2-specific bundles, while Hawkins &amp; Chan’s (1997) RDH argues that uninterpretable features are unacquirable if L1 lacks overt realization").
-- **Empirical Findings**: Summarize key generative SLA studies that have investigated your topic or related constructs.
- - Focus on studies with similar L1-L2 pairs, target features, or methodologies (e.g., "Ionin et al.’s (2004) study of English article acquisition by Russian/Korean L1 learners found evidence of parameter fluctuation, supporting UG accessibility; however, Liu’s (2016) study of Mandarin L1 learners reported persistent errors, aligning with RDH").
- - Highlight consistent and conflicting findings (e.g., "While some studies (Slabakova, 2003) report nativelike feature reassembly in advanced learners, others (Hawkins, 2001) find permanent deficits—this discrepancy underscores the need for further research").
-- **Methodological Approaches**: Review the methods used in previous generative studies (e.g., grammaticality judgment tasks, self-paced reading, eye-tracking, elicited production) and their strengths/limitations for testing your target construct.
-
-#### 3.2 Theoretical or Methodological Gaps
-- **Theoretical Gaps**: Identify unresolved questions in generative SLA theory that your study addresses (e.g., "No study has tested FRH for [+aspect] features in L2 Spanish acquisition by Mandarin L1 learners, leaving unclear whether universal aspectual features can be reassembled to Spanish’s Imperfect/Preterit contrast").
-- **Methodological Gaps**: Highlight limitations in previous empirical work (e.g., "Prior studies rely solely on offline tasks (GJTs) that cannot distinguish between representational knowledge and processing constraints; online measures (e.g., self-paced reading) are needed to triangulate results").
-- **Cross-Linguistic Gaps**: Note understudied L1-L2 pairs or typological contexts (e.g., "Most research on parameter setting focuses on Indo-European L1s; little is known about how learners from isolating languages (e.g., Vietnamese) acquire head-initial vs. head-final parameters in L2 English").
-- **Justify the Gap**: Explain why these gaps matter for generative SLA theory (e.g., "Resolving this gap will clarify whether UG-driven feature reassembly is possible for aspectual features, informing debates about the scope of UG in adult L2 learning").
-
-#### 3.3 How Your Study Differs
-- Explicitly connect your study to the identified gaps (e.g., "Unlike previous offline-only studies, this research uses a mixed-methods design (GJT + self-paced reading) to distinguish between representational and processing accounts of L2 [+aspect] acquisition").
-- Explain how your study advances generative SLA theory (e.g., "By testing FRH in a new L1-L2 pair (Mandarin → Spanish), this study provides novel evidence for the universality of feature reassembly, addressing the cross-linguistic gap in existing research").
-- Clarify how your research question(s) directly target the gap (e.g., "This study’s research question—‘Do Mandarin L1 learners of Spanish reassemble universal [+perfective] features to Spanish Preterit morphology?’—directly addresses the theoretical gap in FRH research on aspectual acquisition").
-
-### 4. Research Question
-- **Primary Research Question**: Pose 1 specific, answerable research question that tests a generative hypothesis (e.g., "Do advanced Mandarin L1 learners of Spanish show evidence of successful feature reassembly of [+perfective] and [-perfective] features to Spanish Preterit and Imperfect morphology, as measured by grammaticality judgments and online processing?").
-- **Generative Alignment**: Ensure the question focuses on linguistic representation (features, parameters, UG principles) rather than surface-level performance (e.g., avoid "How often do learners use Preterit vs. Imperfect?"—instead ask "Do learners map [+perfective] meaning to Preterit morphology, consistent with UG-driven feature reassembly?").
-- **Secondary Questions (Optional)**: Add 1–2 sub-questions to explore related generative constructs (e.g., "Do intermediate learners show evidence of partial feature reassembly, and does proficiency correlate with successful reassembly?").
-- **Gap Connection**: Explicitly state how the research question(s) fill the gaps identified in Section 3.2 (e.g., "This research question fills the theoretical gap in FRH research on aspectual acquisition by testing feature reassembly in a previously unstudied L1-L2 pair").
-
-### 5. Methodology
-Your methodology must be **generatively informed**—each choice (participants, tasks, analysis) should be justified by how it tests your generative research question (e.g., GJTs to measure representational knowledge; self-paced reading to measure online processing of syntactic/semantic features).
-
-#### 5.1 Research Method
-- **Methodological Foundation**: Specify your overall approach (e.g., quantitative, qualitative, mixed-methods) and its grounding in generative SLA methodology.
- - Cite previous generative studies that use this method (e.g., "This study adopts a mixed-methods cross-sectional design, following Slabakova’s (2016) protocol for testing feature reassembly, which combines offline grammaticality judgments (to measure representation) and online self-paced reading (to measure processing)").
-- **Key Constructs &amp; Operationalized Definitions**:
- - Define all core generative constructs precisely (e.g., "[+perfective] feature: A universal aspectual feature encoding event completion, operationalized as sensitivity to the contrast between Spanish Preterit (encoded [+perfective]) and Imperfect (encoded [-perfective])").
- - Operationalize how you will measure these constructs (e.g., "Successful feature reassembly is operationalized as (1) ≥80% accuracy on GJTs distinguishing Preterit (completion) from Imperfect (non-completion) contexts; (2) significantly longer reading times for ungrammatical aspectual mismatches (e.g., Preterit + ongoing context) in self-paced reading").
- - Avoid vague definitions (e.g., "‘Nativelike performance’ is not acceptable—instead define as ‘performance not significantly different from native controls on target feature measures’").
-
-#### 5.2 Data Collection
-- **Participants**:
- - Specify the L1-L2 pair (e.g., "Mandarin L1 learners of L2 Spanish") and justify why this pair is relevant for your generative question (e.g., "Mandarin lacks overt aspectual morphology, so L2 Spanish aspectual acquisition requires feature reassembly rather than L1 transfer").
- - Define proficiency criteria using a generatively relevant measure (e.g., CEFR levels, standardized tests, or a custom grammar test targeting related functional categories) and justify the choice (e.g., "Intermediate (B1) and advanced (C1) learners are included to track feature reassembly across development, as FRH predicts gradual improvement with proficiency").
- - Sample size: Justify the number of participants (e.g., "30 learners (15 intermediate, 15 advanced) + 10 native controls—sufficient for statistical power in mixed-effects models, following Ionin et al.’s (2004) sample size for generative SLA studies").
- - Inclusion/exclusion criteria: Specify (e.g., "No prior exposure to Indo-European languages; no residence in Spanish-speaking countries &gt;3 months; no formal instruction on Spanish aspectual rules").
-- **Data Type**:
- - Specify the data you will collect (e.g., GJT responses, self-paced reading reaction times, elicited production transcripts) and explain how each data type tests your generative construct (e.g., "GJT data will measure explicit representational knowledge of aspectual feature-morphology mappings; self-paced reading data will measure implicit online processing of these mappings").
-- **Collection Procedures**:
- - Detail step-by-step how you will collect data (e.g., "1) Proficiency screening via DELE test; 2) GJT administered via Qualtrics (30 minutes); 3) self-paced reading task via E-Prime (45 minutes); 4) post-task questionnaire to confirm no explicit instruction").
- - For each task, provide specific design details (e.g., GJT: 40 items, 20 critical aspectual pairs, 20 distractors; self-paced reading: 30 critical sentences, 30 fillers, segment length matched across conditions).
-- **Ethical Considerations**:
- - Outline steps to ensure ethical research (e.g., informed consent, anonymization of data, voluntary participation, confidentiality of records, debriefing).
- - Align with academic ethical standards (e.g., "Participants will sign a consent form outlining the study’s purpose, data usage, and right to withdraw at any time without penalty; all data will be labeled with participant IDs, and personal information will be stored separately in a password-protected server").
-
-#### 5.3 Data Analysis
-- **Step-by-Step Protocol**: Outline a detailed, generatively informed analysis plan that directly addresses your research question.
- - For quantitative data (e.g., GJT scores, RTs):
- - Specify statistical tests and justify their use (e.g., "Repeated-measures ANOVA to compare GJT accuracy across aspectual contexts (completion vs. non-completion); linear mixed-effects models (LMMs) for self-paced reading RTs, with ‘aspectual congruence’ (fixed factor) and ‘participant’ (random factor) to account for individual variation").
- - Define dependent/independent variables (e.g., Dependent variable: GJT accuracy; Independent variables: proficiency group, aspectual context).
- - For qualitative data (e.g., production errors):
- - Specify coding schemes grounded in generative theory (e.g., "Errors coded as feature misassembly (e.g., Preterit + ongoing context = [+perfective] misassigned) vs. retrieval failures (e.g., Preterit morphology omitted in completion context)").
- - Triangulation: Explain how you will integrate different data types (e.g., "GJT accuracy will be correlated with RT differences in self-paced reading to test whether representational knowledge predicts online processing, as predicted by UG-driven accounts").
-- **Generative Interpretation**: Clarify how different results would map to generative hypotheses (e.g., "If advanced learners show nativelike GJT accuracy and RT differences, this supports FRH; if they show low accuracy across all tasks, this supports RDH").
-
-### 6. Results and Discussions (Optional)
-- **Expected Results**: Hypothesize plausible results based on generative theory and previous research (e.g., "Advanced learners will show ≥85% GJT accuracy on aspectual contrasts and significantly longer RTs for ungrammatical mismatches, while intermediates will show 65–75% accuracy and marginal RT differences").
-- **Generative Discussion**: Interpret how expected results would advance generative SLA theory (e.g., "Nativelike performance in advanced learners would confirm that universal aspectual features can be reassembled to L2-specific morphology, supporting UG accessibility and FRH").
-- **Alternative Results**: Address potential alternative outcomes (e.g., "If advanced learners show persistent errors, this would suggest a representational deficit for [+perfective] features, aligning with RDH").
-- **Limitations**: Acknowledge methodological or theoretical limitations (e.g., "Small sample size limits generalizability; future studies could include a longitudinal design to track feature reassembly over time").
-
-### 7. Conclusion (Optional)
-- **Summary of Purpose**: Restate the core generative question and purpose of your study.
-- **Theoretical Contributions**: Emphasize how your study advances generative SLA theory (e.g., "This study provides novel evidence for UG-driven feature reassembly in aspectual acquisition, resolving conflicting findings in previous research and extending FRH to a new L1-L2 pair").
-- **Future Directions**: Suggest follow-up research (e.g., "Future studies could investigate feature reassembly of [+modality] features or test the effect of explicit instruction on reassembly, addressing remaining gaps in generative SLA").
-- **Practical Implications (Optional)**: If relevant, briefly note implications for L2 teaching grounded in generative theory (e.g., "Teaching should focus on form-meaning mappings (e.g., Preterit = completion) rather than explicit feature rules, as learners already have access to universal aspectual features via UG").
-
-### 8. References
-- Include a comprehensive list of scholarly sources (minimum 15) focused on generative SLA theory and empirical research.
-- Prioritize peer-reviewed journal articles, book chapters, and monographs (e.g., Chomsky, Slabakova, White, Hawkins, Ionin).
-- Follow a consistent citation style (APA 7th edition, MLA 9th edition, or Chicago) and ensure all in-text citations correspond to the reference list.
-
-## Evaluation Criteria
-Your proposal will be evaluated based on:
-1. **Generative Alignment**: Clarity of generative theoretical focus and alignment with core generative SLA principles.
-2. **Literature Engagement**: Critical synthesis of relevant generative theory and empirical research, with clear identification of gaps.
-3. **Research Question**: Specificity, generative relevance, and direct connection to identified gaps.
-4. **Methodological Rigor**: Appropriateness of methods for testing generative constructs, clear operationalization, and justified analysis plan.
-5. **Coherence**: Logical flow between sections, with each component building toward answering the research question.
-6. **Scholarly Writing**: Precision in theoretical and methodological description, adherence to academic conventions, and proper citation.
-
-## Suggested Generative SLA Topics (For Inspiration)
-You may choose any topic aligned with generative SLA—below are examples to guide you:
-- UG accessibility in L2 acquisition of syntactic features (e.g., [person], [number], [tense], [aspect])
-- Parameter setting in L2 acquisition (e.g., head direction, wh-movement, NPI licensing parameters)
-- Feature reassembly in L2 functional morphology (e.g., agreement, tense-aspect, articles)
-- L2 acquisition of semantic-pragmatic interfaces (e.g., scalar implicatures, presuppositions, genericity)
-- Cross-linguistic influence (CLI) in UG-constrained L2 development (e.g., L1 feature transfer vs. UG resetting)
-- Representational vs. processing accounts of L2 errors (e.g., missing surface inflection vs. feature deficits)
-- L2 acquisition of complex syntactic structures (e.g., relative clauses, passives, wh-interrogatives)
-- Poverty of the Stimulus (POS) in L2 semantic/syntactic acquisition (e.g., unavailable meanings, parameter setting without input)
-
-## Formatting Requirements
-- Length: 3,000–4,000 words (excluding references)
-- Font: 12-point Times New Roman, double-spaced
-- Margins: 1-inch (2.54 cm) on all sides
-- Citations: Consistent academic style (APA 7th, MLA 9th, or Chicago)
-- File Format: PDF or Word document, named as "Last Name_First Name_Generative SLA Proposal"
-
-
---&gt;</description></item></channel></rss>
+--&gt;</description></item><item><title>Term Research Proposal Guidelines: Generative Second Language Acquisition (SLA)</title><link>https://zjpsycholin.github.io/SLA4pg/termproposal/</link><pubDate>Sat, 20 Sep 2025 15:00:00 +0800</pubDate><guid>https://zjpsycholin.github.io/SLA4pg/termproposal/</guid><description>&lt;h1 id="term-research-proposal-guidelines"&gt;
+ Term Research Proposal Guidelines
+ &lt;a class="anchor" href="#term-research-proposal-guidelines"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="generative-second-language-acquisition-sla"&gt;
+ Generative Second Language Acquisition (SLA)
+ &lt;a class="anchor" href="#generative-second-language-acquisition-sla"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h2 id="1-overview"&gt;
+ 1. Overview
+ &lt;a class="anchor" href="#1-overview"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This assignment requires you to design a &lt;strong&gt;small-scale original research proposal grounded in generative approaches to SLA&lt;/strong&gt;. Your proposal should identify a clear theoretical problem in generative SLA, formulate well-defined research questions, and outline a methodologically appropriate study informed by existing generative literature. The goal is to demonstrate your ability to connect &lt;strong&gt;generative theory&lt;/strong&gt; with &lt;strong&gt;empirical research design&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
