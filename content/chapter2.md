@@ -1,12 +1,12 @@
 +++
-title = "Week 2 — Ch.2: Language Variation"
+title = "Ch.2: Language Variation"
 date = '2025-03-16T14:08:52-04:00'
 weight = 4
 draft = false
 +++
 
 
-## Week 2 — Language Variation & the Learning Task"
+## Chapter 2 — Language Variation & the Learning Task"
 
 **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 2: Language variation**.   
 [Link to Chapter 2](/SLA4pg/pdfs/C2_LanguageVariation.pdf)

@@ -33,62 +33,61 @@ BookPathBase = ""   # keep empty
     weight = 2
 
   [[menu.main]]
-    name = "Week 1"
-    url = "week1/"
+    name = "Chapter 1"
+    url = "chapter1/"
     weight = 3
 
   [[menu.main]]
-    name = "Week 2"
-    url = "week2/"
+    name = "Chapter 2"
+    url = "chapter2/"
     weight = 4
 
   [[menu.main]]
-    name = "Week 3"
-    url = "week3/"
+    name = "Chapter 3"
+    url = "chapter3/"
     weight = 5
 
   [[menu.main]]
-    name = "Week 4"
-    url = "week4/"
+    name = "Chapter 4"
+    url = "chapter4/"
     weight = 6
 
   [[menu.main]]
-    name = "Week 5"
-    url = "week5/"
+    name = "Questionset1"
+    url = "questionset1/"
     weight = 7
 
   [[menu.main]]
-    name = "Week 6"
-    url = "week6/"
+    name = "Chapter 7"
+    url = "chapter7/"
     weight = 8
 
   [[menu.main]]
-    name = "Week 7"
-    url = "week7/"
+    name = "Chapter 8"
+    url = "chapter8/"
     weight = 9
 
   [[menu.main]]
-    name = "Week 8"
-    url = "week8/"
+    name = "Chapter 9"
+    url = "chapter9/"
     weight = 10
 
   [[menu.main]]
-    name = "Week 9"
-    url = "week9/"
+    name = "Chapter 10"
+    url = "chapter10/"
     weight = 11
 
   [[menu.main]]
-    name = "Week 10"
-    url = "week10/"
+    name = "Chapter 11"
+    url = "chapter11/"
     weight = 12
 
   [[menu.main]]
-    name = "Week 11"
-    url = "week11/"
+    name = "Chapter 12"
+    url = "chapter12/"
     weight = 13
 
   [[menu.main]]
-    name = "Week 12"
-    url = "week12/"
+    name = "Term Research Proposal"
+    url = "termproposal/"
     weight = 14
-

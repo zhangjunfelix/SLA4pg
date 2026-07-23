@@ -52,15 +52,16 @@ Some background in linguistics helps, but the course scaffolds everything you ne
   - Methods micro-lab (turn claim → prediction → task)  
   -  Case application + teaching takeaways
 
-Short weekly notes keep you engaged; one methods assignment builds your toolkit; a final **research proposal** caps it off.
+<!-- Short weekly notes keep you engaged; one methods assignment builds your toolkit; a final **research proposal** caps it off.
+-->
 
 ---
 
-## Why this course is different
+<!-- ## Why this course is different
 
 We don’t just *talk* about studies—we **build** them. Every week you’ll craft a tiny, testable design. By Week 12, you’ll have a proposal you can take to a thesis, a classroom, or a pilot study.
+-->
 
----
 
 ## What we read
 

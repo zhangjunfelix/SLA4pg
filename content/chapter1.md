@@ -1,11 +1,11 @@
 +++
-title = "Week 1 - Ch.1: Language architecture"
+title = "Ch.1: Language architecture"
 date = '2025-03-11T14:08:52-04:00'
 weight = 3
 draft = false
 +++
 
-## Week 1 — Language Architecture & SLA as a Science
+## Chapter 1 — Language Architecture & SLA as a Science
 
 
 

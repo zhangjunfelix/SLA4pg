@@ -1,11 +1,11 @@
 +++
-title = "Week 3 - Ch.3: THE PSYCHOLOGICAL REALITY OF LANGUAGE IN USE"
+title = "Ch.3: The Psychological Reality of Language in Use"
 date = '2025-03-18T15:31:40-04:00'
 weight = 5
 draft = false
 +++
 
-## Week 3 — THE PSYCHOLOGICAL REALITY OF LANGUAGE IN USE
+## Chapter 3 — The Psychological Reality of Language in Use
 
 
  **Anchor text**: Slabakova, R. (2016). *Second Language Acquisition*. **Chapter 3: The psychological reality of language in use**.    
@@ -44,7 +44,7 @@ By the end of Week 3 you should be able to:
 
 ---
 
-## CHAPTER 3: THE PSYCHOLOGICAL REALITY OF LANGUAGE IN USE  
+## Lecture notes  
 **Core Goal**: Understand how the brain processes language (speech/reading) and links linguistic structure to psychology—critical for language learning.  
 
 
