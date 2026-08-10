@@ -9,7 +9,7 @@ weight = 2
 
 **Note**: This syllabus outlines the plan for a 12-week, seminar-style course. Minor adjustments may be made as we progress.
 
-Course website: https://zjpsycholin.github.io/SLA4pg/      
+Course website: https://zhangjunfelix.github.io/SLA4pg/      
 Instructor email: jzhang3@ahu.edu.cn 
 
 ### Course Description
