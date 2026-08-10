@@ -1,13 +1,12 @@
-baseURL = "https://zjpsycholin.github.io/SLA4pg/"
+baseURL = "https://zhangjunfelix.github.io/SLA4pg/"
 publishDir = "public"
 relativeURLs = false
 canonifyURLs = false
 
 [params]
-BookSection = "*"
-BookToC = true
-BookPathBase = ""   # keep empty
-
+  BookSection = "*"
+  BookToC = true
+  BookPathBase = ""
 
 [module]
   [[module.imports]]
@@ -18,76 +17,69 @@ BookPathBase = ""   # keep empty
     [markup.goldmark.renderer]
       unsafe = true
 
+# Main navigation
 
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
 
-# Menus configuration
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = ""
-    weight = 1
+[[menu.main]]
+  name = "Syllabus"
+  pageRef = "/syllabus"
+  weight = 2
 
-  [[menu.main]]
-    name = "Syllabus"
-    url = "syllabus/"
-    weight = 2
+[[menu.main]]
+  name = "Chapter 1"
+  pageRef = "/chapter1"
+  weight = 3
 
-  [[menu.main]]
-    name = "Chapter 1"
-    url = "chapter1/"
-    weight = 3
+[[menu.main]]
+  name = "Chapter 2"
+  pageRef = "/chapter2"
+  weight = 4
 
-  [[menu.main]]
-    name = "Chapter 2"
-    url = "chapter2/"
-    weight = 4
+[[menu.main]]
+  name = "Chapter 3"
+  pageRef = "/chapter3"
+  weight = 5
 
-  [[menu.main]]
-    name = "Chapter 3"
-    url = "chapter3/"
-    weight = 5
+[[menu.main]]
+  name = "Chapter 4"
+  pageRef = "/chapter4"
+  weight = 6
 
-  [[menu.main]]
-    name = "Chapter 4"
-    url = "chapter4/"
-    weight = 6
+[[menu.main]]
+  name = "Question Set 1"
+  pageRef = "/questionset1"
+  weight = 7
 
-  [[menu.main]]
-    name = "Questionset1"
-    url = "questionset1/"
-    weight = 7
+[[menu.main]]
+  name = "Chapter 7"
+  pageRef = "/chapter7"
+  weight = 8
 
-  [[menu.main]]
-    name = "Chapter 7"
-    url = "chapter7/"
-    weight = 8
+[[menu.main]]
+  name = "Chapter 8"
+  pageRef = "/chapter8"
+  weight = 9
 
-  [[menu.main]]
-    name = "Chapter 8"
-    url = "chapter8/"
-    weight = 9
+[[menu.main]]
+  name = "Chapter 10"
+  pageRef = "/chapter10"
+  weight = 10
 
-  [[menu.main]]
-    name = "Chapter 9"
-    url = "chapter9/"
-    weight = 10
+[[menu.main]]
+  name = "Chapter 11"
+  pageRef = "/chapter11"
+  weight = 11
 
-  [[menu.main]]
-    name = "Chapter 10"
-    url = "chapter10/"
-    weight = 11
+[[menu.main]]
+  name = "Chapter 12"
+  pageRef = "/chapter12"
+  weight = 12
 
-  [[menu.main]]
-    name = "Chapter 11"
-    url = "chapter11/"
-    weight = 12
-
-  [[menu.main]]
-    name = "Chapter 12"
-    url = "chapter12/"
-    weight = 13
-
-  [[menu.main]]
-    name = "Term Research Proposal"
-    url = "termproposal/"
-    weight = 14
+[[menu.main]]
+  name = "Term Research Proposal"
+  pageRef = "/termproposal"
+  weight = 13
